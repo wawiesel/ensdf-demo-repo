@@ -94,4 +94,10 @@ Date:   Wed Jan 24 17:33:51 2018 -0500
 
 ```
 
+I created two releases. For each you can directly download all the 
+zipped files at the state of that release, e.g. :
+https://github.com/wawiesel/ensdf-demo-repo/archive/2017-10-01.zip.
+
+
+
 
