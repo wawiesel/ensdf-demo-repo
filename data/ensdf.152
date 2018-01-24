@@ -684,18 +684,60 @@
 152BA cL $Probability of misidentification of {+152}Ba isotope<0.001% (2010Oh02)
 152BA cL $Calculated %|b{+-}n=5.7 (1997Mo25); 4.5 (2002Pf04)                    
                                                                                 
-152LA    ADOPTED LEVELS                                          13NDS    201311
-152LA  H TYP=FUL$AUT=M. J. MARTIN$CIT=NDS 114, 1497 (2013)$CUT=31-Aug-2013$     
-152LA  Q  9520     SY 3880   SY 11430  SY              2012WA38                 
-152LA CQ $THE UNCERTAINTIES IN THE SYSTEMATICS Q VALUES ARE 360, 360, AND       
-152LA2CQ 420 KEV FOR Q-, SN, AND SP, RESPECTIVELY                               
-152LA cL           Assignment: Pb({+238}U,F) E=750A MeV; identification by      
-152LA2cL |b|r-|DE - tof techniques (1994Be24)                                   
-152LA  L   0.0                          150 NS   GT                            S
-152LA2 L %B-=100                                                                
-152LA cL T         flight time of fission fragment (1994Be24). Nuclei were      
-152LA2cL detected in an in-beam experiment, therefore T{-1/2} must be greater   
-152LA3cL than the flight time to the detector                                   
+152LA    COMMENTS                                                ENSDF    201704
+152LA  H TYP=FUL$AUT=FILIP G. KONDEV$CIT=ENSDF$CUT=20-Feb-2017$                 
+152LA C  TITL$NUCLEAR DATA SHEETS FOR 152LA                                     
+152LA c  AUTH$FILIP G. KONDEV                                                   
+152LA c  INST$Nuclear Engineering Division                                      
+152LA#c       Argonne National Laboratory                                       
+152LA#c       9700 South Cass Avenue                                            
+152LA#c       Argonne, Illinois 60439, USA                                      
+152LA c  ABST$Information about the nuclear structure properties of the         
+152LA2c  {+152}La nuclide is presented                                          
+152LA c  CUT$Literature available up to February 20, 2017 has been consulted.   
+152LA c  FUND$This work is supported by the Office of Nuclear Physics, Office   
+152LA1c  of Science, U.S. Department of Energy under contract DE-AC02-06CH11357.
+152LA C  CIT$ENSDF                                                              
+                                                                                
+152LA    ADOPTED LEVELS                                                   201704
+152LA  H TYP=FUL$AUT=FILIP G. KONDEV$CIT=ENSDF$CUT=20-Feb-2017$                 
+152LA  Q 9520      SY 3880   SY 11434  SY -4665  SY    2012WA38                 
+152LA cQ $Estimated uncertainties (2012Wa38): |DQ(|b{+-})=357, |DS(n)=357,      
+152LA2cQ |DS(p)=422, |DS(|a)=648                                                
+152LA cQ $S(2n)=9296 {I357}, S(2p)=25299 {I422}, Q(|b{+-}n)=3617 {I299}         
+152LA2cQ from 2012Wa38.                                                         
+152LA c  2017Wu04: The {+152}La nuclide was produced at the RIBF-RIKEN facility 
+152LA2c  using the {+9}Be({+238}U,F) reaction at E=345 MeV/nucleon.  Two        
+152LA3c  experiments, optimized for the transmission of {+158}Nd and {+170}Dy   
+152LA4c  ions, were carried out with average beam intensities of 7 pnA and 12   
+152LA5c  pnA, respectively. The identification of the nuclide of interest was   
+152LA6c  made in the BigRIPS separator by determining the atomic number and the 
+152LA7c  mass-to-charge ratio of the ion using the TOF-B|r-|DE method. The      
+152LA8c  reaction products were transported through the ZeroDegree Spectrometer 
+152LA9c  and implanted into the beta-counting system WAS3ABi that was surrounded
+152LAac  by the EURICA array comprising of 84 HPGe detectors. The typical       
+152LAbc  implantation rate was ~~100 ions/s.  Measured: implanted ion-|b{+-}-t, 
+152LAcc  implanted ion-|b{+-}-|g-t and implanted ions-|g-t correlations.        
+152LAdc  Deduced: T{-1/2}.                                                      
+152LA c  1994Be24: Identification in reaction: Pb({+238}U,F) at                 
+152LA2c  750 MeV/nucleon. Residual products Fragment Recoil Separator           
+152LA3c  (FRS), time-of-flight technique.                                       
+152LA  L 0.0          (2-)             0.298 S   +6-23                          
+152LA2 L %B-=100 $ %B-N=?                                                       
+152LA cL %B-$Only |b{+-} decay mode is expected.                                
+152LA cL J$From systematics of known quasiparticle states in neighboring nuclei 
+152LA2cL and the proposed configuration (by the evaluator). The assignment is   
+152LA3cL tentative.                                                             
+152LA cL T$From 2017Wu04, using a fit to the implanted ion-|b{+-}-t spectrum    
+152LA2cL using the least-squares and maximum-likelihood methods. The data       
+152LA3cL analysis included contributions from the parent, daughter and          
+152LA4cL grand-daughter decays, as well as a constant background.               
+152LA cL CONF$From systematics of well-deformed nuclei in this mass region, the 
+152LA2cL |p1/2[420] and |n3/2[521] Nilsson orbitals are expected near the proton
+152LA3cL and neutron Fermi surfaces, respectively. Thus, using the              
+152LA4cL Gallagher-Moszkowski rule, one may expect the K|p=2-,                  
+152LA5cL |p1/2[420]~#|n3/2[521] configuration for the ground state.             
+152LA3cL The assignment is tentative and it is made by the evaluator.           
                                                                                 
 152CE    ADOPTED LEVELS, GAMMAS                                  13NDS    201311
 152CE  H TYP=FUL$AUT=M. J. MARTIN$CIT=NDS 114, 1497 (2013)$CUT=31-Aug-2013$     

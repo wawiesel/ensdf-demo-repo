@@ -10320,6 +10320,8 @@
  56NI  G 1653.1    4   5.9   13                                              C  
                                                                                 
  56NI    57ZN ECP DECAY:47 MS          2007BL09,2002JO09         11NDS    201105
+ 56NI  H TYP=ERR$AUT=E.A. MCCUTCHAN$CIT=ENSDF$DAT=27-SEPT-2016$                 
+ 56NI2 H COM=CORRECTED NP VALUE$                                                
  56NI  H TYP=FUL$AUT=HUO JUNDE, HUO SU, YANG DONG$CIT=NDS 112, 1513 (2011)$     
  56NI2 H CUT=29-Oct-2009$                                                       
  56NI c  2007Bl09: {+57}Zn nuclei produced in a fragmentation of {+70}Ge{++28}  
@@ -10329,8 +10331,8 @@
  56NI c  2002Jo09: {+57}Zn nuclei produced in the reaction {+28}Si({+32}S,3n).  
  56NI2c  The beam energy was 150 MeV. Measured decay events by implanting       
  56NI3c  nuclei in a carbon foil.                                               
- 56NI c  1976VI02: {+57}Zn nuclei produced in the reaction {+40}Ca({+20}Ne,3n). 
- 56NI2C  The beam energy was 70 MeV. Measured decay events by DE-E TELESCOPE,   
+ 56NI c  1976Vi02: {+57}Zn nuclei produced in the reaction {+40}Ca({+20}Ne,3n). 
+ 56NI2c  The beam energy was 70 MeV. Measured decay events by |DE-E telescope,  
  56NI3c  implanting nuclei in a carbon foil.                                    
  57ZN  P 0.0         7/2-              43 MS     3              13815     SY    
  57ZN cP QP$ 13815 {I103} (syst,2003Au03).                                      
@@ -10338,7 +10340,7 @@
  57ZN2cP neighboring nuclides.                                                  
  57ZN cP T$ from weighted average value of 48 ms {I3} (2007Bl09),               
  57ZN2cP 37 ms {I5} (2002Lo13), and 40 ms {I10} (1976Vi02).                     
- 56NI  N                        0.78   17                0.78 17                
+ 56NI  N                        0.78   17                0.24 5                 
  56NI cN BR$%|ep=78 {I17} (2007Bl09)                                            
  56NI cDPE$ From 2002Jo09, unless otherwise stated, in the center-of-mass system
  56NI cDPIP$ From 2002Jo09. Absolute values for four branches are measured      
@@ -10348,8 +10350,8 @@
  56NI  DP 1685     17 4       2  2395                                           
  56NI  DP 1836     15 36      6  2525                                           
  56NI  DP 2540     20 66      8  3236                                       A   
- 56NI cDPE$ 2560 {I50} (2007Bl09), 2580 {I50} (1976VI02)                        
- 56NI cDPIP$ 13% {I2} (2007Bl09), 50% (1976VI02)                                
+ 56NI cDPE$ 2560 {I50} (2007Bl09), 2580 {I50} (1976Vi02)                        
+ 56NI cDPIP$ 13% {I2} (2007Bl09), 50% (1976Vi02)                                
  56NI  DP 3090     20 25      5  3786                                       A   
  56NI cDPE$ 3130 {I60} (2007Bl09)                                               
  56NI cDPIP$ 6% {I2} (2007Bl09)                                                 
@@ -10358,13 +10360,13 @@
  56NI  DP 3871     26 3       2  4563                                          ?
  56NI  DP 4474     30 7       3  5168                                          ?
  56NI  DP 4610     20 81      9  5314                                       A   
- 56NI cDPE$ 4590 {I50} (2007Bl09), 4650 {I50} (1976VI02)                        
- 56NI cDPIP$ 19% {I2} (2007Bl09), 67% (1976VI02)                                
+ 56NI cDPE$ 4590 {I50} (2007Bl09), 4650 {I50} (1976Vi02)                        
+ 56NI cDPIP$ 19% {I2} (2007Bl09), 67% (1976Vi02)                                
  56NI  L 2700        2+                                                         
  56NI  DP 1168     15 16      4  4563                                           
  56NI  DP 1900     10 100    10  5314                                       A   
- 56NI cDPE$ 1900 {I60} (2007Bl09), 1950 {I50} (1976VI02)                        
- 56NI cDPIP$ 24% {I5} (2007Bl09), 100% (1976VI02)                               
+ 56NI cDPE$ 1900 {I60} (2007Bl09), 1950 {I50} (1976Vi02)                        
+ 56NI cDPIP$ 24% {I5} (2007Bl09), 100% (1976Vi02)                               
                                                                                 
  56NI    9BE(57NI,56NIXG)              2006YU09                  11NDS    201105
  56NI  H TYP=FUL$AUT=HUO JUNDE, HUO SU, YANG DONG$CIT=NDS 112, 1513 (2011)$     

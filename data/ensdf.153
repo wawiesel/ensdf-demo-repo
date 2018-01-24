@@ -491,19 +491,57 @@
 153    R 2005BU21 JOUR NUPAB 756 308                                            
 153    R 2005ST24 JOUR ADNDA 90 75                                              
                                                                                 
-153LA    ADOPTED LEVELS                                          06NDS    200602
-153LA  H TYP=FUL$AUT=R. G. Helmer {+*}$CIT=NDS 107, 507 (2006)$CUT=31-Dec-2005$ 
-153LA  Q 8.8E3     SY4.8E3   SY1.14E4  SY-4.9E3  SY    2012WA38                 
-153LA CQ Note: Current evaluation has used the following Q record               
-153LA  Q   8420    SY  4930  SY  11620 SY -5510  SY    2003AU03                 
-153LA cQ           The estimated uncertainties from systematics (2003Au03)      
-153LA2cQ      are: Q- 720; S(n) 720; S(p) 780; and Q(|a) 630 keV.               
-153LA c  This nuclide was observed in projectile fission of {+238}U at          
-153LA2c       a beam energy of 750 MeV per nucleon with a fragment separator    
-153LA3c       (1997Be12,1994Be24).  No decay or structure data measured.        
-153LA  L    0                          100 NS    GT                             
-153LA cL T         Lower limit is suggested by evaluator from 300 ns transit    
-153LA2cL      time through separator.                                           
+153LA    COMMENTS                                                ENSDF    201704
+153LA  H TYP=FUL$AUT=FILIP G. KONDEV$CIT=ENSDF$CUT=20-Feb-2017$                 
+153LA C  TITL$NUCLEAR DATA SHEETS FOR 153LA                                     
+153LA c  AUTH$FILIP G. KONDEV                                                   
+153LA c  INST$Nuclear Engineering Division                                      
+153LA#c       Argonne National Laboratory                                       
+153LA#c       9700 South Cass Avenue                                            
+153LA#c       Argonne, Illinois 60439, USA                                      
+153LA c  ABST$Information about the nuclear structure properties of the         
+153LA2c  {+153}La nuclide is presented                                          
+153LA c  CUT$Literature available up to February 20, 2017 has been consulted.   
+153LA c  FUND$This work is supported by the Office of Nuclear Physics, Office   
+153LA1c  of Science, U.S. Department of Energy under contract DE-AC02-06CH11357.
+153LA C  CIT$ENSDF                                                              
+                                                                                
+153LA    ADOPTED LEVELS                                                   201704
+153LA  H TYP=FUL$AUT=FILIP G. KONDEV$CIT=ENSDF$CUT=20-Feb-2017$                 
+153LA  Q 8784      SY 4774   SY 11434  SY -4903  SY    2012WA38                 
+153LA cQ $Estimated uncertainties (2012Wa38): |DQ(|b{+-})=357, |DS(n)=422,      
+153LA2cQ |DS(p)=499, |DS(|a)=357                                                
+153LA cQ $S(2n)=8653 {I357}, S(2p)=25961 {I499}, Q(|b{+-}n)=4746 {I357}         
+153LA2cQ from 2012Wa38.                                                         
+153LA c  2017Wu04: The {+153}La nuclide was produced at the RIBF-RIKEN facility 
+153LA2c  using the {+9}Be({+238}U,F) reaction at E=345 MeV/nucleon.  Two        
+153LA3c  experiments, optimized for the transmission of {+158}Nd and {+170}Dy   
+153LA4c  ions, were carried out with average beam intensities of 7 pnA and 12   
+153LA5c  pnA, respectively. The identification of the nuclide of interest was   
+153LA6c  made in the BigRIPS separator by determining the atomic number and the 
+153LA7c  mass-to-charge ratio of the ion using the TOF-B|r-|DE method. The      
+153LA8c  reaction products were transported through the ZeroDegree Spectrometer 
+153LA9c  and implanted into the beta-counting system WAS3ABi that was surrounded
+153LAac  by the EURICA array comprising of 84 HPGe detectors. The typical       
+153LAbc  implantation rate was ~~100 ions/s.  Measured: implanted ion-|b{+-}-t, 
+153LAcc  implanted ion-|b{+-}-|g-t and implanted ions-|g-t correlations.        
+153LAdc  Deduced: T{-1/2}.                                                      
+153LA c  1994Be24: Identification in reaction: Pb({+238}U,F) at                 
+153LA2c  750 MeV/nucleon. Residual products Fragment Recoil Separator           
+153LA3c  (FRS), time-of-flight technique.                                       
+153LA  L 0.0          (1/2+)           0.245 S   18                             
+153LA2 L %B-=100 $ %B-N=?                                                       
+153LA cL %B-$Only |b{+-} decay mode is expected.                                
+153LA cL J$From systematics of known quasiparticle states in neighboring nuclei 
+153LA2cL and the proposed configuration (by the evaluator). The assignment is   
+153LA3cL tentative.                                                             
+153LA cL T$From 2017Wu04, using a fit to the implanted ion-|b{+-}-t spectrum    
+153LA2cL using the least-squares and maximum-likelihood methods. The data       
+153LA3cL analysis included contributions from the parent, daughter and          
+153LA4cL grand-daughter decays, as well as a constant background.               
+153LA cL CONF$|p1/2[420] (d{-5/2}) Nilsson orbital, expected from systematics of
+153LA2cL well-deformed nuclei in the region (by the evaluator).                 
+153LA3cL The assignment is tentative.                                           
                                                                                 
 153CE    ADOPTED LEVELS                                          06NDS    200602
 153CE  H TYP=FUL$AUT=R. G. Helmer {+*}$CIT=NDS 107, 507 (2006)$CUT=31-Dec-2005$ 
@@ -19222,7 +19260,7 @@
 153TM2cL      levels in {+153}Tm. These protons have a continuous energy        
 153TM3cL      spectrum from 2.8 to 5.2 MeV with a mean energy of 3.9 MeV.       
 153TM4cL      The emission is from levels in {+153}Tm from 4 to 6 MeV and       
-153TM5cL      occur following 8E-3% {I2} of the decays of {+153}Yb. (This       
+153TM5cL      occur following 8|*10{+-3}% {I2} of the decays of {+153}Yb. (This 
 153TM6cL      uncertainty is statistical only and does not include several      
 153TM7cL      contributions.) From p-|g coincidences, these protons populate    
 153TM8cL      the following levels in {+152}Er: 0 keV, 0+, 57% {I17};           
@@ -19231,13 +19269,13 @@
 153TM cL J         From authors (1989Ko02) and based on |e and |g decay         
 153TM2cL      modes along with shell-model arguments.                           
 153YB  P 0.0          7/2-             4.2 S     2              6960      SY    
-153YB CP QP$ 6960 200 (SYST,2003AU03)                                           
-153TM  N    0.37               0.50    SY2.0                                    
+153YB cP QP$6960 {I200} (syst,2003Au03)                                         
+153TM  N                       0.50    AP2.0                                    
 153TM cN NR        Gives total of 50% of the parent decays feeding the 0- and   
 153TM2cN      43-keV levels.                                                    
 153TM cN BR        From {+153}Yb Adopted Levels and based on systematics of |a  
 153TM2cN      decay.                                                            
-153TM PN                                 1.0                                 3  
+153TM PN   0.185     0.185                                                   3  
 153TM  L 0.0         (11/2-)                                                    
 153TM cL $ Configuration=|p h{-11/2}                                            
 153TM  L 43.1      2 (1/2+)                                                     

@@ -2272,6 +2272,8 @@
 175YB  G 765.6                                                              Y   
                                                                                 
 175LU    ADOPTED LEVELS, GAMMAS                                  04NDS    200410
+175LU  H TYP=ERR$AUT=M. S. Basunia$DAT=28-Nov-2016$COM=Corrected spin-parity of 
+175LU2 H 1112.2-keV level as (9/2-) from incorrect one (19/2-)$                 
 175LU  H TYP=FUL$AUT=M. SHAMSUZZOHA BASUNIA$CIT=NDS 102, 719 (2004)$            
 175LU2 H CUT=1-Jun-2004$                                                        
 175LU  Q -683.7    207666.7  105511.0  131619.0  17    2012WA38                 
@@ -2281,7 +2283,6 @@
 175LU CG RI(E)           From 176YB(P,2NG).                                     
 175LU CG E(A)$From 175LU(N,N'G).                                                
 175LU CG E(B),RI(B)$From 175LU(N,N'G).                                          
-175LU CG RI(T)           From 175LU(N,N'G).                                     
 175LU CG E(X),RI(C),M(U)$From 175YB B- decay.                                   
 175LU CG MR              From 175YB B- decay, except as noted.                  
 175LU CG E(Y),RI(D),MR(F),M(V)$From 175HF EC decay.                             
@@ -2293,7 +2294,6 @@
 175LU CG MR(G)           From Coulomb excitation.                               
 175LU CL E$Deduced by evaluator from a least-squares fit to adopted G-ray       
 175LU2CL energies, except as noted.                                             
-175LU CL E(P)$From 174YB(A,T)175LU.                                             
 175LU CL E(R)$From 176LU(D,T)175LU. For tentative spin assignments              
 175LU2CL see 176LU(D,T)175LU.                                                   
 175LU CL J$Assignments are based on rotational structure, G-ray decay           
@@ -2509,6 +2509,7 @@
 175LU  L 845.1      7(13/2+)                                                B   
 175LUX L XREF=J                                                                 
 175LU  G 160.9                                                              A   
+175LUF G FL=684.3                                                               
 175LU  G 298.5                                                              A   
 175LU  L 863.7      7(15/2-)                                                D   
 175LUX L XREF=DJ                                                                
@@ -2570,7 +2571,7 @@
 175LU  G      200.4      100                                                B   
 175LU  G      379.1      41  6                                              B   
 175LUF G FL=685.32                                                              
-175LU  L 1112.2     7(19/2-)                                                J   
+175LU  L 1112.2     7 (9/2-)                                                J   
 175LUX L XREF=J                                                                 
 175LU  G 582.8        100                                                   B   
 175LU  G 716.1         27    5                                              B   

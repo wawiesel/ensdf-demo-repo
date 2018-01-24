@@ -14673,3 +14673,46 @@
  92PD  L 2535.8    5  (6+)                                                  A   
  92PD  G 749.8     3  50     6                                               C  
                                                                                 
+ 92AG    COMMENTS                                                ENSDF    201610
+ 92AG  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
+ 92AG C  TITL$NUCLEAR DATA SHEETS FOR 92AG                                      
+ 92AG c  AUTH$BALRAJ SINGH                                                      
+ 92AG c  INST$Department of Physics and Astronomy,                              
+ 92AG#c       McMaster University, Hamilton, Ontario,                           
+ 92AG#c       Canada, L8S 4M1                                                   
+ 92AG c  ABST$Production and identification of the {+92}Ag nuclide,             
+ 92AG2c  from 2016Ce02 is presented.                                            
+ 92AG c  CUT$Literature available up to July 31, 2016 has been consulted.       
+ 92AG C  CIT$ENSDF                                                              
+ 92AG c  FUND$                                                                  
+                                                                                
+ 92AG    ADOPTED LEVELS                                          ENSDF    201610
+ 92AG  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
+ 92AG  Q              14730  CA  -670  CA -3520  CA    1997MO25                 
+ 92AG cQ $S(2n)=32690, S(2p)=1350 (theory,1997Mo25)                             
+ 92AG c  2016Ce02: {+92}Ag nuclide produced and identified at RIBF-RIKEN        
+ 92AG2c  facility in {+9}Be({+124}Xe,X) reaction at E=345 MeV/nucleon with an   
+ 92AG3c  average beam intensity of 30 pnA. Identification of {+92}Ag was made by
+ 92AG4c  determining atomic Z and mass-to-charge ratio A/Q, where Q=charge state
+ 92AG5c  of the ions. The selectivity of ions was based on magnetic rigidity,   
+ 92AG6c  time-of-flight and energy loss using BigRIPS separator and zero degree 
+ 92AG7c  spectrometer ZDS. The separated nuclei were implanted in a wide range  
+ 92AG8c  silicon-strip stopper array for ion and |b particle detection WAS3ABi, 
+ 92AG9c  consisting of three highly-segmented 1 mm thick double-sided silicon   
+ 92AGAc  detectors, a stack of ten segmented 1 mm thick single-sided silicon    
+ 92AGBc  strip detectors. The |g rays were detected by EURICA array of 84 HPGe  
+ 92AGCc  detectors surrounding the WAS3ABi system. In addition an array of 18   
+ 92AGDc  LaBr{-3}(Ce) detectors was used for |g detection in fast-timing        
+ 92AGEc  measurements.                                                          
+ 92AG d  Theoretical nuclear structure calculations: 2002La37, 2001La01,        
+ 92AG2d  1997He24                                                               
+ 92AG  L  0                                                                     
+ 92AG2 L %P=? $ %EC+%B+=? $%ECP=?                                               
+ 92AG cL $Proton decay mode assigned as {+92}Ag is expected                     
+ 92AG2cL to be proton-unbound nucleus from theoretical S(p)=-0.67 MeV (1997Mo25)
+ 92AG cL $Measured production |s=0.03 pb {I+2-1} (2016Ce02)                     
+ 92AG cL $A total of eight events assigned to {+92}Ag in 2016Ce02, which are    
+ 92AG2cL assumed by the evaluator to correspond to the g.s. activity of {+92}Ag 
+ 92AG cL $Theoretical |b-decay half-life=20.5 ms (1997Mo25)                     
+ 92AG cL J$1-6 from proton in 7/2 and neutron in 5/2 orbital (1997Mo25)         
+                                                                                

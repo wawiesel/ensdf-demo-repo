@@ -2770,27 +2770,341 @@
  15O   L 7.28E3                                                                 
  15O   L 12255.    13 (5/2+)           135 KEV   15                             
                                                                                 
- 15F     ADOPTED LEVELS                1991AJ01                  91NP     200204
- 15F   H TYP=ERR$AUT=J. Kelley$DAT=4-Aug-2009$COM=fixed typo in SP$             
- 15F   H TYP=FUL$AUT=F. AJZENBERG-SELOVE$CIT=NP A523,1 (1991)$CUT=1-Jul-1990$   
+ 15F     ADOPTED LEVELS                                          ENSDF    201612
+ 15F   H TYP=FUL$AUT=J. Kelley, T. Truong, C.G. Sheu$CUT=17-JULY-2016$CIT=ENSDF$
  15F   Q             2.323E4 8 -1.51E3 7 -9.92E3 8     2012WA38                 
- 15F  CQ Note: Current evaluation has used the following Q record               
- 15F   Q             24901   SY-1.48E+313 -10.6E3 22   1997AU04                 
- 15F   XA20NE(3HE,8LI)                                                          
- 15F   L 0.0         (1/2+)            1.0 MEV   2                              
- 15F 2 L %P=100$ ISPIN=3/2                                                      
- 15F 3 L XREF=A                                                                 
- 15F   L 13E+2     1 (5/2+)            0.24 MEV  3                              
- 15F 2 L %P=100$ ISPIN=3/2                                                      
- 15F 3 L XREF=A                                                                 
+ 15F  c  {BHighlighted theoretical analyses:}                                   
+ 15F  c  {B2011Fo02:}                                                           
+ 15F 2c  Reanalyzed data on {+15}C levels populated in {+13}C(t,p){+15}C        
+ 15F 3c  and interpreted results to revise predictions on {+15}F levels.        
+ 15F  c  {B2010Mu03:}                                                           
+ 15F 2c  Parameters of the lowest J|p=1/2+ and 5/2+ states were analyzed via    
+ 15F 3c  the S-matrix pole method.                                              
+ 15F  c  {B2015Gr04:}                                                           
+ 15F 2c  Analysis, which  focused on {+16}Ne, found the {+15}F ground           
+ 15F 3c  state should lie near E{-res}(p+{+14}O)=1.39 to 1.42 MeV.              
+ 15F  c  {B2006Ca08, 2015Fr04:}                                                 
+ 15F 2c  Analyzed the {+14}C+n system and then used multichannel algebraic      
+ 15F 3c  scattering theory to predict resonances in the mirror {+15}F nucleus.  
+ 15F 4c  See also 2007Ca31.                                                     
+ 15F  c  {B2005Ba73:}                                                           
+ 15F 2c  A microscopic cluster model was developed that was tuned to the        
+ 15F 3c  {+14}C+n system and used to predict the {+14}O+p scattering            
+ 15F 4c  reaction and {+15}F resonances. Results are compared and found in      
+ 15F 5c  agreement with an R-matrix analysis of experimental observations.      
+ 15F  c  {B2005Fo10:}                                                           
+ 15F 2c  The lowest T=3/2 and J|p=1/2+ and 5/2+ states of the A=15 quartet are  
+ 15F 3c  analyzed in a (0+2)~h|w shell model.                                   
+ 15F  c  {B2006Fo16:}                                                           
+ 15F 2c  The definition of resonance energy is explored by considering three    
+ 15F 3c  different parameters that may define the position: "(a) the energy at  
+ 15F 4c  which the appropriate  cross  section  peaks, (b) the energy at which  
+ 15F 5c  the nuclear phase shift has the value |d=|p/2, and (c) the energy at   
+ 15F 6c  which the magnitude of the internal wave function or the derivative of 
+ 15F 7c  the phase shift d|d/dE is a maximum." Then, discussion on various A=15 
+ 15F 8c  and 16 states and analysis of the IMME mass relation are used to       
+ 15F 9c  constrain predicted values for poorly known {+15}O, {+15}F and {+16}F  
+ 15F ac  states.                                                                
+ 15F  c  {BGeneral theoretical analyses:}                                       
+ 15F  c  Other theoretical analyses relevant to {+15}F include                  
+ 15F 2c  general calculations on mass and structure properties in               
+ 15F 3c  (1978Gu10,1993Po11,2008Qi04,2013Ci04). More detailed analyses          
+ 15F 4c  considering pairs of mirror nuclides, Coulomb shifts, Thomas-Ehrman    
+ 15F 5c  shifts and other detailed relationships are found in                   
+ 15F 6c  (1988Co15,1995Fo18,1997Gr18,1999Og11,1999Ts06,2013Fo22).               
+ 15F  c  {BOther experimental results:}                                         
+ 15F  c  {+15}F is not strongly populated in {+12}C({+3}He,|p{+-}) reactions at 
+ 15F 2c  E({+3}He)=283 MeV (1986Mi25) or 235 MeV (1984Bi08).                    
+ 15F   XA1H(14O,P):^NSCL                                                        
+ 15F   XB1H(14O,P):^Texas                                                       
+ 15F   XC1H(14O,P):^LBNL                                                        
+ 15F   XD1H(14O,P):^GANIL                                                       
+ 15F   XE9BE(16NE,15F)                                                          
+ 15F   XF16O(14N,15C)                                                           
+ 15F   XG20NE(3HE,8LI):^NSCL                                                    
+ 15F   XH20NE(3HE,8LI):^LBNL                                                    
+ 15F  CL T$LABEL=WIDTH                                                          
+ 15F  CL S$LABEL=E(p+{+14}O){-cm} (keV)                                         
+ 15F   L 0            1/2+             660 KEV   20             1.28E3     4    
+ 15F 2 L XREF=+ $ %P=100                                                        
+ 15F  cL E$The value E{-res}=1.28 MeV {I4} is adopted; excited state energies   
+ 15F 2cL are calculated using this value.                                       
+ 15F 3cL The weighted average of all reported resonance energy                  
+ 15F 4cL values is 1.28 MeV {I2} (external uncertainty);                        
+ 15F 5cL this value compares with the Rajeval technique value (1.29 MeV {I3})   
+ 15F 6cL and the Method of Best Representation (see 2014Bi13) value (1.37 MeV   
+ 15F 7cL {I13}). A critical scrutiny of some of the data may suggest exclusion  
+ 15F 8cL of some results, such as those from (1978Be26,1978Ke06,2008Mu13),      
+ 15F 9cL but these have little impact on the values deduced using the           
+ 15F acL weighted average or Rajeval techniques.                                
+ 15F  cL T$The values |G>900 keV (1978Be26) and |G|?1200 keV (2003Pe23)         
+ 15F 2cL are not considered, and a 20% uncertainty is assigned to |G|?700 keV   
+ 15F 3cL from 2004Go15. This yields the weighted average |G=660 keV {I20}.      
+ 15F   L 1.52E3     5 5/2+             300 KEV   13             2798      24    
+ 15F 2 L XREF=+ $ %P=100                                                        
+ 15F  cL E$The value E{-res}=2798 keV {I24} is deduced using the Method of Best 
+ 15F 2cL Representation; this value is accepted.                                
+ 15F 3cL This compares with the weighted average of all values,                 
+ 15F 4cL E{-res}=2785 keV {I10}, and the value deduced using the Rajeval        
+ 15F 5cL technique, 2797 keV {I11}. An analysis was carried out in 2016De15     
+ 15F 6cL that recommended 2794 keV {I16}.                                       
+ 15F  cL T$from the weighted average of all values.                             
+ 15F   L 3.48E3     4 1/2-             36 KEV    15             4757      12    
+ 15F 2 L XREF=DEF $ %P=100                                                      
+ 15F  cL E,T$from 2016De15.                                                     
+ 15F   L 5.1E3     2  (3/2-,5/2-)      0.2 MEV   2              6.4E3     2     
+ 15F 2 L XREF=EF $ %P=100                                                       
+ 15F  cL E,T$from (2009Mu09,2010Mu12).                                          
+ 15F  cL J$3/2- favored from arguments based on the mirror {+15}C nucleus.      
+ 15F 2 L WIDTHP=0.2 MEV 2 (2009Mu09,2010Mu12)                                   
+ 15F   L 6.5E3     2  (3/2+,5/2+)      0.4 MEV   4              7.8E3     2     
+ 15F 2 L XREF=E $ %P=100                                                        
+ 15F  cL E,T$from (2009Mu09,2010Mu12).                                          
+ 15F 2 L WIDTHP=0.4 MEV 4 (2009Mu09,2010Mu12)                                   
                                                                                 
- 15F     20NE(3HE,8LI)                 1991AJ01                  91NP     200204
- 15F   H TYP=FUL$AUT=F. AJZENBERG-SELOVE$CIT=NP A523,1 (1991)$CUT=1-Jul-1990$   
- 15F   L 0.0                           1.0 MEV   2                              
- 15F  CL WIDTH$AVERAGE OF 1.2 MEV 3 (1978BE26) AND 0.8 MEV 3 (1978KE06).        
- 15F   L 1.3E3      1                  0.24 MEV   3                             
- 15F  CL E$AVERAGE OF 1.2 MEV 2 (1978BE26) AND 1.3 MEV 1(1978KE06)              
- 15F  CL WIDTH$FROM (1978BE26):OTHER 0.5 MEV 2 (1978KE06)                       
+ 15F     1H(14O,P):^GANIL              2016DE15,2014ST14         ENSDF    201612
+ 15F   H TYP=FUL$AUT=J. Kelley, T. Truong, C.G. Sheu$CUT=17-JULY-2016$CIT=ENSDF$
+ 15F  c  The authors used the {+14}O(p,p){+14}O elastic scattering reaction, in 
+ 15F 2c  thick target inverse kinematics, to populate resonant states in        
+ 15F 3c  {+15}F. The measured excitation function was analyzed via R-matrix     
+ 15F 4c  formalism, and  E{-res}, E{-x}, |G and J|p values were deduced.        
+ 15F  c  Beams of {+14}O ions were produced at the GANIL SPIRAL1 facility by    
+ 15F 2c  fragmenting {+20}Ne ions on a carbon target, and the ions were         
+ 15F 3c  reaccelerated to 5.91 MeV/nucleon using the CIME cyclotron. The beam   
+ 15F 4c  was purified in the LISE spectrometer before impinging on a stack of   
+ 15F 5c  three 50 |mm thick polypropylene targets that stopped the beam.        
+ 15F 6c  Protons from elastic scattering reactions were detected at             
+ 15F 7c  |q{-cm}=180|' (|q{-lab}=|+2.2|') in a |DE-E (Si-SiLi) detector         
+ 15F 8c  telescope. The energy resolution of the telescope was measured using   
+ 15F 9c  {+14}N beams to populate {+15}O states; an energy resolution of        
+ 15F ac  |s{-cm}=7 keV {I2} was deduced for {+15}F resonances.                  
+ 15F  c  The data was analyzed via the thick target inverse kinematics method   
+ 15F 2c  and evaluated using the AZURE2 R-matrix code.                          
+ 15F 3c  In (2016De15) the properties of three                                  
+ 15F 3c  resonances are briefly discussed guided by Gamow Shell                 
+ 15F 4c  model calculations; in an earlier published result (2014St14) only     
+ 15F 5c  two resonances are evaluated, and their energies are slightly higher.  
+ 15F  CL T$LABEL=WIDTH                                                          
+ 15F  CL S$LABEL=E(p+{+14}O){-cm} (keV)                                         
+ 15F   L 0            1/2+             0.38 MEV  21             1270      14    
+ 15F  cL E$This resonance was observed at E{-R}=1270 keV                        
+ 15F 2cL {I10}(stat) {I10}(sys).                                                
+ 15F  cL T$The observed width was |G=376 keV {I70}(stat) {I+200-0}(sys).        
+ 15F   L 1493      19 5/2+             305 KEV   12             2763      13    
+ 15F  cL E$This level was deduced from E{-R}=2763 keV                           
+ 15F 2cL {I9}(stat) {I10}(sys)                                                  
+ 15F 3cL with E{-R}=1270 keV {I10}(stat) {I10}(sys) for the g.s.                
+ 15F  cL $In 2016De15, the authors note that using the statistical procedure    
+ 15F 2cL outlined by the Particle Data Group to evaluate all reported energies  
+ 15F 3cL for this resonance they find                                           
+ 15F 4cL E{-R}=2794 keV {I16} and |G=301 keV {I16} for                          
+ 15F 5cL this state.                                                            
+ 15F   L 3487      18 1/2-             36 KEV    15             4757      12    
+ 15F  cL E$This level was deduced from E{-R}=4757 keV                           
+ 15F 2cL {I6}(stat) {I10}(sys) with E{-R}=1270 keV                              
+ 15F 3cL {I10}(stat) {I10}(sys) for the g.s.                                    
+                                                                                
+ 15F     1H(14O,P):^LBNL               2005GU25                  ENSDF    201612
+ 15F   H TYP=FUL$AUT=J. Kelley, T. Truong, C.G. Sheu$CUT=17-JULY-2016$CIT=ENSDF$
+ 15F  c  2005Gu25:                                                              
+ 15F  c  The authors evaluated the {+1}H({+14}O,p) elastic scattering reaction  
+ 15F 2c  in Thick Target Inverse Kinematics (TTIK).  E{-res}, E{-x}, |G         
+ 15F 3c  and J|p were deduced for the ground and first excited states.          
+ 15F  c  A beam of 120 MeV/nucleon {+14}O ions, produced at the LBNL 88-Inch    
+ 15F 2c  Cyclotron in the BEARS system, impinged on a target consisting of a    
+ 15F 3c  Ni degrader followed by a thick 18.4 mg/cm{+2} polyethylene            
+ 15F 4c  foil that stopped the beam. Protons from elastic scattering reactions  
+ 15F 5c  were detected around |q{-lab}=0|' (|+5|')                              
+ 15F 6c  in a |DE-E Si detector telescope. The experimental resolution was      
+ 15F 7c  about 60 keV.                                                          
+ 15F 8c  Two peaks were observed in the spectrum, which was analyzed using      
+ 15F 9c  an R-matrix formalism.                                                 
+ 15F  c  The disappearance of the Z=8 proton magic number for odd Z nuclei,     
+ 15F 2c  T{-Z}=-3/2, was discussed in light of the measured energy of           
+ 15F 3c  {+15}F{-g.s.}.                                                         
+ 15F  CL T$LABEL=WIDTH                                                          
+ 15F  CL S$LABEL=E(p+{+14}O){-cm} (keV)                                         
+ 15F   L 0            1/2+             0.67 MEV  17     0       1.23E3    5     
+ 15F  cL T$The measured width was |G=0.5-0.84 MeV.                              
+ 15F   L 1.58E3    5  5/2+             0.30 MEV  6      2       2.81E3    2     
+                                                                                
+ 15F     1H(14O,P):^Texas              2004GO15                  ENSDF    201612
+ 15F   H TYP=FUL$AUT=J. Kelley, T. Truong, C.G. Sheu$CUT=17-JULY-2016$CIT=ENSDF$
+ 15F  c  2004Go15:                                                              
+ 15F  c  The authors evaluated the {+1}H({+14}O,p) elastic scattering reaction  
+ 15F 2c  in Thick Target Inverse Kinematics (TTIK).  E{-res}, E{-x}, |G         
+ 15F 3c  and J|p were deduced from the analysis.                                
+ 15F  c  A beam of {+14}O ions, produced by fragmentation of an {+14}N beam on  
+ 15F 2c  a hydrogen target at the Texas A&M University Cyclotron Institute,     
+ 15F 3c  was degraded in energy to obtain 80.6 MeV beam. The low-energy beam    
+ 15F 4c  impinged on a thick CH{-4} gas target that provided a low background   
+ 15F 5c  when compared with other approaches.                                   
+ 15F 6c  Protons from elastic scattering reactions were detected at             
+ 15F 7c  |q=0|', +9.2|', +16.5|' and -7.5|' in a |DE-E Si detector              
+ 15F 8c  telescope. The excitation function                                     
+ 15F 9c  was analyzed using a Woods-Saxon potential                             
+ 15F ac  model to deduce resonance energies.                                    
+ 15F  CL T$LABEL=WIDTH                                                          
+ 15F  CL S$LABEL=E(p+{+14}O){-cm} (keV)                                         
+ 15F   L 0            1/2+             0.7 MEV                  1.29E3    AP    
+ 15F  cL E$The authors give a discussion on the {s}-wave scattering, which      
+ 15F 2cL highlights a difference between the resonance peak cross section       
+ 15F 3cL energy (1.29 MeV {I+8}{I-6}) and the maximum of the wavefunction       
+ 15F 4cL amplitude (1.45 MeV {I+16}{I-1}). This effect also impacts the |G      
+ 15F 5cL value, which is observed with FWHM|?1.2 MeV.                           
+ 15F   L 1.5E3     AP 5/2+             0.325 MEV 60             2795      45    
+                                                                                
+ 15F     1H(14O,P):^NSCL               2003PE23                  ENSDF    201612
+ 15F   H TYP=FUL$AUT=J. Kelley, T. Truong, C.G. Sheu$CUT=05-JULY-2016$CIT=ENSDF$
+ 15F  c  2003Pe23:                                                              
+ 15F  c  The authors evaluated the {+1}H({+14}O,p) elastic scattering reaction  
+ 15F 2c  in Thick Target Inverse Kinematics (TTIK). E{-res}, E{-x} and |G       
+ 15F 3c  were deduced from the analysis.                                        
+ 15F  c  A beam of 115 MeV/nucleon {+14}O ions, produced by fragmentation of    
+ 15F 2c  an {+16}O beam at the NSCL, was degraded in energy to obtain an 8      
+ 15F 3c  MeV/nucleon beam. This low energy beam impinged on a 181.3 |mm         
+ 15F 4c  polyethylene target that stopped the beam. Protons from elastic        
+ 15F 5c  scattering reactions were detected around |q=0|' in a |DE-E (75.3 |mm  
+ 15F 6c  and 1000 |mm) Si detector telescope. The excitation function was       
+ 15F 7c  analyzed using the VLADCS potential model code to deduce resonance     
+ 15F 8c  energies.                                                              
+ 15F  CL T$LABEL=WIDTH                                                          
+ 15F  CL S$LABEL=E(p+{+14}O){-cm} (keV)                                         
+ 15F   L 0            1/2+             1.2 MEV   AP             1.51E3    11    
+ 15F  cL E$mass excess=16.81 MeV {I11}.                                         
+ 15F   L 1.34E3    12 5/2+             340 KEV   AP             2853      45    
+                                                                                
+ 15F     9BE(16NE,15F)                 2010MU12,2009MU09,2008MU13ENSDF    201612
+ 15F   H TYP=FUL$AUT=J. Kelley, T. Truong, C.G. Sheu$CUT=01-JULY-2016$CIT=ENSDF$
+ 15F  c  2010Mu12,2009Mu09,2008Mu13:                                            
+ 15F  c  The authors evaluated the decay product particle correlations for      
+ 15F 2c  one-proton decays of {+15}F, {+16}Ne, {+19}Na and two-proton decays    
+ 15F 3c  of {+15}F, {+16}Ne and {+20}Mg. Angular correlations were measured;    
+ 15F 4c  momenta were not measured; hence properties of excited states are      
+ 15F 5c  deduced based on GEANT simulations of the p-HI (Heavy Ion) and         
+ 15F 6c  (p{-1}-HI)(p{-2}-HI) angular correlations.                             
+ 15F  c  A 591 MeV/nucleon beam of {+24}Mg, from the SIS facility at GSI, was   
+ 15F 2c  used to produce a beam of 410 MeV/nucleon {+17}Ne in the FRS. The beam 
+ 15F 3c  of {+16}Ne was produced by ({+17}Ne,{+16}Ne) on a {+9}Be target. The   
+ 15F 4c  (p{-1}-{+14}O)(p{-2}-{+14}O) angular correlations were analyzed to     
+ 15F 5c  determine: the decay mode (2p or sequential proton decay), and the     
+ 15F 6c  excitation energies of states involved in the reactions.               
+ 15F  cL S$From 2009Mu09.                                                       
+ 15F  CL S$LABEL=E(p+{+14}O){-cm} (MeV)                                         
+ 15F   L 0            1/2+                                      1.5       1     
+ 15F  cL E$This group of counts is observed in                                  
+ 15F 2cL (p{-1}-{+14}O)(p{-2}-{+14}O) correlations from {+16}Ne breakup.        
+ 15F   L 1.3E3     1  5/2+             0.4 MEV   1              2.80      5     
+ 15F  cL E$This group is observed in                                            
+ 15F 2cL (p{-1}-{+14}O)(p{-2}-{+14}O) correlations from {+16}Ne breakup.        
+ 15F 2 L WIDTHP=0.4 MEV 1 (2010Mu12)                                            
+ 15F   L 3.4E3     2  (1/2-)           0.2 MEV   2              4.9       2     
+ 15F  cL E$This group is observed in                                            
+ 15F 2cL (p{-1}-{+14}O)(p{-2}-{+14}O) correlations from {+16}Ne breakup.        
+ 15F 2 L WIDTHP=0.2 MEV 2 (2009Mu09,2010Mu12)                                   
+ 15F   L 4.9E3     2  (3/2-,5/2-)      0.2 MEV   2              6.4       2     
+ 15F  cL E$This group is observed in                                            
+ 15F 2cL (p{-1}-{+14}O)(p{-2}-{+14}O) correlations from {+16}Ne breakup.        
+ 15F  cL J$3/2- favored from arguments based on the mirror {+15}C nucleus.      
+ 15F 2 L WIDTHP=0.2 MEV 2 (2009Mu09,2010Mu12)                                   
+ 15F   L 6.3E3     2  (3/2+,5/2+)      0.4 MEV   4              7.8       2     
+ 15F  cL E$from Q{-2p}({+15}F)=3.2 MeV {I2} group observed in                   
+ 15F 2cL (p{-1}-{+13}N)(p{-2}-{+13}N) correlations. This group is associated    
+ 15F 3cL with decay via the {+14}O J|p=2+ state at E{-x}=6.59 MeV. Decay to     
+ 15F 4cL the {+14}O{-g.s.} is weak, with an upper limit of decay via            
+ 15F 5cL {+14}O{-g.s.}/{+14}O(2+)<0.2. The state corresponds to                 
+ 15F 6cL Q{-1p}({+15}F)=7.8 MeV {I2}.                                           
+ 15F 2 L WIDTHP=0.4 MEV 4 (2009Mu09,2010Mu12)                                   
+                                                                                
+ 15F     16O(14N,15C)                  2004LE12,2003Le26         ENSDF    201612
+ 15F   H TYP=FUL$AUT=J. Kelley, T. Truong, C.G. Sheu$CUT=05-JULY-2016$CIT=ENSDF$
+ 15F  c  2004Le12:                                                              
+ 15F  c  The authors studied the excitation spectrum of the {+15}F nucleus      
+ 15F 2c  using the {+16}O({+14}N,{+15}C){+15}F reaction.                        
+ 15F 3c  Angular distributions were analyzed using the FRESCO code.             
+ 15F  c  A beam of 30 MeV/nucleon {+14}N, from the GANIL facility, impinged     
+ 15F 2c  on a 0.60 mg/cm{+2} thick V{-2}O{-5} foil located at the SPEG          
+ 15F 3c  spectrometer target position. The reaction products                    
+ 15F 4c  were measured at |q{-lab}=2.5|'|+1.2|'.                                
+ 15F  c  Three peaks were observed in the energy spectrum and were fitted using 
+ 15F 2c  Breit-Wigner line-shapes that were folded with the resolution of       
+ 15F 3c  FWHM=360 keV. A group of counts near E{-res}=6.8 MeV is indicated      
+ 15F 4c  in the spectrum, but not analyzed.                                     
+ 15F  c  In (2003Le26) only the ground and first excited states were analyzed   
+ 15F 2c  leading to slightly lower resonance energies and slightly              
+ 15F 3c  different widths.                                                      
+ 15F  CL T$LABEL=WIDTH                                                          
+ 15F  CL S$LABEL=E(p+{+14}O){-cm} (MeV)                                         
+ 15F   L 0            1/2+             0.6 MEV   AP             1.56      13    
+ 15F  cL T$The observed width was |G=0.6 MeV {I+8}{I-4}.                        
+ 15F   L 1.24E3    14 5/2+             0.38 MEV  10             2.80      5     
+ 15F   L 3.24E3    13 (1/2-)           0.15 MEV  10             4.80      1     
+ 15F   L 5.2E3     AP                                           6.8            ?
+                                                                                
+ 15F     20NE(3HE,8LI):^NSCL           1978BE26                  ENSDF    201612
+ 15F   H TYP=FUL$AUT=J. Kelley, T. Truong, C.G. Sheu$CUT=21-JUNE-2016$CIT=ENSDF$
+ 15F  c  1978Be26:                                                              
+ 15F  c  The authors studied the level structure of {+15}F populated using the  
+ 15F 2c  {+20}Ne({+3}He,{+8}Li) reaction. The resulting excitation              
+ 15F 3c  spectrum shows evidence for the ground and first excited states.       
+ 15F  c  A beam of 74.5 MeV {+3}He ions impinged on 150-200 torr of enriched    
+ 15F 2c  (99.95%) {+20}Ne gas in cells that were located in the Enge            
+ 15F 3c  spectrometer target chamber at Michigan State University.              
+ 15F 4c  Data collected at 10|' used a gas cell with 0.45 mg/cm{+2}             
+ 15F 5c  Mylar foil windows, while data collected at 9|', 11|', and 13|'        
+ 15F 6c  used a gas cell with a 2.2 mg/cm{+2} Ni foil  exit window.             
+ 15F 7c  {+8}Li was detected in the focal plane of the spectrometer.            
+ 15F 8c  The peaks were analyzed to obtain Q-values, mass excesses and widths.  
+ 15F  c  The peaks were fitted by Gaussian shapes.                              
+ 15F  c  The authors also evaluated the IMME parameters for the                 
+ 15F 2c  A=15 T=3/2 analog states.                                              
+ 15F  CL T$LABEL=WIDTH                                                          
+ 15F  CL S$LABEL=E(p+{+14}O){-cm} (keV)                                         
+ 15F   L 0             1/2+            900 KEV   GT             1.6E3     2     
+ 15F  cL E$mass excess=16.9 MeV {I2}.                                           
+ 15F  cL $The lack of a minimum between the ground and first excited states     
+ 15F 2cL makes a mass excess determination difficult. Likewise, the lack of an  
+ 15F 3cL angular momentum barrier for the s{-1/2} state results in a large      
+ 15F 4cL tail toward higher energies and complicates quantification of the      
+ 15F 5cL width.                                                                 
+ 15F   L 1.2E3      2  5/2+            240 KEV   30             2802      25    
+ 15F  cL E$mass excess=18.088 MeV {I25}.                                        
+ 15F 2cL The value for this resonance energy is sometimes not rigorously        
+ 15F 3cL deduced; see for example 2005Fo10 who list E{-res}=2.8 MeV with 200 keV
+ 15F 4cL uncertainty. This value has been carried over into other analyses.     
+ 15F 5cL The resonance energy is derivable with 25 keV                          
+ 15F 6cL resolution using the known p and {+14}O mass excesses.                 
+                                                                                
+ 15F     20NE(3HE,8LI):^LBNL           1978KE06                  ENSDF    201612
+ 15F   H TYP=FUL$AUT=J. Kelley, T. Truong, C.G. Sheu$CUT=08-JULY-2016$CIT=ENSDF$
+ 15F  c  1978Ke06:                                                              
+ 15F  c  The authors evaluated the excitation spectrum of the                   
+ 15F 2c  {+15}F nucleus using                                                   
+ 15F 3c  the {+20}Ne({+3}He,{+8}Li) reaction to obtain reaction Q values,       
+ 15F 4c  mass excesses and decay widths of states.                              
+ 15F  c  Beams of 88 and 75 MeV/nucleon {+3}He ions from the LBNL               
+ 15F 2c  88-Inch Cyclotron impinged on an enriched                              
+ 15F 3c  (>99.5%) 1.2|+0.4 mg/cm{+2} {+20}Ne gas target.                        
+ 15F 4c  The {+8}Li reaction products were detected in the focal plane of a QSD 
+ 15F 5c  spectrometer positioned at |q=9|'.                                     
+ 15F 6c  The peaks were analyzed to obtain Q-value and                          
+ 15F 7c  mass excesses.                                                         
+ 15F  c  The authors also evaluated the IMME parameters for the                 
+ 15F 2c  A=15 T=3/2 analog states.                                              
+ 15F  CL T$LABEL=WIDTH                                                          
+ 15F  CL S$LABEL=E(p+{+14}O){-cm} (MeV)                                         
+ 15F   L 0             1/2+             0.8 MEV   3             1.37      18    
+ 15F  cL E$The Q-value is Q=-29.73 MeV {I18} and mass excess=16.67 MeV {I18}.   
+ 15F   L 1.3E3      2  5/2+             0.5 MEV   2             2.67      10    
+ 15F  cL E$The resonance energy is not rigorously discussed in the text;        
+ 15F 2cL the Q-value to the state is not given. Instead the comment,            
+ 15F 3cL "the excitation energy of the first excited state is                   
+ 15F 4cL 1.3|+0.1 MeV" is given in the text. The evaluator assumes              
+ 15F 5cL the mass excess is then |Dm=(16.67+1.30)|+0.10 MeV=17.97|+0.10 MeV,    
+ 15F 6cL which corresponds to a resonance energy E{-res}=2.67|+0.10 MeV.        
+ 15F  cL E$In a comparison to the mirror nucleus, the excitation energy is      
+ 15F 2cL 500 keV higher than the excitation energy of the first excited state   
+ 15F 3cL in {+15}C.                                                             
                                                                                 
  15NE    ADOPTED LEVELS                                                         
  15NE  H TYP=FUL$AUT=J. Kelley, C.G. Sheu$CUT=01-MARCH-2014$CIT=ENSDF$          

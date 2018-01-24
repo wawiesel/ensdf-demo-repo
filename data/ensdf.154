@@ -627,6 +627,58 @@
 154    R 2007LI14 JOUR NUPAB 786 47                                             
 154    R 2007PA27 JOUR PRVCA 75 061302                                          
                                                                                 
+154LA    COMMENTS                                                ENSDF    201704
+154LA  H TYP=FUL$AUT=FILIP G. KONDEV$CIT=ENSDF$CUT=20-Feb-2017$                 
+154LA C  TITL$NUCLEAR DATA SHEETS FOR 154LA                                     
+154LA c  AUTH$FILIP G. KONDEV                                                   
+154LA c  INST$Nuclear Engineering Division                                      
+154LA#c       Argonne National Laboratory                                       
+154LA#c       9700 South Cass Avenue                                            
+154LA#c       Argonne, Illinois 60439, USA                                      
+154LA c  ABST$Information about the nuclear structure properties of the         
+154LA2c  {+154}La nuclide is presented                                          
+154LA c  CUT$Literature available up to February 20, 2017 has been consulted.   
+154LA c  FUND$This work is supported by the Office of Nuclear Physics, Office   
+154LA1c  of Science, U.S. Department of Energy under contract DE-AC02-06CH11357.
+154LA C  CIT$ENSDF                                                              
+                                                                                
+154LA    ADOPTED LEVELS                                                   201704
+154LA  H TYP=FUL$AUT=FILIP G. KONDEV$CIT=ENSDF$CUT=20-Feb-2017$                 
+154LA  Q 10591     SY 3591   SY 12123  SY -5368  SY    2012WA38                 
+154LA cQ $Estimated uncertainties (2012Wa38): |DQ(|b{+-})=499, |DS(n)=499,      
+154LA2cQ |DS(p)=566, |DS(|a)=499                                                
+154LA cQ $S(2n)=8365 {I499}, Q(|b{+-}n)=5193 {I446}                             
+154LA2cQ from 2012Wa38.                                                         
+154LA c  2017Wu04: The {+154}La nuclide was produced at the RIBF-RIKEN facility 
+154LA2c  using the {+9}Be({+238}U,F) reaction at E=345 MeV/nucleon.  Two        
+154LA3c  experiments, optimized for the transmission of {+158}Nd and {+170}Dy   
+154LA4c  ions, were carried out with average beam intensities of 7 pnA and 12   
+154LA5c  pnA, respectively. The identification of the nuclide of interest was   
+154LA6c  made in the BigRIPS separator by determining the atomic number and the 
+154LA7c  mass-to-charge ratio of the ion using the TOF-B|r-|DE method. The      
+154LA8c  reaction products were transported through the ZeroDegree Spectrometer 
+154LA9c  and implanted into the beta-counting system WAS3ABi that was surrounded
+154LAac  by the EURICA array comprising of 84 HPGe detectors. The typical       
+154LAbc  implantation rate was ~~100 ions/s.  Measured: implanted ion-|b{+-}-t, 
+154LAcc  implanted ion-|b{+-}-|g-t and implanted ions-|g-t correlations.        
+154LAdc  Deduced: T{-1/2}.                                                      
+154LA  L 0.0          (2-)             0.161 S   15                             
+154LA2 L %B-=100 $ %B-N=?                                                       
+154LA cL %B-$Only |b{+-} decay mode is expected.                                
+154LA cL J$From systematics of known quasiparticle states in neighboring nuclei 
+154LA2cL and the proposed configuration (by the evaluator). The assignment is   
+154LA3cL tentative.                                                             
+154LA cL T$From 2017Wu04, using a fit to the implanted ion-|b{+-}-t spectrum    
+154LA2cL using the least-squares and maximum-likelihood methods. The data       
+154LA3cL analysis included contributions from the parent, daughter and          
+154LA4cL grand-daughter decays, as well as a constant background.               
+154LA cL CONF$From systematics of well-deformed nuclei in this mass region, the 
+154LA2cL |p1/2[420] and |n5/2[523] Nilsson orbitals are expected near the proton
+154LA3cL and neutron Fermi surfaces, respectively. Thus, using the              
+154LA4cL Gallagher-Moszkowski rule, one may expect the K|p=2-,                  
+154LA5cL |p1/2[420]~#|n5/2[523] configuration for the ground state.             
+154LA7cL The assignment is tentative and it is made by the evaluator.           
+                                                                                
 154CE    ADOPTED LEVELS                                          09NDS    200910
 154CE  H TYP=FUL$AUT=C. W. Reich$CIT=NDS 110, 2257 (2009)$CUT=1-May-2008$       
 154CE  Q 5.8E3     SY5.4E3   SY1.34E4  SY-4.5E3  SY    2012WA38                 

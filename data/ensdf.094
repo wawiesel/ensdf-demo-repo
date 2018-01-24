@@ -11469,3 +11469,46 @@
  94AGaCL the level energy is 6670 keV with a uncertainty of 709 kev from        
  94AGaCL systematics.                                                           
                                                                                 
+ 94CD    COMMENTS                                                ENSDF    201610
+ 94CD  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
+ 94CD C  TITL$NUCLEAR DATA SHEETS FOR 94CD                                      
+ 94CD c  AUTH$BALRAJ SINGH                                                      
+ 94CD c  INST$Department of Physics and Astronomy,                              
+ 94CD#c       McMaster University, Hamilton, Ontario,                           
+ 94CD#c       Canada, L8S 4M1                                                   
+ 94CD c  ABST$Production and identification of the {+94}Cd nuclide,             
+ 94CD2c  from 2016Ce02 is presented.                                            
+ 94CD c  CUT$Literature available up to July 31, 2016 has been consulted.       
+ 94CD C  CIT$ENSDF                                                              
+ 94CD c  FUND$                                                                  
+                                                                                
+ 94CD    ADOPTED LEVELS                                          ENSDF    201610
+ 94CD  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
+ 94CD  Q              17910  CA  1480  CA -3630  CA    1997MO25                 
+ 94CD cQ $S(2n)=32870, S(2p)=990 (theory,1997Mo25)                              
+ 94CD c  2016Ce02: {+94}Cd nuclide produced and identified at RIBF-RIKEN        
+ 94CD2c  facility in {+9}Be({+124}Xe,X) reaction at E=345 MeV/nucleon with an   
+ 94CD3c  average beam intensity of 30 pnA. Identification of {+94}Cd was made by
+ 94CD4c  determining atomic Z and mass-to-charge ratio A/Q, where Q=charge state
+ 94CD5c  of the ions. The selectivity of ions was based on magnetic rigidity,   
+ 94CD6c  time-of-flight and energy loss using BigRIPS separator and zero degree 
+ 94CD7c  spectrometer ZDS. The separated nuclei were implanted in a wide range  
+ 94CD8c  silicon-strip stopper array for ion and |b particle detection WAS3ABi, 
+ 94CD9c  consisting of three highly-segmented 1 mm thick double-sided silicon   
+ 94CDAc  detectors, a stack of ten segmented 1 mm thick single-sided silicon    
+ 94CDBc  strip detectors. The |g rays were detected by EURICA array of 84 HPGe  
+ 94CDCc  detectors surrounding the WAS3ABi system. In addition an array of 18   
+ 94CDDc  LaBr{-3}(Ce) detectors was used for |g detection in fast-timing        
+ 94CDEc  measurements.                                                          
+ 94CD d  Theoretical nuclear structure calculations: 2008Sc02, 2003St22,        
+ 94CD2d  1997He24, 1995Do05                                                     
+ 94CD  L  0            0+               760 NS   GT                             
+ 94CD2 L %EC+%B+=? $ %ECP=?                                                     
+ 94CD cL $A total of three events were assigned to {+94}Cd                      
+ 94CD cL $Measured production |s=0.02 pb {I+3-1} (2016Ce02)                     
+ 94CD cL T$lower limit of half-life assigned by evaluator from time-of-flight   
+ 94CD2cL of 760 ns (2016Ce02) through the BigRIPS fragment separator and ZDS    
+ 94CD3cL spectrometer. Since {+94}Cd is expected to be a bound nucleus from     
+ 94CD4cL S(p)=1.48 MeV, S(2p)=0.99 MeV (theory, 1997Mo25), actual half-life is  
+ 94CD5cL expected to be much longer, e.g. theoretical T{-1/2}=73 ms in 1997Mo25 
+                                                                                

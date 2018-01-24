@@ -3122,6 +3122,8 @@
  21NAS E EAV=   1239 16$CK= 0.000869 15$                                        
                                                                                 
  21NA    22AL ECP DECAY:91.1 MS        2006AC04                  15NDS    201507
+ 21NA  H TYP=ERR$AUT=E.A. MCCUTCHAN$CIT=ENSDF$DAT=13-OCT-2016$                  
+ 21NA2 H COM=CORRECTED NP VALUE$                                                
  21NA  H TYP=FUL$AUT=R.B. FIRESTONE$CIT=NDS 127, 1 (2015)$CUT=15-Jan-2015$      
  21NA c  {+22}Al isotope produced by fragmentation of 95 MeV/nucleon {+36}Ar    
  21NA2c  beam on a carbon target. Reaction products separated by LISE3          
@@ -3133,10 +3135,9 @@
  21NA c  Other references:  1997Bl03,1982Ca16                                   
  21NA cG RI$From |b-delayed proton feeding intensity                            
  22AL  P 0            4+                91.1 MS  5              13100     SY    
- 21NA  N  1.83                  0.545  25               0.545 25                
+ 21NA  N  1.83                  0.545  25               1.00                    
  21NA cN BR$%|ep=54.5 {I25} (addition of all the observed proton branches)      
  21NA cDPE$In c.m. system                                                       
- 21NA cDPIP$Per 100 decays of {+22}Al                                           
  21NA cDPEI(A)$14012 {I3} is the IAS of {+22}Al{-g.s.}                          
  21NA  L 0           3/2+                                                       
  21NA  DP 721      8 7.4     10 6221                                            

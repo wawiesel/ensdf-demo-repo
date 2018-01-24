@@ -552,6 +552,110 @@
 156    R 2011SO14 JOUR PRVCA 83 057302                                          
 156    R 2011SU15 JOUR PRVCA 83 064308                                          
                                                                                 
+156LA    COMMENTS                                                ENSDF    201704
+156LA  H TYP=FUL$AUT=FILIP G. KONDEV$CIT=ENSDF$CUT=20-Feb-2017$                 
+156LA C  TITL$NUCLEAR DATA SHEETS FOR 156LA                                     
+156LA c  AUTH$FILIP G. KONDEV                                                   
+156LA c  INST$Nuclear Engineering Division                                      
+156LA#c       Argonne National Laboratory                                       
+156LA#c       9700 South Cass Avenue                                            
+156LA#c       Argonne, Illinois 60439, USA                                      
+156LA c  ABST$Information about the nuclear structure properties of the         
+156LA2c  {+156}La nuclide is presented                                          
+156LA c  CUT$Literature available up to February 20, 2017 has been consulted.   
+156LA c  FUND$This work is supported by the Office of Nuclear Physics, Office   
+156LA1c  of Science, U.S. Department of Energy under contract DE-AC02-06CH11357.
+156LA C  CIT$ENSDF                                                              
+                                                                                
+156LA    ADOPTED LEVELS                                                   201704
+156LA  H TYP=FUL$AUT=FILIP G. KONDEV$CIT=ENSDF$CUT=20-Feb-2017$                 
+156LA  Q 11680     CA 3160   CA 12500  CA -5980  CA    1997MO25                 
+156LA cQ $S(2n)=7720, S(2p)=27690, from 1997Mo25 (theory)                       
+156LA c  2017Wu04: The {+156}La nuclide was produced at the RIBF-RIKEN facility 
+156LA2c  using the {+9}Be({+238}U,F) reaction at E=345 MeV/nucleon.  Two        
+156LA3c  experiments, optimized for the transmission of {+158}Nd and {+170}Dy   
+156LA4c  ions, were carried out with average beam intensities of 7 pnA and 12   
+156LA5c  pnA, respectively. The identification of the nuclide of interest was   
+156LA6c  made in the BigRIPS separator by determining the atomic number and the 
+156LA7c  mass-to-charge ratio of the ion using the TOF-B|r-|DE method. The      
+156LA8c  reaction products were transported through the ZeroDegree Spectrometer 
+156LA9c  and implanted into the beta-counting system WAS3ABi that was surrounded
+156LAac  by the EURICA array comprising of 84 HPGe detectors. The typical       
+156LAbc  implantation rate was ~~100 ions/s.  Measured: implanted ion-|b{+-}-t, 
+156LAcc  implanted ion-|b{+-}-|g-t and implanted ions-|g-t correlations.        
+156LAdc  Deduced: T{-1/2}.                                                      
+156LA  L 0.0          (4+)             84 MS     78                             
+156LA2 L %B-=100 $ %B-N=?                                                       
+156LA cL %B-$Only |b{+-} decay mode is expected.                                
+156LA cL J$From systematics of known quasiparticle states in neighboring nuclei 
+156LA2cL and the proposed configuration (by the evaluator). The assignment is   
+156LA3cL tentative.                                                             
+156LA cL T$From 2017Wu04, using a fit to the implanted ion-|b{+-}-t spectrum    
+156LA2cL using the least-squares and maximum-likelihood methods. The data       
+156LA3cL analysis included contributions from the parent, daughter and          
+156LA4cL grand-daughter decays, as well as a constant background.               
+156LA cL CONF$From systematics of well-deformed nuclei in this mass region, the 
+156LA2cL |p1/2[420] and |n7/2[633] Nilsson orbitals are expected near the proton
+156LA3cL and neutron Fermi surfaces, respectively. Thus, using the              
+156LA4cL Gallagher-Moszkowski rule, one may expect the K|p=4+,                  
+156LA5cL |p1/2[420]~#|n7/2[633] configuration for the ground state.             
+156LA7cL The assignment is tentative and it is made by the evaluator.           
+                                                                                
+156PR    COMMENTS                                                ENSDF    201704
+156PR  H TYP=FUL$AUT=FILIP G. KONDEV$CIT=ENSDF$CUT=20-Feb-2017$                 
+156PR C  TITL$NUCLEAR DATA SHEETS FOR 156PR                                     
+156PR c  AUTH$FILIP G. KONDEV                                                   
+156PR c  INST$Nuclear Engineering Division                                      
+156PR#c       Argonne National Laboratory                                       
+156PR#c       9700 South Cass Avenue                                            
+156PR#c       Argonne, Illinois 60439, USA                                      
+156PR c  ABST$Information about the nuclear structure properties of the         
+156PR2c  {+156}Pr nuclide is presented                                          
+156PR c  CUT$Literature available up to February 20, 2017 has been consulted.   
+156PR c  FUND$This work is supported by the Office of Nuclear Physics, Office   
+156PR1c  of Science, U.S. Department of Energy under contract DE-AC02-06CH11357.
+156PR C  CIT$ENSDF                                                              
+                                                                                
+156PR    ADOPTED LEVELS                                                   201704
+156PR  H TYP=FUL$AUT=FILIP G. KONDEV$CIT=ENSDF$CUT=20-Feb-2017$                 
+156PR  Q 8906      SY 4224   SY 10931  SY -4456  SY    2012WA38                 
+156PR cQ $Estimated uncertainties (2012Wa38): |DQ(|b{+-})=359, |DS(n)=299,      
+156PR2cQ |DS(p)=499, |DS(|a)=422                                                
+156PR cQ $S(2n)=9516 {I334}, S(2p)=24387 {I499}, Q(|b{+-}n)=2645 {I298}         
+156PR2cQ from 2012Wa38 (syst).                                                  
+156PR c  2017Wu04: The {+156}Pr nuclide was produced at the RIBF-RIKEN facility 
+156PR2c  using the {+9}Be({+238}U,F) reaction at E=345 MeV/nucleon.  Two        
+156PR3c  experiments, optimized for the transmission of {+158}Nd and {+170}Dy   
+156PR4c  ions, were carried out with average beam intensities of 7 pnA and 12   
+156PR5c  pnA, respectively. The identification of the nuclide of interest was   
+156PR6c  made in the BigRIPS separator by determining the atomic number and the 
+156PR7c  mass-to-charge ratio of the ion using the TOF-B|r-|DE method. The      
+156PR8c  reaction products were transported through the ZeroDegree Spectrometer 
+156PR9c  and implanted into the beta-counting system WAS3ABi that was surrounded
+156PRac  by the EURICA array comprising of 84 HPGe detectors. The typical       
+156PRbc  implantation rate was ~~100 ions/s.  Measured: implanted ion-|b{+-}-t, 
+156PRcc  implanted ion-|b{+-}-|g-t and implanted ions-|g-t correlations.        
+156PRdc  Deduced: T{-1/2}.                                                      
+156PR  L 0.0          (1+)             0.444 S   6                              
+156PR2 L %B-=100 $ %B-N=?                                                       
+156PR cL %B-$Only |b{+-} decay mode is expected.                                
+156PR cL J$From systematics of known quasiparticle states in neighboring nuclei 
+156PR2cL and the proposed configuration (by the evaluator). The assignment is   
+156PR3cL tentative.                                                             
+156PR cL T$From 2017Wu04, using a fit to the implanted ion-|b{+-}-t spectrum    
+156PR2cL using the least-squares and maximum-likelihood methods. The data       
+156PR3cL analysis included contributions from the parent, daughter and          
+156PR4cL grand-daughter decays, as well as a constant background.               
+156PR5cL The assignment to the ground state is ambiguous, given the possible    
+156PR6cL existence of an isomeric state.                                        
+156PR cL CONF$From systematics of well-deformed nuclei in this mass region, the 
+156PR2cL |p3/2[541] and |n5/2[523] Nilsson orbitals are expected near the proton
+156PR3cL and neutron Fermi surfaces, respectively. Thus, using the              
+156PR4cL Gallagher-Moszkowski rule, one may expect the K|p=1+,                  
+156PR5cL |p3/2[541]~#|n5/2[523] configuration for the ground state. The         
+156PR6cL existence of a K|p=4+ isomer, arising from the same configuration, is  
+156PR7cL also possible. The assignment is made by the evaluator.                
+                                                                                
 156ND    ADOPTED LEVELS, GAMMAS                                  12NDS    201210
 156ND  H TYP=FUL$AUT=C. W. REICH$CIT=NDS 113, 2537 (2012)$CUT=1-Mar-2012$       
 156ND  Q 3.69E3    206.26E3  201.235E4 20-3.8E3  SY    2012WA38                 

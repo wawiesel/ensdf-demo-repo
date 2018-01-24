@@ -8180,64 +8180,65 @@
 102AG CG             R(DCOQ)=0.68 {I22}                                         
                                                                                 
 102CD    ADOPTED LEVELS, GAMMAS                                  09NDS    200908
+102CD  H TYP=ERR$AUT=E.A. McCutchan$DAT=25-Jan-2017$COM=Fixed T1/2 of 1638 level
 102CD  H TYP=FUL$AUT=D. DE FRENNE$CIT=NDS 110, 1745 (2009)$CUT=31-Dec-2008$     
 102CD  XA102IN EC DECAY                                                         
 102CD  XC103SN ECP DECAY:7.0 S                                                  
 102CD  XB(HI,XNG)                                                               
 102CD  Q -8966     5 11894.4 235614    6 -763    5     2012WA38                 
-102CD CQ Note: Current evaluation has used the following Q record               
+102CD cQ $Note: Current evaluation has used the following Q record              
 102CD  Q -897E+1   111200E+1 15574E+1  11-802    36    2003AU03                 
-102CD CQ $Mass excess:-79672 7 (2007Ma92)                                       
-102CD CG E,RI$Unless noted otherwise, weighted averages of |e decay data and    
-102CD2CG (HI,xn|g), if both available, if not data of corresponding data set    
-102CD3CG used                                                                   
-102CD CG E(B),RI(B)$From {+102}In |e decay                                      
-102CD CG M         From |g(|q) in (HI,xn|g). From 1997Pe25 and/or 2001Li24.     
+102CD cQ $Mass excess:-79672 {I7} (2007Ma92)                                    
+102CD cG E,RI$Unless noted otherwise, weighted averages of |e decay data and    
+102CD2cG (HI,xn|g), if both available, if not data of corresponding data set    
+102CD3cG used                                                                   
+102CD cG E(B),RI(B)$From {+102}In |e decay                                      
+102CD cG M         From |g(|q) in (HI,xn|g). From 1997Pe25 and/or 2001Li24.     
 102CD2cG No |d given for mixed transitions                                      
-102CD CG M$ Dipole transitions are considered E1 if the energy is large in      
-102CD2CG connection with a R value characteristic for a stretched dipole        
-102CD3CG (1997Pe25). D+Q considered M1+E2 due to measured short T1/2 for high   
-102CD4CG energy levels (2001Li24). Intraband Q transitions considered E2 by     
-102CD5CG 1997Pe25 and 2001Li24. For mixed transitions no |d given in (HI,xn|g)  
-102CD CL E$Calculated with least squares procedure using adopted gammas         
-102CD CL J$Unless noted otherwise, from |g(|q), in (HI,xn|g) and level          
-102CD2CL systematics of light Cd isotopes. Members of the |DJ=2 g.s. band up    
-102CD3CL to J|p=6+ connected by stretched E2's                                  
+102CD cG M$Dipole transitions are considered E1 if the energy is large in       
+102CD2cG connection with a R value characteristic for a stretched dipole        
+102CD3cG (1997Pe25). D+Q considered M1+E2 due to measured short T{-1/2} for high
+102CD4cG energy levels (2001Li24). Intraband Q transitions considered E2 by     
+102CD5cG 1997Pe25 and 2001Li24. For mixed transitions no |d given in (HI,xn|g)  
+102CD cL E$Calculated with least squares procedure using adopted gammas         
+102CD cL J$Unless noted otherwise, from |g(|q), in (HI,xn|g) and level          
+102CD2cL systematics of light Cd isotopes. Members of the |DJ=2 g.s. band up    
+102CD3cL to J|p=6+ connected by stretched E2's                                  
 102CD cL J(X)$From |e decay feeding from (6+) and |g decay pattern              
-102CD CL T$Unless noted otherwise, from 2001Li24 in (HI,xn|g).                  
-102CD2CL Lifetime measurements were determined using recoil distance Doppler    
-102CD3CL shift technique (RDDS).                                                
-102CD CL T$For some levels the effective lifetime was obtained.This  half-life  
-102CD2CL is obtained assuming 100% side-feeding into the top of the band via a  
-102CD3CL cascade of transitions with the same moment of inertia as the in-band  
-102CD4CL transitions.The highest G ray for which a line shape was observed was  
-102CD5CL then fitted and the extracted life time is called effective lifetime.  
-102CD6CL This lifetime was used as input parameter to extract the lifetimes of  
-102CD7CL the states lower in the cascade(see also 2005Si23)                     
-102CD CL $All BAND information from 1997Pe25 and 2001Li24 in (HI,XNG)           
+102CD cL T$Unless noted otherwise, from 2001Li24 in (HI,xn|g).                  
+102CD2cL Lifetime measurements were determined using recoil distance Doppler    
+102CD3cL shift technique (RDDS).                                                
+102CD cL T$For some levels the effective lifetime was obtained.This half-life   
+102CD2cL is obtained assuming 100% side-feeding into the top of the band via a  
+102CD3cL cascade of transitions with the same moment of inertia as the in-band  
+102CD4cL transitions.The highest |g ray for which a line shape was observed was 
+102CD5cL then fitted and the extracted life time is called effective lifetime.  
+102CD6cL This lifetime was used as input parameter to extract the lifetimes of  
+102CD7cL the states lower in the cascade(see also 2005Si23)                     
+102CD cL $All band information from 1997Pe25 and 2001Li24 in (HI,xn|g)          
 102CD CL BAND(A)$ MEMBER OF DJ=2 GS BAND.                                       
 102CD CL BAND(B)$ BAND BASED ON 9(-).                                           
 102CD CL BAND(C)$ BAND BASED ON (6+).                                           
-102CD2CL Ordering of the 1081-952-849-511 cascade is not certain in this band   
+102CD2cL Ordering of the 1081-952-849-511 cascade is not certain in this band   
 102CD CL BAND(D)$ BAND BASED ON  11(+).                                         
-102CD2CL continuation of g.s. band                                              
+102CD2cL continuation of g.s. band                                              
 102CD  L 0.0         0+                5.5 M     5                          A   
 102CDX L XREF=ABC                                                               
-102CD CL $<r{+2}>{+1/2}=4.4704 fm {I95} (2004An14, evaluation)                  
+102CD cL $<r{+2}>{+1/2}=4.4704 fm {i95} (2004An14, evaluation)                  
 102CD2 L %EC+%B+=100                                                            
-102CD CL T         from 1969Ha03                                                
+102CD cL T         from 1969Ha03                                                
 102CD  L     776.55142+                3.5 PS    6                          A   
 102CDX L XREF=ABC                                                               
-102CD CL T$ from (2007Bo17)                                                     
-102CD CL T$Other: 5.6 NS LT (2001Li24)                                          
+102CD cL T$from (2007Bo17)                                                      
+102CD cL T$Other: 5.6 ns<(2001Li24)                                             
 102CD cL J$From E2 to 0+                                                        
 102CD  G 776.55    14100       E2                                               
 102CDB G BE2W=20 4                                                              
-102CD  L     1637.9 34+                5.6 PS    GT                         A   
+102CD  L     1637.9 34+                5.6 PS    LT                         A   
 102CDX L XREF=AB                                                                
 102CD cL J$From E2 to 2+                                                        
 102CD  G 861.3     3 100       E2                                               
-102CDB G BE2W<7.5                                                               
+102CDB G BE2W GT 7.5                                                            
 102CD  L 1649.3                                                                ?
 102CDX L XREF=B                                                                 
 102CD cL E$Only observed by 1996Ra23, J|p=(0+) suggested                        
@@ -8259,11 +8260,11 @@
 102CD  G 765.3     6 100                                                        
 102CD  L 2482.6                                                                ?
 102CDX L XREF=B                                                                 
-102CD CL J$(2+) suggested from (HI,xn|g)                                        
+102CD cL J$(2+) suggested from (HI,xn|g)                                        
 102CD  G 833.3                                                                 ?
 102CD  L     2561.3 3(6)+                                                       
 102CDX L XREF=AB                                                                
-102CD cL J$E2 to 4+. EC branch from (6+)                                        
+102CD cL J$E2 to 4+. |e branch from (6+)                                        
 102CD  G 157.0     8  0.74   11                                             B   
 102CD  G 330.4     2  10.3   3 D+Q                                          B   
 102CD  G 526.9     8  0.9    3                                              B   
@@ -8282,17 +8283,17 @@
 102CD  L 2676.78      (6+)                                                  C   
 102CDF L FLAG=X                                                                 
 102CDX L XREF=AB                                                                
-102CD cL J$|g to 4+. EC branch from (6+)                                        
+102CD cL J$|g to 4+. |e branch from (6+)                                        
 102CD  G 1038.96   5  100      Q                                                
 102CD  L     2718.6 3(8+)              39 NS     3                              
 102CDX L XREF=AB                                                                
 102CD3 L MOME2=0.87 10                                                          
-102CD CL MOME2     From 1992Al17                                                
+102CD cL MOME2     From 1992Al17                                                
 102CD3 L MOMM1=+10.32 24                                                        
-102CD CL MOMM1     From 1992Al17                                                
-102CD CL T$2001Li24 quote from 1992Al17.Also 38.8 ns 28 2007Bo17),              
-102CD2CL 17 ns {I7} (1982Tr04)                                                  
-102CD CL J         from PAD in (HI,xn|g) 157|g stretched E2 to 6+ (1992Al17).   
+102CD cL MOMM1     From 1992Al17                                                
+102CD cL T$2001Li24 quote from 1992Al17.Also 38.8 ns 28 2007Bo17),              
+102CD2cL 17 ns {i7} (1982Tr04)                                                  
+102CD cL J         from PAD in (HI,xn|g) 157|g stretched E2 to 6+ (1992Al17).   
 102CD  G 157.22    5 100     4 Q                                                
 102CDB G BE2W=2.7 3                                                             
 102CD  G 487.43    4 65      7 (E2)                                             
@@ -8359,7 +8360,7 @@
 102CD  G 762.9     20 100                                                   B   
 102CD  L 3187.49   19                                                       C  ?
 102CDX L XREF=B                                                                 
-102CD CL $Ordering of the 1081-952-849-511 cascade is not certain in this band  
+102CD cL $Ordering of the 1081-952-849-511 cascade is not certain in this band  
 102CD2cL so no J|p values given here by 2001Li24                                
 102CD  G 510.70    4 100                                                        
 102CD  L     3193.7 7                                                           
@@ -8745,18 +8746,18 @@
 102CD  G 2035.0    5  59     10                                             B   
 102CD  L     4277.0 4(11)+             1.04 PS   14                         D   
 102CDX L XREF=B                                                                 
-102CD CL J$|p=+ from measured short lifetime  of yrast states  above the 10+    
+102CD cL J$|p=+ from measured short lifetime of yrast states above the 10+      
 102CD2cL level which rules out any change of parity and determines the          
 102CD3cL stretched M1 character of the upper transitions in the cascade         
 102CD4cL (2001Li24)                                                             
 102CD  G 269.11    3 100     3  M1+E2                                       B   
-102CD CG M$From 2001Li24. M1/E2 from 1997Pe25                                   
-102CD CG M$Measured short lifetime excludes parity change (2001Li24)            
+102CD cG M$From 2001Li24. M1/E2 from 1997Pe25                                   
+102CD cG M$Measured short lifetime excludes parity change (2001Li24)            
 102CD  G 368.5     2 78.1    24 M1+E2                                       B   
 102CDF G FL=3908.4$                                                             
-102CD cG RI$Other: 49 15 (1996Ra23)                                             
-102CD CG M$From 2001Li24, no MR given. M1/E2 from (1997Pe25)                    
-102CD CG M$Measured short lifetime excludes parity change (2001Li24)            
+102CD cG RI$Other: 49 {I15} (1996Ra23)                                          
+102CD cG M$From 2001Li24, no |d given. M1/E2 from (1997Pe25)                    
+102CD cG M$Measured short lifetime excludes parity change (2001Li24)            
 102CD  L     4282.8 5                                                           
 102CDX L XREF=A                                                                 
 102CD  G 1454.5    8  30     7                                              B   
@@ -8844,8 +8845,8 @@
 102CD  L     4518.3 5(12)+             1.73 PS   14                         D   
 102CDX L XREF=B                                                                 
 102CD  G 241.3     2 100       M1(+E2)                                          
-102CD CG M$From (HI,xn|g) in 2001Li24. Other: D from (HI,xn|g) in 1997Pe25.     
-102CD2CG Measured short lifetime excludes parity change (2001Li24)              
+102CD cG M$From (HI,xn|g) in 2001Li24. Other: d from (HI,xn|g) in 1997Pe25.     
+102CD2cG Measured short lifetime excludes parity change (2001Li24)              
 102CD  L     4525.3 5                                                           
 102CDX L XREF=A                                                                 
 102CD  G 1136.0    3  100                                                   B   
@@ -8917,7 +8918,7 @@
 102CD  L   4736.57 15(13)                                                       
 102CDX L XREF=B                                                                 
 102CD  G    218.46  4    100   D+Q                                             ?
-102CD CG M$ From (HI,xn|g) in 1997Pe25                                          
+102CD cG M$From (HI,xn|g) in 1997Pe25                                           
 102CD  L     4739.7 5                                                           
 102CDX L XREF=A                                                                 
 102CD  G 1471.6    20 23     7                                              B   
@@ -8987,7 +8988,7 @@
 102CD  L   4960.53 15(12)                                                      ?
 102CDX L XREF=B                                                                 
 102CD  G    683.61  5 100      D                                               ?
-102CD CG M$From (HI,xn|g) (1997Pe25)                                            
+102CD cG M$From (HI,xn|g) (1997Pe25)                                            
 102CD  L     4981.8 5                                                           
 102CDX L XREF=A                                                                 
 102CD  G 1534.3    10 18     LT                                             B   
@@ -9067,7 +9068,7 @@
 102CD  L   5196.75 11(11-)                                                  B  ?
 102CDX L XREF=B                                                                 
 102CD  G    846.95  3   100    Q                                            B   
-102CD CG M$From (HI,xn|g) (1997Pe25)                                            
+102CD cG M$From (HI,xn|g) (1997Pe25)                                            
 102CD  L     5237.5 7                                                           
 102CDX L XREF=A                                                                 
 102CD  G 1534.6    5  100    14                                             B   
@@ -9086,8 +9087,8 @@
 102CD  L   5308.77 11(13)+             0.28 PS   7                          D   
 102CDX L XREF=B                                                                 
 102CD  G    790.51  3 100      M1+E2                                            
-102CD CG M$From (HI,xn|g) 2001Li24, . Other D (1997Pe25)                        
-102CD CG M$Measured short lifetime excludes parity change (2001Li24)            
+102CD cG M$From (HI,xn|g) 2001Li24, . Other d (1997Pe25)                        
+102CD cG M$Measured short lifetime excludes parity change (2001Li24)            
 102CD  L     5332.510                                                           
 102CDX L XREF=A                                                                 
 102CD  G 2614.4    9  100                                                   B   
@@ -9198,11 +9199,11 @@
 102CD  L   5769.24 1114                                                         
 102CDX L XREF=B                                                                 
 102CD  G    460.43  4   50.7 20D                                                
-102CD CG M$From (HI,xn|g) (1997Pe25)                                            
+102CD cG M$From (HI,xn|g) (1997Pe25)                                            
 102CD  G    808.94  5   25.9 15Q                                               ?
-102CD CG M$From (HI,xn|g) (1997Pe25)                                            
+102CD cG M$From (HI,xn|g) (1997Pe25)                                            
 102CD  G   1250.95  4   100  3 Q                                                
-102CD CG M$From (HI,xn|g) (1997Pe25)                                            
+102CD cG M$From (HI,xn|g) (1997Pe25)                                            
 102CD  L     5769.620                                                           
 102CDX L XREF=A                                                                 
 102CD  G 4131.9    20 100                                                   B   
@@ -9260,10 +9261,10 @@
 102CD  G 3200.6    10 100    29                                             B   
 102CD  L   5926.23 11(14)+             1.52 PS   14                         D   
 102CDX L XREF=B                                                                 
-102CD CL T$effective lifetime                                                   
+102CD cL T$effective lifetime                                                   
 102CD  G    617.45  3   100    M1+E2                                            
-102CD CG M$From (HI,xn|g) 2001Li24. Other D (1997Pe25)                          
-102CD CG M$Measured short lifetime excludes parity change (2001Li24)            
+102CD cG M$From (HI,xn|g) 2001Li24. Other d (1997Pe25)                          
+102CD cG M$Measured short lifetime excludes parity change (2001Li24)            
 102CD  L     5932.6 6                                                           
 102CDX L XREF=A                                                                 
 102CD  G 3529.4    10 33     11                                             B   
@@ -9297,7 +9298,7 @@
 102CD  L   6080.65 11(13-)                                                  B   
 102CDX L XREF=B                                                                 
 102CD  G    883.89  3   100   3Q                                                
-102CD CG M$From (HI,xn|g) (1997Pe25)                                            
+102CD cG M$From (HI,xn|g) (1997Pe25)                                            
 102CD  G   1562.15  8    12  7                                                  
 102CD  L     6083.511                                                           
 102CDX L XREF=A                                                                 
@@ -9337,7 +9338,7 @@
 102CD  L   6287.11 19(15)                                                      ?
 102CDX L XREF=B                                                                 
 102CD  G    360.88  4 100      D                                               ?
-102CD CG M$From (HI,xn|g) (1997Pe25)                                            
+102CD cG M$From (HI,xn|g) (1997Pe25)                                            
 102CD  L     6292.2 6                                                           
 102CDX L XREF=A                                                                 
 102CD  G 3164.5    10 77     27                                             B   
@@ -9350,9 +9351,9 @@
 102CD  L   6323.54 13(13-)                                                      
 102CDX L XREF=B                                                                 
 102CD  G    242.93  4 100     3D+Q                                              
-102CD CG M$From (HI,xn|g) (1997Pe25).                                           
+102CD cG M$From (HI,xn|g) (1997Pe25).                                           
 102CD  G   1805.17  8 31.4   11D                                                
-102CD CG M$From (HI,xn|g) (1997Pe25)                                            
+102CD cG M$From (HI,xn|g) (1997Pe25)                                            
 102CD  L     6344.111                                                           
 102CDX L XREF=A                                                                 
 102CD  G 3941.2    10 100                                                   B   
@@ -9395,11 +9396,11 @@
 102CD  L   6712.38 24(16)                                                      ?
 102CDX L XREF=B                                                                 
 102CD  G    425.27  4    100   D                                               ?
-102CD CG M$From (HI,xn|g) (1997Pe25)                                            
+102CD cG M$From (HI,xn|g) (1997Pe25)                                            
 102CD  L   6746.16 15 (14-)            5.5 PS    GT                         C   
 102CDX L XREF=B                                                                 
 102CD  G    422.70  5    71   3(D)                                             ?
-102CD CG E$Only observed by 1997Pe25                                            
+102CD cG E$Only observed by 1997Pe25                                            
 102CDB G BE1W<0.00023                                                           
 102CD  G    665.43  8    58   3D+Q                                              
 102CD  G    676.44  5    100  3Q                                                
@@ -9418,12 +9419,12 @@
 102CD  L   6827.49 12(14)                                                       
 102CDX L XREF=B                                                                 
 102CD  G    264.04  3    100  3D                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CD  G    504.20  4    96   4D                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CD  G    746.92  6    65   3                                                 
 102CD  G   1519.02 10    35   3D                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CD  L     6963.820                                                           
 102CDX L XREF=A                                                                 
 102CD  G 4402.6    20   100                                                     
@@ -9434,11 +9435,11 @@
 102CDX L XREF=B                                                                 
 102CD  G    183.42  4   41.3 12                                                 
 102CD  G    930.30  4   100   4Q                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CD  G   1085.12  7   21.6 12D                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CD  G   1241.81  4   67.7 24D                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CD  L     7124.111                                                           
 102CDX L XREF=A                                                                 
 102CD  G 3421.1    10  100                                                  B   
@@ -9448,23 +9449,23 @@
 102CDF G FL=6827.49                                                             
 102CD  G   1335.70 15    22  17                                                 
 102CD  G   1492.43  8    5    3D                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CDF G FL=5769.24$                                                            
 102CD  L   7332.00 14(16)                                                   D   
 102CDX L XREF=B                                                                 
 102CD  G    558.81  4    100  3D                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CD  G   1405.38 15    13   1Q                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CD  G   1563.86 23    12   2                                                 
-102CD CG E$ poor fit, level energy difference=1562.76                           
+102CD cG E$poor fit, level energy difference=1562.76                            
 102CD  L     7361.020                                                           
 102CDX L XREF=A                                                                 
 102CD  G 5326.6    20   100                                                     
 102CD  L   7788.93 18(16)              5.5 PS    GT                         C  ?
 102CDX L XREF=B                                                                 
 102CD  G   1042.76 4    100    Q                                                
-102CD CG M$From (HI,xn|g) 2001Li24 and 1997Pe25                                 
+102CD cG M$From (HI,xn|g) 2001Li24 and 1997Pe25                                 
 102CDB G BE2W<2.9                                                               
 102CD  L   7943.66 15(16)                                                       
 102CDX L XREF=B                                                                 
@@ -9473,37 +9474,37 @@
 102CD  L   8099.66 13(17-)             1.25 PS   GT                         B   
 102CDX L XREF=B                                                                 
 102CD  G    767.77  5  24.7  13D                                                
-102CD CG M$From (HI,xn|g) 2001Li24 and 1997Pe25                                 
+102CD cG M$From (HI,xn|g) 2001Li24 and 1997Pe25                                 
 102CDB G BE1W<9.4E-5                                                            
 102CD  G    837.98  8    19  13                                                ?
 102CD  G   1088.56  4   100  4 Q                                                
-102CD CG M$From (HI,xn|g) 2001Li24 and 1997Pe25                                 
+102CD cG M$From (HI,xn|g) 2001Li24 and 1997Pe25                                 
 102CDB G BE2W<7.3                                                               
 102CD  L   8367.42 21(17)                                                   D   
 102CDX L XREF=B                                                                 
 102CD  G   1035.42  6   100    D                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CD  L   8508.34 18(17)                                                       
 102CDX L XREF=B                                                                 
 102CD  G    564.25 4    100    D                                                
-102CD CG M$From (HI,xn|g) 1997Pe25                                              
+102CD cG M$From (HI,xn|g) 1997Pe25                                              
 102CD  L   8845.38 23 (18)             1.80 PS   14                         C  ?
 102CDX L XREF=B                                                                 
-102CD CL T$effective lifetime                                                   
+102CD cL T$effective lifetime                                                   
 102CD  G   1056.45  4   100    Q                                                
-102CD CG M$From (HI,xn|g) 2001Li24 and 1997Pe25                                 
+102CD cG M$From (HI,xn|g) 2001Li24 and 1997Pe25                                 
 102CDB G BE2W=8.4 7                                                             
 102CD  L   8942.69 18(18-)             1.25 PS   GT                         B   
 102CDX L XREF=B                                                                 
 102CD  G    433.92  6   30.8 13                                                ?
 102CD  G    843.46  4   100  4 D+Q                                              
-102CD CG E$ poor fit, level energy difference=843.03                            
-102CD CG M$From (HI,xn|g) 2001Li24. Other: D  (1997Pe25)                        
+102CD cG E$poor fit, level energy difference=843.03                             
+102CD cG M$From (HI,xn|g) 2001Li24. Other: d (1997Pe25)                         
 102CD  L   9233.43 21(19-)             1.59 PS   14                         B   
 102CDX L XREF=B                                                                 
-102CD CL T$effective lifetime                                                   
+102CD cL T$effective lifetime                                                   
 102CD  G    290.74  3   100    D+Q                                              
-102CD CG M$From (HI,xn|g) (2001Li24). Other: D  (1997Pe25)                      
+102CD cG M$From (HI,xn|g) (2001Li24). Other: d (1997Pe25)                       
 102CD  L  10513.7   3(20)                                                   C  ?
 102CDX L XREF=B                                                                 
 102CD  G   1668.27 11   100    Q                                                
@@ -10627,17 +10628,18 @@
 102CD  G 777                                                                    
                                                                                 
 102CD    (HI,XNG)                                                09NDS    200908
+102CD  H TYP=ERR$AUT=E.A. McCutchan$DAT=25-Jan-2017$COM=Fixed T1/2 of 1638 level
 102CD  H TYP=FUL$AUT=D. DE FRENNE$CIT=NDS 110, 1745 (2009)$CUT=31-Dec-2008$     
 102CD c  1997Pe25 (also 1996Pe13): {+58}Ni({+50}Cr,|a2p|g) E=261 MeV.  Measured 
 102CD2c  E|g, I|g, |g|g, and |g|g(|q) using the NORDBALL Ge detector array in   
 102CD3c  conjunction with 11 liquid scintillator detectors, a silicon ball      
 102CD4c  comprised of 21 silicon detectors, and BaF2 crystals as a time         
 102CD5c  reference for the events in NORDBALL.                                  
-102CD C  2001Li24: {+58}Ni({+50}Cr,|a2p|g) E=205 MeV.  Measured E|g, I|g, |g|g, 
+102CD c  2001Li24: {+58}Ni({+50}Cr,|a2p|g) E=205 MeV. Measured E|g, I|g, |g|g,  
 102CD2c  and lifetimes using the GASP array consisting of 40 Compton-suppressed 
 102CD3c  Ge detectors. Lifetime measurements were determined using recoil       
 102CD4c  distance Doppler shift technique.                                      
-102CD C  2007Bo17: {+92}Mo({+12}C,2n|g).E=41 MeV. Measured E|g, |g|g, lifetimes 
+102CD c  2007Bo17: {+92}Mo({+12}C,2n|g).E=41 MeV. Measured E|g, |g|g, lifetimes 
 102CD2c  using Euroball cluster detector of seven Ge detectors at 0|' relative  
 102CD3c  to the beam axis, and 5 HPGe detectors at a polar angle of 143|'.Target
 102CD4c  99%enriched with {+92}Mo. Shell-Model calculations.                    
@@ -10656,286 +10658,286 @@
 102CDxc  {+102}Cd levels.                                                       
 102CD c  Unless noted otherwise, all |g data given here are from 1997Pe25 and/or
 102CD2c  2001Li24                                                               
-102CD CG E(A)$Ordering of 1081-952-849-511 cascade is not certain (1997Pe25)    
-102CD CG E,RI$From 1997Pe25                                                     
-102CD CG M$From 1997Pe25 and 2001Li24. Dipole transitions are considered E1 due 
-102CD2CG to its large energy in connection with a R value characteristic of a   
-102CD3CG stretched dipole (1997Pe25). No |d given for mixed transitions         
-102CD CG $R = IG(|q=143|')/ IG[(|q=79|') or (|q=101|')] values from 1997Pe25    
-102CD CL J$From 1997Pe25 and 2001Li24 based on R values from |g|g(|q), A{-22}   
-102CD2CL A{-44} and observed band structure. Numerical values are the same as   
-102CD3CL the adopted ones                                                       
-102CD CL T$Unless noted otherwise, from differential decay method (2001Li24)    
-102CD CL T$For some levels the effective lifetime was obtained.This  half-life  
-102CD2CL is obtained assuming 100% side-feeding into the top of the band via a  
-102CD3CL cascade of transitions with the same moment of inertia as the in-band  
-102CD4CL transitions.The highest G ray for which a line shape was observed was  
-102CD5CL then fitted and the extracted life time is called effective lifetime.  
-102CD6CL This lifetime was used as input parameter to extract the lifetimes of  
-102CD7CL the states lower in the cascade(see also 2005Si23)                     
-102CD CL E$From least-squares fit to E|g's (by evaluator). The uncertainties    
-102CD2CL assigned by 1997Pe25 give a poor fit with about 20 transitions         
-102CD3CL outside 3 or more standard deviations. The evaluator has               
-102CD4CL adjusted |D(E|g)'s as follows: minimum |D(E|g)=0.05 keV for I|g>20,    
-102CD5CL 0.10 keV for 10<I|g<20, and 0.15 keV for 1<I|g<10. This choice         
-102CD6CL gives an acceptable fit.                                               
-102CD CL $All band information from 1997Pe25 and 2001Li24                       
+102CD cG E(A)$Ordering of 1081-952-849-511 cascade is not certain (1997Pe25)    
+102CD cG E,RI$From 1997Pe25                                                     
+102CD cG M$From 1997Pe25 and 2001Li24. Dipole transitions are considered E1 due 
+102CD2cG to its large energy in connection with a R value characteristic of a   
+102CD3cG stretched dipole (1997Pe25). No |d given for mixed transitions         
+102CD cG $R=I|g(|q=143|')/ I|g[(|q=79|') or (|q=101|')] values from 1997Pe25    
+102CD cL J$From 1997Pe25 and 2001Li24 based on R values from |g|g(|q), a{-22}   
+102CD2cL a{-44} and observed band structure. Numerical values are the same as   
+102CD3cL the adopted ones                                                       
+102CD cL T$Unless noted otherwise, from differential decay method (2001Li24)    
+102CD cL T$For some levels the effective lifetime was obtained.This half-life   
+102CD2cL is obtained assuming 100% side-feeding into the top of the band via a  
+102CD3cL cascade of transitions with the same moment of inertia as the in-band  
+102CD4cL transitions.The highest |g ray for which a line shape was observed was 
+102CD5cL then fitted and the extracted life time is called effective lifetime.  
+102CD6cL This lifetime was used as input parameter to extract the lifetimes of  
+102CD7cL the states lower in the cascade(see also 2005Si23)                     
+102CD cL E$From least-squares fit to E|g's (by evaluator). The uncertainties    
+102CD2cL assigned by 1997Pe25 give a poor fit with about 20 transitions         
+102CD3cL outside 3 or more standard deviations. The evaluator has               
+102CD4cL adjusted |D(E|g)'s as follows: minimum |D(E|g)=0.05 keV for I|g>20,    
+102CD5cL 0.10 keV for 10<I|g<20, and 0.15 keV for 1<I|g<10. This choice         
+102CD6cL gives an acceptable fit.                                               
+102CD cL $All band information from 1997Pe25 and 2001Li24                       
 102CD CL BAND(A)$ GS BAND                                                       
 102CD CL BAND(B)$ BAND BASED ON 9(-)                                            
 102CD CL BAND(C)$ BAND BASED ON 6+.                                             
-102CD2CL Ordering of the 1081-952-849-511 cascade is not certain                
+102CD2cL Ordering of the 1081-952-849-511 cascade is not certain                
 102CD CL BAND(D)$ BAND BASED ON  11(+)                                          
-102CD2CL continuation of g.s. band                                              
+102CD2cL continuation of g.s. band                                              
 102CD PN                                                                     5  
 102CD  L       0.0   0+                                                     A   
 102CD  L    776.71 3 2+                3.5 PS    6                          A   
-102CD CL T$ from RDDS method (2007Bo17)                                         
-102CD CL T$Other: 5.8 NS LT 2001Li24                                            
+102CD cL T$from RDDS method (2007Bo17)                                          
+102CD cL T$Other: 5.8 ns<2001Li24                                               
 102CD  G    776.71  3          E2                                               
-102CD CG           R=1.35 {I2}                                                  
-102CD CG $A{-22}=+0.28 {I3} $A{-44}=-0.04 {I4}  $Pol=+0.16 {I10}                
+102CD cG           R=1.35 {i2}                                                  
+102CD cG $A{-22}=+0.28 {i3}; a{-44}=-0.04 {i4}; Pol=+0.16 {i10}                 
 102CDB G BE2W=20 4                                                              
-102CD  L   1637.81 6 4+                5.6 PS    GT                         A   
+102CD  L   1637.81 6 4+                5.6 PS    LT                         A   
 102CD  G    861.09  3    100  3E2                                               
-102CD CG           R=1.22 {I4}                                                  
-102CD CG $A{-22}=+0.29 {I3} $A{-44}=-0.08 {I4}  $Pol=+0.39 {I10}                
-102CDB G BE2W<7.5                                                               
+102CD cG           R=1.22 {i4}                                                  
+102CD cG $A{-22}=+0.29 {i3}; a{-44}=-0.08 {i4}; Pol=+0.39 {i10}                 
+102CDB G BE2W GT 7.5                                                            
 102CD  L 1649.3      (0+)                                                      ?
 102CD cL E$Only observed by 1996Ra23                                            
 102CD  G 873                                                                   ?
 102CD  L   2230.94 8 6+                19.4 PS   14                         A   
 102CD  G    593.12  3   72.7 24E2                                               
-102CD CG           R=1.35 {I3}                                                  
-102CD CG $A{-22}=+0.33 {I3}  $A{-44}=-0.11 {I3}   $Pol=0.62 {I20}               
+102CD cG           R=1.35 {i3}                                                  
+102CD cG $A{-22}=+0.33 {i3}; a{-44}=-0.11 {i3}; Pol=0.62 {i20}                  
 102CDB G BE2W=14.0 11                                                           
 102CD  L 2482.6      (2+)                                                      ?
-102CD CL E$Only observed by 1996Ra23                                            
+102CD cL E$Only observed by 1996Ra23                                            
 102CD  G 833.3                                                                 ?
 102CD  L   2561.41 8 6+                                                         
 102CD  G    330.51  5    3.5  2M1+E2                                            
-102CD CG           R=1.26 {I9}                                                  
+102CD cG           R=1.26 {i9}                                                  
 102CD  G    923.61  3   20.4  8E2                                               
-102CD CG           R=1.23 {I3}                                                  
-102CD CG $A{-22}=+0.19 {I5}  $A{-44}=-0.03 {I6}   $Pol=0.12 {I6}                
+102CD cG           R=1.23 {i3}                                                  
+102CD cG $A{-22}=+0.19 {i5}; a{-44}=-0.03 {i6}; Pol=0.12 {i6}                   
 102CD  L   2676.78 15(6+)                                                   C   
 102CD  G   1038.96  5    7.3  5E2                                               
-102CD CG           R=1.58 {I15}                                                 
+102CD cG           R=1.58 {i15}                                                 
 102CD  L   2718.84 108+                39 NS     3                              
-102CD CL T$2001Li24 quote from 1992Al17. Also 38.8 ns 28 2007Bo17)              
+102CD cL T$2001Li24 quote from 1992Al17. Also 38.8 ns 28 2007Bo17)              
 102CD  G    157.22  5    9.5  3E2                                               
-102CD CG           R=1.26 {I3}                                                  
+102CD cG           R=1.26 {i3}                                                  
 102CDB G BE2W=3.1 3                                                             
 102CD  G    487.43  4    6.8  3E2                                               
 102CDF G FL=2230.94                                                             
-102CD CG           R=1.16 {I4}                                                  
-102CD CG $A{-22}=+0.09 {I4}  $A{-44}=+0.03 {I5}   $Pol=-0.06 {I6}               
+102CD cG           R=1.16 {i4}                                                  
+102CD cG $A{-22}=+0.09 {i4}; a{-44}=+0.03 {i5}; Pol=-0.06 {i6}                  
 102CD cG M$A{-22}, A{-44} and Pol for multiplet                                 
 102CDB G BE2W=0.0078 8                                                          
 102CD  L   3052.97 9 8+                3.1 PS    7                          A   
 102CD  G      492   1   3    LT                                                 
-102CD CG E,RI$From 2001Li24                                                     
+102CD cG E,RI$From 2001Li24                                                     
 102CD  G    822.03  3   62.9 20E2                                               
-102CD CG           R=1.43 {I3}                                                  
-102CD CG $A{-22}=+0.35 {I5} $A{-44}=-0.14 {I5}                                  
+102CD cG           R=1.43 {i3}                                                  
+102CD cG $A{-22}=+0.35 {i5}; a{-44}=-0.14 {i5}                                  
 102CDB G BE2W=17 4                                                              
 102CD  L   3187.49 19                                                       C  ?
 102CD  G    510.70  4    6.2  2                                             A   
-102CD CG           R=1.09 {I7}                                                  
+102CD cG           R=1.09 {i7}                                                  
 102CD  L   3577.67 118+                                                         
 102CD  G    858.99  5   11.4  6M1+E2                                            
-102CD CG           R=1.40 {I12}                                                 
+102CD cG           R=1.40 {i12}                                                 
 102CD  G   1016.29  4    9.6  5E2                                               
-102CD CG           R=1.30 {I11}                                                 
+102CD cG           R=1.30 {i11}                                                 
 102CD  L   3810.44 14(9+)                                                       
 102CD  G   1091.88  5    8.1  7 D                                               
 102CDF G FL=2718.84                                                             
-102CD CG           R=0.79 {I7}                                                  
+102CD cG           R=0.79 {i7}                                                  
 102CD  L   3908.65 1010+               1.2 PS    4                          A   
 102CD  G    855.66  3   40.6 13E2                                               
-102CD CG           R=1.44 {I4}                                                  
-102CD CG $A{-22}=+0.26 {I6}  $A{-44}=-0.29 {I16}                                
+102CD cG           R=1.44 {i4}                                                  
+102CD cG $A{-22}=+0.26 {i6}; a{-44}=-0.29 {i16}                                 
 102CDB G BE2W=25 9                                                              
 102CD  G   1190.20  4   19.3  7E2                                               
-102CD CG           R=1.38 {I5}                                                  
+102CD cG           R=1.38 {i5}                                                  
 102CDB G BE2W=2.2 8                                                             
 102CD  L   4008.03 1010+               0.62 PS   14                             
 102CD  G     99.40  4    3.6  2M1+E2                                            
-102CD CG           R=1.62 {I11}                                                 
+102CD cG           R=1.62 {i11}                                                 
 102CD  G    197.59  4    5.6  2M1+E2                                            
-102CD CG           R=1.32 {I10}                                                 
+102CD cG           R=1.32 {i10}                                                 
 102CD  G    955.07  4   13.1  5E2                                               
-102CD CG           R=1.44 {I5}                                                  
+102CD cG           R=1.44 {i5}                                                  
 102CDB G BE2W=9.5 22                                                            
 102CD  G   1289.44  3   33.8 12E2                                               
-102CD CG           R=1.48 {I4}                                                  
-102CD CG $A{-22}=+0.32 {I8} $A{-44}=-0.17 {I10}   $Pol=+0.03 {I5}               
+102CD cG           R=1.48 {i4}                                                  
+102CD cG $A{-22}=+0.32 {i8}; a{-44}=-0.17 {i10}; Pol=+0.03 {i5}                 
 102CD cG M$|DJ=0,-2 (1988Tr04)                                                  
 102CDB G BE2W=5.4 13                                                            
 102CD  L   4036.50 20                                                       C  ?
 102CD  G    849.00  5    5.9  4                                             A   
-102CD CG           R=0.89 {I35}                                                 
+102CD cG           R=0.89 {i35}                                                 
 102CD  L   4277.15 1011+               1.04 PS   14                         D   
 102CD  G    269.11  3   58.1 18 D                                               
-102CD CG           R=0.79 {I1}                                                  
-102CD CG $A{-22}=+0.06 {I4}   $A{-44}=-0.27 {I5}   $Pol=+0.28 {I12}             
+102CD cG           R=0.79 {i1}                                                  
+102CD cG $A{-22}=+0.06 {i4}; a{-44}=-0.27 {i5}; Pol=+0.28 {i12}                 
 102CD cG M$|DJ=0,-2 (1988Tr04)                                                  
 102CD  G    368.51  3   45.4 14M1                                               
-102CD CG           R=0.80 {I2}                                                  
-102CD CG $A{-22}=-0.21 {I8}   $A{-44}=-0.02 {I10}   $Pol=-0.35 {I10}            
+102CD cG           R=0.80 {i2}                                                  
+102CD cG $A{-22}=-0.21 {i8}; a{-44}=-0.02 {i10}; Pol=-0.35 {i10}                
 102CD  L   4349.78 119(-)                                                   B   
 102CD  G    772.08  4   20.5  8E1                                               
-102CD CG           R=0.77 {I3}                                                  
+102CD cG           R=0.77 {i3}                                                  
 102CD  G   1296.95  7    4.6  2E1                                               
-102CD CG           R=0.55 {I19}                                                 
+102CD cG           R=0.55 {i19}                                                 
 102CD  G   1631.26  8    5.3  3E1                                               
-102CD CG           R=0.76 {I8}                                                  
+102CD cG           R=0.76 {i8}                                                  
 102CD  L   4518.27 1012+               1.73 PS   14                         D   
 102CD  G    241.12  3     88  3 M1                                              
-102CD CG M$Other: D (1997Pe25)                                                  
-102CD CG           R=0.75 {I1}                                                  
-102CD CG $A{-22}=-0.16 {I4}   $A{-44}=-0.07 {I4}   $Pol=-0.25 {I12}             
+102CD cG M$Other: d (1997Pe25)                                                  
+102CD cG           R=0.75 {i1}                                                  
+102CD cG $A{-22}=-0.16 {i4}; a{-44}=-0.07 {i4}; Pol=-0.25 {i12}                 
 102CD  L   4736.57 15(13)                                                       
 102CD  G    218.46  4    3.1  1M1+E2                                           ?
-102CD CG           R=0.80 {I4}                                                  
+102CD cG           R=0.80 {i4}                                                  
 102CD  L   4960.53 15(12)                                                      ?
 102CD  G    683.61  5    6.7  3M1                                              ?
-102CD CG           R=0.68 {I4}                                                  
+102CD cG           R=0.68 {i4}                                                  
 102CD  L   4988.97 20                                                       C  ?
 102CD  G    952.46  4    5.3  3 D                                           A   
-102CD CG           R=0.73 {I8}                                                  
+102CD cG           R=0.73 {i8}                                                  
 102CD  L   5196.75 1111(-)                                                  B  ?
 102CD  G    846.95  3   29.6 10E2                                               
-102CD CG           R=1.30 {I5}                                                  
+102CD cG           R=1.30 {i5}                                                  
 102CD  L   5308.77 1113+               0.28 PS   7                          D   
 102CD  G    790.51  3   45.1 14 M1+E2                                           
-102CD CG           R=0.90 {I3}                                                  
-102CD CG M$Other: D (1997Pe25)                                                  
+102CD cG           R=0.90 {i3}                                                  
+102CD cG M$Other: d (1997Pe25)                                                  
 102CD  L   5407.21 21                                                       C  ?
 102CD  G    418.23  5    2.3  1                                             A   
 102CD  L   5769.24 1114                                                         
 102CD  G    460.43  4   10.4  4 D                                               
-102CD CG           R=0.66 {I3}                                                  
+102CD cG           R=0.66 {i3}                                                  
 102CD  G    808.94  5    5.3  3E2                                              ?
-102CD CG           R=1.24 {I10}                                                 
+102CD cG           R=1.24 {i10}                                                 
 102CD  G   1250.95  4   20.5  7E2                                               
-102CD CG           R=1.36 {I4}                                                  
+102CD cG           R=1.36 {i4}                                                  
 102CD  L   5926.23 1114+               1.52 PS   14                         D   
-102CD CL T$effective lifetime                                                   
+102CD cL T$effective lifetime                                                   
 102CD  G    617.45  3   27.0  9 M1+E2                                           
-102CD CG           R=0.61 {I2}                                                  
-102CD CG M$Other: D (1997Pe25)                                                  
+102CD cG           R=0.61 {i2}                                                  
+102CD cG M$Other: d (1997Pe25)                                                  
 102CD  L   6069.71 19 (12)                                                  C  ?
 102CD  G    662.50  7    1.9  1                                             A   
 102CD  G   1080.72  8    1.9  1                                             A   
-102CD CG           R=1.6 {I5}                                                   
+102CD cG           R=1.6 {i5}                                                   
 102CD  L   6080.65 1113(-)                                                  B   
 102CD  G    883.89  3   29.0 10E2                                               
-102CD CG           R=1.37 {I6}                                                  
+102CD cG           R=1.37 {i6}                                                  
 102CD  G   1562.15  8    3.5  2                                                 
 102CD  L   6287.11 19(15)                                                      ?
 102CD  G    360.88  4    4.9  2 D                                              ?
-102CD CG           R=0.82 {I5}                                                  
+102CD cG           R=0.82 {i5}                                                  
 102CD  L   6323.54 1313(-)                                                      
 102CD  G    242.93  4    8.6  3M1+E2                                            
-102CD CG           R=1.14 {I8}                                                  
+102CD cG           R=1.14 {i8}                                                  
 102CD  G   1805.17  8    2.7  1E1                                               
-102CD CG           R=0.60 {I12}                                                 
+102CD cG           R=0.60 {i12}                                                 
 102CD  L   6563.18 1314(-)                                                      
 102CD  G    239.24  7    1.3  1M1+E2                                           ?
-102CD CG           R=0.84 {I5}                                                  
+102CD cG           R=0.84 {i5}                                                  
 102CD  G   1254.36  7    3.2  2                                                 
-102CD CG           R=0.98 {I13}                                                 
+102CD cG           R=0.98 {i13}                                                 
 102CD  G   1826.76  8    1.9  1                                                ?
-102CD CG           R=1.30 {I25}                                                 
+102CD cG           R=1.30 {i25}                                                 
 102CD  L   6712.38 24(16)                                                      ?
 102CD  G    425.27  4    5.2  2 D                                              ?
-102CD CG           R=0.83 {I5}                                                  
+102CD cG           R=0.83 {i5}                                                  
 102CD  L   6746.16 15 14(-)            5.5 PS    GT                         C   
 102CD  G    422.70  5    4.2  2D                                                
-102CD CG           R=0.78 {I10}                                                 
+102CD cG           R=0.78 {i10}                                                 
 102CDB G BE1W<0.00023                                                           
 102CD  G    665.43  8    3.4  2  M1+E2                                          
 102CD  G    676.44  5    5.9  2  E2                                             
-102CD CG           R=1.17 {I7}                                                  
+102CD cG           R=1.17 {i7}                                                  
 102CDB G BE2W<11                                                                
 102CD  L   6773.21 1415                                                     D   
 102CD  G    847.07  4    11.2 4                                                 
-102CD CG           R=0.86 {I3}                                                  
+102CD cG           R=0.86 {i3}                                                  
 102CD  G   1003.91  9    2.8  2                                                 
-102CD CG           R=0.98 {I19}                                                 
+102CD cG           R=0.98 {i19}                                                 
 102CD  L   6827.49 1214                                                         
 102CD  G    264.04  3    6.9  2D                                                
-102CD CG           R=0.75 {I3}                                                  
+102CD cG           R=0.75 {i3}                                                  
 102CD  G    504.20  4    6.6  3D                                                
-102CD CG           R=0.67 {I5}                                                  
+102CD cG           R=0.67 {i5}                                                  
 102CD  G    746.92  6    4.5  2                                                 
-102CD CG           R=1.15 {I15}                                                 
+102CD cG           R=1.15 {i15}                                                 
 102CD  G   1519.02 10    2.4  2E1                                               
-102CD CG           R=0.50 {I15}                                                 
+102CD cG           R=0.50 {i15}                                                 
 102CD  L   7011.10 1215(-)                                                  B   
 102CD  G    183.42  4    6.9  2                                                 
-102CD CG           R=0.98 {I13}                                                 
+102CD cG           R=0.98 {i13}                                                 
 102CD  G    930.30  4   16.7  6E2                                               
-102CD CG           R=1.29 {I11}                                                 
+102CD cG           R=1.29 {i11}                                                 
 102CD  G   1085.12  7    3.6  2E1                                               
-102CD CG           R=0.74 {I7}                                                  
+102CD cG           R=0.74 {i7}                                                  
 102CD  G   1241.81  4   11.3  4E1                                               
-102CD CG           R=0.76 {I4}                                                  
+102CD cG           R=0.76 {i4}                                                  
 102CD  L   7261.96 1315                                                         
 102CD  G    435.02  4    5.9  3                                                 
 102CDF G FL=6827.49                                                             
-102CD CG E$434.47 from level energy difference                                  
+102CD cG E$434.47 from level energy difference                                  
 102CD  G   1335.70 15    1.3  1                                                 
 102CD  G   1492.43  8    3.3  2E1                                               
-102CD CG           R=0.56 {I7}                                                  
+102CD cG           R=0.56 {i7}                                                  
 102CD  L   7332.00 1416                                                     D   
 102CD  G    558.81  4    9.9  3 D                                               
-102CD CG           R=0.72 {I4}                                                  
+102CD cG           R=0.72 {i4}                                                  
 102CD  G   1405.38 15    1.3  1E2                                               
 102CD  G   1563.86 23    1.2  2                                                 
-102CD CG E$1562.75 from level energy difference                                 
-102CD CG           R=0.8 {I4}                                                   
+102CD cG E$1562.75 from level energy difference                                 
+102CD cG           R=0.8 {i4}                                                   
 102CD  L   7788.93 1816(-)             5.5 PS    GT                         C  ?
 102CD  G   1042.76 4    11.7  4E2                                               
-102CD CG           R=1.43 {I9}                                                  
+102CD cG           R=1.43 {i9}                                                  
 102CDB G BE2W<2.9                                                               
 102CD  L   7943.66 1516                                                         
 102CD  G    681.64  5    5.8  3                                                 
 102CD  G    932.18  5    7.7  4                                                 
-102CD CG           R=0.76 {I19}                                                 
+102CD cG           R=0.76 {i19}                                                 
 102CD  L   8099.66 1317(-)             1.25 PS   GT                         B   
 102CD  G    767.77  5    3.9  2E1                                               
-102CD CG           R=0.53 {I8}                                                  
+102CD cG           R=0.53 {i8}                                                  
 102CDB G BE1W<9.4E-5                                                            
 102CD  G    837.98  8    3.0  2                                                ?
 102CD  G   1088.56  4   15.8  6 E2                                              
-102CD CG           R=1.13 {I5}                                                  
+102CD cG           R=1.13 {i5}                                                  
 102CDB G BE2W<7.3                                                               
 102CD  L   8367.42 2117                                                     D   
 102CD  G   1035.42  6    3.9  2 D                                               
-102CD CG           R=0.70 {I7}                                                  
+102CD cG           R=0.70 {i7}                                                  
 102CD  L   8508.34 1817                                                         
 102CD  G    564.25 4     7.2  3 D                                               
-102CD CG           R=0.68 {I7}                                                  
+102CD cG           R=0.68 {i7}                                                  
 102CD  L   8845.38 23 18(-)            1.80 PS   14                         C  ?
-102CD CL T$effective lifetime                                                   
+102CD cL T$effective lifetime                                                   
 102CD  G   1056.45  4    9.6  4E2                                               
-102CD CG           R=1.34 {I11}                                                 
+102CD cG           R=1.34 {i11}                                                 
 102CDB G BE2W=8.4 7                                                             
 102CD  L   8942.69 1818(-)             1.25 PS   GT                         B   
 102CD  G    433.92  6    2.4  1                                                ?
 102CD  G    843.46  4    7.8  3 M1+E2                                           
-102CD CG           R=0.74 {I6}                                                  
-102CD CG M$ Other: D (1997Pe25)                                                 
-102CD CG E$ poor fit, level energy difference=843.03                            
+102CD cG           R=0.74 {i6}                                                  
+102CD cG M$Other: d (1997Pe25)                                                  
+102CD cG E$poor fit, level energy difference=843.03                             
 102CD  L   9233.43 2119(-)             1.59 PS   14                         B   
-102CD CL T$effective lifetime                                                   
+102CD cL T$effective lifetime                                                   
 102CD  G    290.74  3   11.5  4 M1+E2                                           
-102CD CG M$ Other: D (1997Pe25)                                                 
-102CD CG           R=0.52 {I2}                                                  
+102CD cG M$Other: d (1997Pe25)                                                  
+102CD cG           R=0.52 {i2}                                                  
 102CD  L  10513.7   3(20)                                                   C  ?
 102CD  G   1668.27 11    2.1  2E2                                               
-102CD CG           R=1.8 {I4}                                                   
+102CD cG           R=1.8 {i4}                                                   
                                                                                 
 102IN    ADOPTED LEVELS, GAMMAS                                  09NDS    200908
 102IN  H TYP=FUL$AUT=D. DE FRENNE$CIT=NDS 110, 1745 (2009)$CUT=31-Dec-2008$     

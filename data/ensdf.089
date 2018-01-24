@@ -14975,18 +14975,34 @@
  89RU  L 6239.2     9    [37/2+]                                            A   
  89RU  G  929.8    3    7    2                                                  
                                                                                 
- 89RH    ADOPTED LEVELS:NOT OBSERVED                             13NDS    201302
+ 89RH    COMMENTS                                                ENSDF    201610
+ 89RH  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
+ 89RH C  TITL$NUCLEAR DATA SHEETS FOR 89RH                                      
+ 89RH c  AUTH$BALRAJ SINGH                                                      
+ 89RH c  INST$Department of Physics and Astronomy,                              
+ 89RH#c       McMaster University, Hamilton, Ontario,                           
+ 89RH#c       Canada, L8S 4M1                                                   
+ 89RH c  ABST$Status of the search for laboratory identification of the         
+ 89RH2c  {+89}Rh nuclide is presented, with an upper limit of half-life         
+ 89RH3c  proposed by 2016Ce02 based on a maximum of one count assigned          
+ 89RH4c  to the {+89}Rh nuclide, superseding the information presented in       
+ 89RH5c  2013Si03 NDS for A=89 nuclides.                                        
+ 89RH c  CUT$Literature available up to July 31, 2016 has been consulted.       
+ 89RH C  CIT$ENSDF                                                              
+ 89RH c  FUND$                                                                  
+                                                                                
+ 89RH    ADOPTED LEVELS:UNOBSERVED                               ENSDF    201610
+ 89RH  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
  89RH  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 114, 1 (2013)$CUT=20-Oct-2012$        
- 89RH  Q                       -1.08E3 SY-2.4E3  SY    2012WA38                 
- 89RH CQ Note: Current evaluation has used the following Q record               
- 89RH  Q              16960  CA -1080  SY -2421  SY    2011AUZZ,1997MO25        
- 89RH CQ $ SN FROM 1997MO25, SP AND QA FROM 2011AUZZ                            
- 89RH CQ $ Estimated (2011AuZZ) uncertainties: 200 for SP, 538 for QA           
- 89RH CQ $ Q(ECP)=8360 359, ^S(2p)=2918 359 (syst,2011AuZZ)                     
- 89RH CQ $ Values in 2003Au03: SP=-700 200, QA=-2420 600, Q(ECP)=7760 490,      
- 89RH2CQ ^S(2p)=3110 540 (all from systematics)                                 
+ 89RH  Q              16960  CA -1080  SY -2420  SY    2012WA38,1997MO25        
+ 89RH cQ $S(n) from 1997Mo25, S(p) and Q(|a) from 2012Wa38                      
+ 89RH cQ $Estimated uncertainties (2012Wa38): 200 for S(p), 540 for Q(|a)       
+ 89RH cQ $Q(|ep)=8360 {I390}, S(2p)=2920 {I360} (syst,2012Wa38).                
+ 89RH2cQ S(2n)=31480 (theory,1997Mo25)                                          
  89RH c  The {+89}Rh isotope is expected to be unbound towards proton emission. 
- 89RH c  {+89}Rh reported by 1995Ry03 (also 1995Le14) by analyzing              
+ 89RH2c  Laboratory identification of {+89}Rh remains uncertain, as also in the 
+ 89RH3c  most recent study by 2016Ce02                                          
+ 89RH c  1995Ry03 (also 1995Le14): {+89}Rh isotope reported by analyzing        
  89RH2c  fragments by time-of-flight (|?1.5 |ms) method in Ni({+112}Sn,X) at    
  89RH3c  E=58 MeV/nucleon, GANIL facility using LISE3 spectrometer. The {+89}Rh 
  89RH4c  fragments were observed 1.5 |ms after a time-of-flight. It was not     
@@ -14995,24 +15011,45 @@
  89RH2c  2001-1,p10): no evidence was found for the formation of {+89}Rh isotope
  89RH3c  in {+9}Be({+112}Sn,X) at E({+112}Sn)=1 GeV/nucleon, FRS at GSI,        
  89RH4c  with the implication that it may be unbound towards proton emission.   
- 89RH d  Structure calculations: 1997He24, 1999Ja02, 2001La01,                  
+ 89RH c  2016Ce02: {+89}Rh nuclide searched at RIBF-RIKEN                       
+ 89RH2c  facility in {+9}Be({+124}Xe,X) reaction at E=345 MeV/nucleon with an   
+ 89RH3c  average beam intensity of 30 pnA. Identification of residues was made  
+ 89RH4c  by determining atomic Z and mass-to-charge ratio A/Q, where Q=charge   
+ 89RH5c  state of the ions. The selectivity of ions was based on magnetic       
+ 89RH6c  rigidity, time-of-flight and energy loss using BigRIPS separator and   
+ 89RH7c  zero degree spectrometer ZDS. The separated nuclei were implanted in a 
+ 89RH8c  wide range silicon-strip stopper array for ion and |b particle         
+ 89RH9c  detection WAS3ABi, consisting of three highly-segmented 1 mm thick     
+ 89RHAc  double-sided silicon detectors, a stack of ten segmented 1 mm thick    
+ 89RHBc  single-sided silicon strip detectors. The |g rays were detected by     
+ 89RHCc  EURICA array of 84 HPGe detectors surrounding the WAS3ABi system.      
+ 89RHDc  In addition an array of 18 LaBr{-3}(Ce) detectors was used for |g      
+ 89RHEc  detection in fast-timing measurements. An upper limit of one event was 
+ 89RHFc  assigned by authors to the {+89}Rh nuclide                             
+ 89RH d  Theoretical structure calculations: 1997He24, 1999Ja02, 2001La01,      
  89RH2d  2001Pa02, 2002La37                                                     
- 89RH  L  0                                                                    ?
- 89RH2 L %EC+%B+=?$ %ECP=?$ %P=?                                                
- 89RH cL E$ the {+89}Rh fragments claimed to have been observed by 1995Ry03     
- 89RH2cL may be from the g.s. or an isomer of {+89}Rh. Note that no events      
- 89RH3cL due to {+89}Rh were observed in the GSI experiment (2007WeZX,2000WeZZ, 
- 89RH4cL E. Wefers et al., 2000 GSI annual report 2001-1, p10)                  
- 89RH cL J$7/2+ proposed from systematics (2011AuZY,1995Ry03), 5/2+ proposed    
- 89RH2cL in 1997Mo25 calculations                                               
- 89RH cL T$ limit estimated from time-of-flight |?1.5 |ms (1995Ry03).           
- 89RH2cL This value should be treated as tentative since these results have     
- 89RH3cL not been confirmed in later GSI experiments, where                     
- 89RH4cL no evidence was found for the formation of {+89}Rh isotope             
- 89RH5cL in {+9}Be({+112}Sn,X) reaction at E({+112}Sn)=1 GeV/nucleon at GSI     
- 89RH6cL facility (2007WeZX,2000WeZZ; also E. Wefers et al., GSI annual (2000)  
- 89RH7cL report 2001-1, p10).                                                   
- 89RH8cL Calculated |b decay T{-1/2}=80 ms (1997Mo25). Other: 10 ms             
- 89RH9cL (syst,2011AuZY).                                                       
- 89RHAcL Calculated proton decay half-life=7 |ms for Q(p)=708 keV (2007Me28)    
+ 89RH  L  0                              120 NS  LT                            ?
+ 89RH2 L %P=? $ %EC+%B+=?$ %ECP=?                                               
+ 89RH cL E$the {+89}Rh fragments claimed to have been observed by 1995Ry03      
+ 89RH2cL may be from the g.s. or an isomer of {+89}Rh. However no events        
+ 89RH3cL due to {+89}Rh were either observed in the GSI experiment (2007WeZX,   
+ 89RH4cL 2000WeZZ, E. Wefers et al., 2000 GSI annual report 2001-1, p10); or in 
+ 89RH5cL the RIBF-RIKEN study by 2016Ce02, where an upper limit of one event was
+ 89RH6cL assigned to {+89}Rh, thus the laboratory identification of this nuclide
+ 89RH7cL remains unconfirmed                                                    
+ 89RH cL J$7/2+ proposed from systematics (2012Au07,1995Ry03), 5/2+ proposed    
+ 89RH2cL in 1997Mo25 theoretical calculations                                   
+ 89RH cL T$from 2016Ce02, based on upper limit of one event assigned to         
+ 89RH2cL {+89}Rh, with the assumption that the ratio of number of               
+ 89RH3cL identified events associated with nuclei of the same T{-z} is the same 
+ 89RH4cL as that for the neighboring T{-z} nuclei. One event assigned to        
+ 89RH5cL {+89}Rh was assumed for ground-state activity, although, the authors   
+ 89RH6cL mentioned that the proton decay could occur from either the ground     
+ 89RH7cL state or from an isomeric activity. Other: |?1.5 |ms (1995Ry03) from   
+ 89RH8cL time-of-flight.                                                        
+ 89RH cL T$Theoretical proton decay T{-1/2}=7 |ms (2007Me28), using Q value of  
+ 89RH2cL 708 keV; 201 ns (for l=0), 214 ns (for l=2) and 4 |ms (for l=5)        
+ 89RH3cL (2015Sh03), using Q value of 700 keV                                   
+ 89RH cL T$theoretical |b decay T{-1/2}=80 ms (1997Mo25), and systematics       
+ 89RH2cL |b decay T{-1/2}=10 ms (2012Au07).                                     
                                                                                 

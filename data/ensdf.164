@@ -361,27 +361,23 @@
 164    R 2000YA22 JOUR APHPF 12 295                                             
 164    R 2001KE05 JOUR APOBB 32 989                                             
                                                                                 
-164SM    COMMENTS                                                ENSDF    201501
-164SM  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=21-JAN-2015$                    
-164SM  H TYP=FUL$AUT=Balraj SINGH, Michael Birch$CIT=ENSDF$CUT=30-SEP-2013$     
+164SM    COMMENTS                                                ENSDF    201704
+164SM  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=20-Feb-2017$                    
 164SM C  TITL$NUCLEAR DATA SHEETS FOR 164SM                                     
 164SM c  AUTH$BALRAJ SINGH                                                      
 164SM c  INST$Department of Physics and Astronomy,                              
 164SM#c       McMaster University, Hamilton, Ontario,                           
 164SM#c       Canada, L8S 4M1                                                   
-164SM c  ABST$Levels, isomer and gamma-ray data for {+164}Sm from 2014Pa55 are  
-164SM2c  presented in this update. In an earlier ENSDF update in Sept 2013, only
-164SM3c  the information about isotopic identification from 2012Ku26 was        
-164SM4c  available. Half-life of the ground state of {+164}Sm is not known      
-164SM c  CUT$Literature available up to Jan 21, 2015 has been consulted.        
+164SM c  ABST$Levels, isomers and gamma-ray data for {+164}Sm from 2014Pa55 are 
+164SM2c  presented, together with the ground state half-life from 2017Wu04.     
+164SM c  CUT$Literature available up to Feb 20, 2017 has been consulted.        
 164SM c  ACKN$                                                                  
 164SM c  FUND$Work supported by the office of Science of the U.S. Department of 
 164SMxc  Energy through a contract from Brookhaven National Laboratory.         
 164SM C  CIT$ENSDF                                                              
                                                                                 
-164SM    ADOPTED LEVELS, GAMMAS                                  ENSDF    201501
-164SM  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=21-JAN-2015$                    
-164SM  H TYP=FUL$AUT=BALRAJ SINGH AND MICHAEL BIRCH$CIT=ENSDF$CUT=30-SEP-2013$  
+164SM    ADOPTED LEVELS, GAMMAS                                  ENSDF    201704
+164SM  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=20-Feb-2017$                    
 164SM  Q 5230      SY 5450   SY 12140  SY -3390  SY    2012Wa38                 
 164SM cQ $Estimated uncertainties (2012Wa38): |DQ{+-}=360, |DS(n)=420,          
 164SM2cQ |DS(p)=590, |DS(|a)=500                                                
@@ -404,6 +400,19 @@
 164SMFc  a scintillator for veto signal. Measured production cross section.     
 164SMGc  Comparison of measured |s with predictions from ABRABLA model and      
 164SMHc  EPAX-3 model                                                           
+164SM c  2017Wu04: The {+164}Sm nuclide was produced at the RIBF-RIKEN facility 
+164SM2c  using the {+9}Be({+238}U,F) reaction at E=345 MeV/nucleon.  Two        
+164SM3c  experiments, optimized for the transmission of {+158}Nd and {+170}Dy   
+164SM4c  ions, were carried out with average beam intensities of 7 pnA and 12   
+164SM5c  pnA, respectively. The identification of the nuclide of interest was   
+164SM6c  made in the BigRIPS separator by determining the atomic number and the 
+164SM7c  mass-to-charge ratio of the ion using the TOF-B|r-|DE method. The      
+164SM8c  reaction products were transported through the ZeroDegree Spectrometer 
+164SM9c  and implanted into the beta-counting system WAS3ABi that was surrounded
+164SMac  by the EURICA array comprising of 84 HPGe detectors. The typical       
+164SMbc  implantation rate was ~~100 ions/s.  Measured: implanted ion-|b{+-}-t, 
+164SMcc  implanted ion-|b{+-}-|g-t and implanted ions-|g-t correlations.        
+164SMdc  Deduced: T{-1/2}.                                                      
 164SM c  Nuclear structure calculations (levels, J, |p, moments): 2012Gh05,     
 164SM2c  1997Lo07, 1987Ne03, 1984Sa16                                           
 164SM cL E$From least-squares fit to E|g data                                   
@@ -411,21 +420,21 @@
 164SM2cL for low-lying levels and potential-energy surface calculations for     
 164SM3cL higher levels above 1 MeV, supported by multipolarities obtained from  
 164SM4cL intensity balances.                                                    
-164SM cL BAND(A)$The g.s. band.                                                 
-164SM2cL Calculations suggest |b{-2}=0.301, |b{-4}=0.030, |b{-6}=-0.023 for     
-164SM3cL the ground state                                                       
+164SM CL BAND(A)$K|p=0+, g.s. band.                                             
+164SM2cL Calculations suggest |b{-2}=0.301, |b{-4}=0.030, |b{-6}=-0.023         
+164SM3cL (2014Pa55)                                                             
+164SM CL BAND(B)$Possible K|p=(2+), |g-vibrational band                         
 164SM  XA164SM IT DECAY (0.60 US)                                               
 164SM PN                                                                     6  
-164SM  L 0              0+              160 NS   GT                         A   
-164SM2 L %B-=?                                                                  
+164SM  L 0.0          0+               1.43 S    24                         A   
+164SM2 L %B-=100 $ %B-N=?                                                       
 164SMX L XREF=A                                                                 
-164SM cL $ Mainly |b{+-} decay mode is expected. Predicted %|b{+-}n=0 (1997Mo25)
-164SM cL E$the observed {+164}Sm fragments assumed to correspond to the g.s.    
-164SM cL T$limiting value from time-of-flight of 160 ns in 2012Ku26. Actual     
-164SM2cL |b-decay half-life is expected to be much longer as suggested by       
-164SM3cL 500 ms from systematics (2012Au07), and 2.43 s from theoretical        
-164SM4cL calculations (1997Mo25)                                                
-164SM cL $ Production |s=42 nb {I4} (2012Ku26)                                  
+164SM cL %B-$Only |b{+-} decay mode is expected.                                
+164SM cL T$From 2017Wu04, using a fit to the implanted ion-|b{+-}-t spectrum    
+164SM2cL using the least-squares and maximum-likelihood methods. The data       
+164SM3cL analysis included contributions from the parent, daughter and          
+164SM4cL ground-daughter decays, as well as a constant background.              
+164SM cL $ Production |s(at 1 GeV/nucleon)=42 nb {I4} (2012Ku26)                
 164SM  L 69        1  (2+)                                                  A   
 164SMX L XREF=A                                                                 
 164SM  G 69        1   100      [E2]                    9.4   6                S
@@ -437,26 +446,25 @@
 164SMX L XREF=A                                                                 
 164SM  G 242.2     3  100      (E2)                     0.0723                  
 164SMS G KC=0.0600 9$LC=0.00995 15$MC=0.00198 3$NC=0.000362 6                   
-164SM  L 1136.1    11 (5+)                                                      
+164SM  L 1136.1    11 (5+)                                                  B   
 164SMX L XREF=A                                                                 
-164SM cL $Possible member of |g-vibrational band                                
 164SM  G   668.8   4  49     18                                                 
 164SM  G   911.3   3  100    28                                                 
 164SM  L 1485.5    12 (6-)              0.60 US  14                          M  
 164SM2 L %IT=100                                                                
 164SMX L XREF=A                                                                 
-164SM cL $Configuration=|n5/2[512]~#|n7/2[633], |b{-2}=0.295, |b{-4}=0.029,     
-164SM2cL |b{-6}=-0.020                                                          
+164SM cL $Configuration: K|p=6-, |n5/2[512]~#|n7/2[633]. Calculations suggest   
+164SM2cL |b{-2}=0.295, |b{-4}=0.029, |b{-6}=-0.020  (2014Pa55)                  
 164SM cL T$from decay curves obtained from (ion implantation)(|g)(t)            
 164SM2cL correlations for 155-, 242-, 349-, 669-, and 911-keV |g rays           
 164SM  G 349.4     2  100      (E1)                    0.00576                  
 164SMB G BE1W=8.8E-9 21                                                         
 164SM cG $Reduced hindrance f{-|n}=487 {I38} (2014Pa55), assuming the           
-164SM2cG the 349-keV transition feeds the |g band with |n=3                     
+164SM2cG the 349-keV transition feeds the K|p=2+, |g-vibrational band (|n=3).   
 164SMS G KC=0.0051 7$LC=0.000606 9$MC=0.0001179 17$NC=2.21E-5 4                 
                                                                                 
-164SM    164SM IT DECAY (0.60 US)      2014PA55                  ENSDF    201501
-164SM  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=21-JAN-2015$                    
+164SM    164SM IT DECAY (0.60 US)      2014PA55                  ENSDF    201704
+164SM  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=20-Feb-2017$                    
 164SM c  2014Pa55: {+164}Sm produced in {+9}Be({+238}U,F),E=345 MeV/nucleon     
 164SM2c  reaction at the Radioactive Ion Beam Factory (RIBF) at RIKEN           
 164SM3c  accelerator laboratory. Nuclei were separated in terms of              
@@ -477,7 +485,7 @@
 164SM2cL for low-lying levels and potential-energy surface calculations for     
 164SM3cL higher levels above 1 MeV, supported by multipolarities obtained from  
 164SM4cL intensity balances.                                                    
-164SM cL BAND(A)$The g.s. band.                                                 
+164SM CL BAND(A)$The g.s. band.                                                 
 164SM2cL Calculations suggest |b{-2}=0.301, |b{-4}=0.030, |b{-6}=-0.023 for     
 164SM3cL the ground state                                                       
 164SM  P  1485.5   12 (6-)              0.60 US  14                             

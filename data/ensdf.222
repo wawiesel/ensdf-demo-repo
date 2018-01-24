@@ -314,6 +314,80 @@
 222    R 2010WA31 JOUR ZAANE 44 287                                             
 222    R 2011AUZZ PC G Audi,4/30/2011                                           
                                                                                 
+222BI    COMMENTS                                                         201612
+222BI  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=20-DEC-2016$                    
+222BI C  TITL$NUCLEAR DATA SHEETS FOR 222BI                                     
+222BI c  AUTH$BALRAJ SINGH                                                      
+222BI c  INST$Department of Physics and Astronomy,                              
+222BI#c       McMaster University, Hamilton, Ontario,                           
+222BI#c       Canada, L8S 4M1                                                   
+222BI c  ABST$Information about the identification and production of the        
+222BI2c  {+222}Bi nuclide from 2010Al24 (also 2009Al32) is presented.           
+222BI3c  In the March 2011 update (2011Si24) of A=222 nuclides in ENSDF and NDS,
+222BI4c  this nuclide was absent.                                               
+222BI c  CUT$Literature available up to Dec 20, 2016 has been consulted.        
+222BI C  CIT$ENSDF                                                              
+222BI c  FUND$                                                                  
+                                                                                
+222BI    ADOPTED LEVELS                                                   201612
+222BI  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=20-DEC-2016$                    
+222BI  Q 6190      SY 3500   SY  8370  CA  3160  SY    2012WA38,1997MO25        
+222BI cQ $Q(|b{+-}), S(n) and Q(|a) from 2012Wa38. S(p) from 1997Mo25           
+222BI cQ $Estimated uncertainties in 2012Wa38: 300 for Q(|b{+-}), 420 for S(n), 
+222BI2cQ 500 for Q(|a)                                                          
+222BI cQ $Q(|b{+-}n)=830 {I300}, S(2n)=8290 {I420} (syst,2012Wa38).             
+222BI2cQ S(2p)=18360 (1997Mo25,theory)                                          
+222BI c  2010Al24: {+222}Bi nuclide identified in {+9}Be({+238}U,X) reaction    
+222BI2c  with a beam energy of 1 GeV/nucleon produced by the SIS synchrotron    
+222BI3c  at GSI facility. Target=2500 mg/cm{+2}. The fragment residues were     
+222BI4c  analyzed with the high resolving power magnetic spectrometer Fragment  
+222BI5c  separator (FRS). The identification of nuclei was made on the basis of 
+222BI6c  magnetic rigidity, velocity, time-of-flight, energy loss and atomic    
+222BI7c  number of the fragments using two plastic scintillators and two        
+222BI8c  multisampling ionization chambers. The FRS magnet was tuned to         
+222BI9c  center on {+210}Au, {+216}Pb, {+219}Pb, {+227}At and {+229}At          
+222BIAc  nuclei along the central trajectory of FRS.                            
+222BI c  Unambiguous identification of nuclides required the separation of      
+222BI2c  different charge states of the nuclei passing through the FRS. At      
+222BI3c  1 GeV/nucleon incident energy of {+238}U, fraction of fully stripped   
+222BI4c  {+226}Po nuclei was about 89%. Through the measurement of difference in
+222BI5c  magnetic rigidity in the two sections of the FRS and the difference    
+222BI6c  in energy loss in the two ionization chambers, the charge state of     
+222BI7c  the transmitted nuclei was determined, especially, that of the singly  
+222BI8c  charged (hydrogen-like) nuclei which preserved their charge in the     
+222BI9c  current experimental setup. Measured production cross sections with    
+222BIAc  10% statistical and 20% systematic uncertainties                       
+222BI c  Criterion established in 2010Al24 for acceptance of identification of  
+222BI2c  a new nuclide: 1. number of events should be compatible with the       
+222BI3c  corresponding mass and atomic number located in the expected range     
+222BI4c  of positions at both image planes of the FRS spectrometer; 2. number   
+222BI5c  of events should be compatible with >95% probability that at least     
+222BI6c  one of the counts does not correspond to a charge-state contaminant.   
+222BI7c  Comparisons of measured |s with model predictions using the            
+222BI8c  computer codes COFRA and EPAX. See also 2009Al32 from the same group.  
+222BI d  2013Sa67: theoretical calculations of half-life for |a decay           
+222BI  L 0                               300 NS  GT                             
+222BI2 L %B-=? $ %B-N=?                                                         
+222BI cL $The |b{+-} and delayed neutron decay are the main decay modes         
+222BI2cL expected. Theoretical T{-1/2}=2.6 s for |b{+-} and >10{+20} s for      
+222BI3cL |a decay (1997Mo25) suggests negligible |a decay                       
+222BI cL Theoretical %|b{+-}n=1.1 (2003Mo09), 0.4 (2016Ma12)                    
+222BI cL $From A/Z plot (figure 1 in 2010Al24), |?60 events were assigned to    
+222BI2cL {+222}Bi                                                               
+222BI cL E$the observed fragments are assumed to be in the ground state of      
+222BI2cL {+222}Bi nuclei                                                        
+222BI cL T$lower limit from time-of-flight as given in 2006Ca30 for a similar   
+222BI2cL setup as in 2010Al24. Actual half-life is expected to be much longer as
+222BI3cL suggested by the theoretical values of 1.95 s (2003Mo09), 0.195 s      
+222BI4cL (2016Ma12), and systematics value of 2 s for |b decay (2012Au07)       
+222BI cL J$2+ or 3+ from 1/2+ proton orbital and 5/2+ neutron orbital in        
+222BI2cL theoretical calculations (1997Mo25); 1- from systematics (2012Au07)    
+222BI cL $Production |s=0.667 nb (from e-mail reply of Oct 29, 2010 from        
+222BI2cL H. Alvarez-Pol).                                                       
+222BI3cL Measured production cross sections are given in Figure 2 of 2010Al24,  
+222BI4cL plot of |s versus mass number for Bi isotopes.                         
+222BI5cL Statistical uncertainty=10%, systematic uncertainty=20%                
+                                                                                
 222PO    ADOPTED LEVELS                                          11NDS    201111
 222PO  H TYP=FUL$AUT=Sukhjeet Singh, A. K. Jain, Jagdish K. Tuli$               
 222PO2 H CIT=NDS 112,2851 (2011)$CUT=31-Mar-2011$                               

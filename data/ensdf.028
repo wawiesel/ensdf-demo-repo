@@ -5079,13 +5079,15 @@
  28SI CDP          Summed proton energy                                         
                                                                                 
  28SI    32CL B+A DECAY                1979HO27                  13NDS    201310
+ 28SI  H TYP=ERR$AUT=E.A. MCCUTCHAN$CIT=ENSDF$DAT=27-SEPT-2016$                 
+ 28SI2 H COM=CORRECTED NP VALUE$                                                
  28SI  H TYP=FUL$AUT=M. Shamsuzzoha Basunia$CIT=NDS 114, 1189 (2013)$           
  28SI2 H CUT=1-Apr-2013$                                                        
- 28SI C  1979Ho27: 32CL obtained from 32S(P,N)32CL, E=20 MeV, natural target    
- 28SI2C  of 32S; three Si(Au) surface barrier detector; measured E{-|a},        
- 28SI3C  I{-|a}.                                                                
+ 28SI c  1979Ho27: {+32}Cl obtained from {+32}S(p,n){+32}Cl, E=20 MeV, natural  
+ 28SI2c  target of {+32}S; three Si(Au) surface barrier detector; measured      
+ 28SI3c  E{-|a}, I{-|a}.                                                        
  32CL  P 0           1+                298 MS    1                5733    1     
- 28SI  N                        0.00054 8              0.00054 8                
+ 28SI  N                        0.00054 8              1.0                      
  28SI  L 0.0                                                                    
  28SI  DA 1526      5 0.0011  2 8690                                            
  28SI  DA 1673      5 0.0146 20 8861                                            

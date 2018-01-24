@@ -10090,3 +10090,45 @@
  90RH  L 0.0                             150 NS  GT                             
  90RH CL T$from the ion flight time through the separator (1994He28).           
                                                                                 
+ 90PD    COMMENTS                                                ENSDF    201610
+ 90PD  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
+ 90PD C  TITL$NUCLEAR DATA SHEETS FOR 90PD                                      
+ 90PD c  AUTH$BALRAJ SINGH                                                      
+ 90PD c  INST$Department of Physics and Astronomy,                              
+ 90PD#c       McMaster University, Hamilton, Ontario,                           
+ 90PD#c       Canada, L8S 4M1                                                   
+ 90PD c  ABST$Production and identification of the {+90}Pd nuclide,             
+ 90PD2c  from 2016Ce02 is presented.                                            
+ 90PD c  CUT$Literature available up to July 31, 2016 has been consulted.       
+ 90PD C  CIT$ENSDF                                                              
+ 90PD c  FUND$                                                                  
+                                                                                
+ 90PD    ADOPTED LEVELS                                          ENSDF    201610
+ 90PD  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
+ 90PD  Q              17800  CA  1530  CA -3210  CA    1997MO25                 
+ 90PD cQ $S(2n)=32490, S(2p)=1020 (theory,1997Mo25)                             
+ 90PD c  2016Ce02: {+90}Pd nuclide produced and identified at RIBF-RIKEN        
+ 90PD2c  facility in {+9}Be({+124}Xe,X) reaction at E=345 MeV/nucleon with an   
+ 90PD3c  average beam intensity of 30 pnA. Identification of {+90}Pd was made by
+ 90PD4c  determining atomic Z and mass-to-charge ratio A/Q, where Q=charge state
+ 90PD5c  of the ions. The selectivity of ions was based on magnetic rigidity,   
+ 90PD6c  time-of-flight and energy loss using BigRIPS separator and zero degree 
+ 90PD7c  spectrometer ZDS. The separated nuclei were implanted in a wide range  
+ 90PD8c  silicon-strip stopper array for ion and |b particle detection WAS3ABi, 
+ 90PD9c  consisting of three highly-segmented 1 mm thick double-sided silicon   
+ 90PDAc  detectors, a stack of ten segmented 1 mm thick single-sided silicon    
+ 90PDBc  strip detectors. The |g rays were detected by EURICA array of 84 HPGe  
+ 90PDCc  detectors surrounding the WAS3ABi system. In addition an array of 18   
+ 90PDDc  LaBr{-3}(Ce) detectors was used for |g detection in fast-timing        
+ 90PDEc  measurements.                                                          
+ 90PD d  Theoretical nuclear structure calculations: 2015Bh13, 2008Sc02,        
+ 90PD2d  2003St22, 1997He24                                                     
+ 90PD  L  0            0+               760 NS   GT                             
+ 90PD2 L %EC+%B+=? $ %ECP=?                                                     
+ 90PD cL $A total of two events were assigned by 2016Ce02 to {+90}Pd            
+ 90PD cL T$lower limit of half-life assigned by evaluator from time-of-flight   
+ 90PD2cL of 760 ns (2016Ce02) through the BigRIPS fragment separator and ZDS    
+ 90PD3cL spectrometer. Since {+90}Pd is expected to be a bound nucleus from     
+ 90PD4cL S(p)=1.53 MeV, S(2p)=1.03 MeV (theory, 1997Mo25), actual half-life is  
+ 90PD5cL expected to be much longer, e.g. theoretical T{-1/2}=68 ms in 1997Mo25 
+                                                                                

@@ -6703,30 +6703,32 @@
  30S X L XREF=A                                                                 
                                                                                 
  30S     31AR B+P DECAY                2000FY01                  10NDS    201009
+ 30S   H TYP=ERR$AUT=E.A. MCCUTCHAN$CIT=ENSDF$DAT=13-OCT-2016$                  
+ 30S 2 H COM=CORRECTED NP VALUE$                                                
  30S   H TYP=FUL$AUT=M. SHAMSUZZOHA BASUNIA$CIT=NDS 111, 2331 (2010)$           
  30S 2 H CUT=30-Jun-2010$                                                       
- 30S  C  Others: 1998AX02, 2002FY01                                             
- 30S  C  2000FY01,1998AX02,2002FY01: 31AR is obtained from the ^ISOLDE facility 
- 30S 2C  at ^CERN bombarding CaO target with 1 GeV pulsed protons; 13 Si p-i-n  
- 30S 3C  diodes, double-sided Si strip, Si surface barrier and HPGe detectors;  
- 30S 4C  identified and measured B-particles, delayed proton energy and         
- 30S 5C  intensity, exitation energy of 30S deduced following the two-proton    
- 30S 6C  emission.                                                              
- 30S  C  1982YO02: 28SI(3HE,NP):Target: natural Si; Projectile: 3HE, E=9.5 MeV; 
- 30S 2C  2 Si surface barrier detector, NE213 detector coupled with             
- 30S 3C  photomultiplier tube; measured n-p coin from 70 DEG to 160 DEG in steps
- 30S 4C  of 10 DEG; deduced 30S excitation levels, JPI. Most level energies of  
- 30S 5C  1982Yo02 are different than those are reported by 2000FY01 and data    
- 30S 6C  are not listed.                                                        
- 30S  CL E$Deduced following the 31AR B+P DECAY, except otherwise noted.        
- 30S  CL E(Z)$Following two-proton decay of 31AR B+ DECAY (2000FY01).           
- 30S  CL E(Y)$Not adopted                                                       
+ 30S  c  Others: 1998Ax02, 2002Fy01                                             
+ 30S  c  2000Fy01,1998Ax02,2002Fy01: {+31}Ar is obtained from the ISOLDE        
+ 30S 2c  facility at CERN bombarding CaO target with 1 GeV pulsed protons; 13   
+ 30S 3c  Si p-i-n diodes, double-sided Si strip, Si surface barrier and HPGe    
+ 30S 4c  detectors; identified and measured |b-particles, delayed proton energy 
+ 30S 5c  and intensity, exitation energy of {+30}S deduced following the        
+ 30S 6c  two-proton emission.                                                   
+ 30S  c  1982Yo02: {+28}Si({+3}He,np):Target: natural Si; Projectile: {+3}He,   
+ 30S 2c  E=9.5 MeV; 2 Si surface barrier detector, NE213 detector coupled with  
+ 30S 3c  photomultiplier tube; measured n-p coin from 70|' to 160|' in steps    
+ 30S 4c  of 10|'; deduced {+30}S excitation levels, J|p. Most level energies of 
+ 30S 5c  1982Yo02 are different than those are reported by 2000Fy01 and data    
+ 30S 6c  are not listed.                                                        
+ 30S  cL E$Deduced following the {+31}Ar |b{++}p decay, except otherwise noted. 
+ 30S  cL E(Z)$Following two-proton decay of {+31}Ar |b{++} decay (2000Fy01).    
+ 30S  cL E(Y)$Not adopted                                                       
  31AR  P  0.0             5/2(+)       14.4 MS   6               18070    SY    
- 30S   N                        0.63   7                0.63  7                 
- 30S  CDPE,IP$From 2000FY01, except otherwise noted.                            
- 30S  CDPE(A),IP(A)$Reported by 2000FY01 only                                   
- 30S  CDPE(B),IP(B)$Reported by 1998Ax02 only                                   
- 30S  CDPE(C),IP(C)$From 1998Ax02                                               
+ 30S   N                        0.63   7                0.26  3                 
+ 30S  cDPE,IP$From 2000Fy01, except otherwise noted.                            
+ 30S  cDPE(A),IP(A)$Reported by 2000Fy01 only                                   
+ 30S  cDPE(B),IP(B)$Reported by 1998Ax02 only                                   
+ 30S  cDPE(C),IP(C)$From 1998Ax02                                               
  30S   L 0           0+                1.178 S   5                              
  30S   DP 446      15  0.49  16 747                                         B   
  30S   DP 974      15  1.4    2 1292                                        B  ?

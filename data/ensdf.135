@@ -553,38 +553,58 @@
 135    R 2007MU14 JOUR PRLTA 99 172501                                          
 135    R 2007MUZY PC S Mukhopadhyay,11/28/2007                                  
                                                                                 
-135IN    ADOPTED LEVELS                                          08NDS    200803
+135IN    ADOPTED LEVELS                                          ENSDF    201612
+135IN  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-DEC-2016$                    
 135IN  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
 135IN2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
-135IN  Q 1.41E4    SY2.9E3   SY                        2012WA38                 
-135IN CQ Note: Current evaluation has used the following Q record               
-135IN  Q 13600     SY 3250   SY 14200  CA -7560  CA    2003AU03,1997MO25        
-135IN CQ $ DQ-=DSN=640 (SYST,2003AU03)                                          
-135IN CQ $ Q- AND SN FROM 2003AU03; SP AND QA FROM 1997MO25                     
-135IN CQ $ Q(B-N)=10860 400 (SYST,2003AU03)                                     
-135IN C  {+135}In NUCLIDE PRODUCED BY 2002DI12 IN 238U(N,F) REACTION, WHERE     
-135IN2C  NEUTRONS WERE OBTAINED FROM SPALLATION OF A TANTALUM TARGET BY 1.4 GEV 
-135IN3C  PROTONS AT ^CERN/^ISOLDE FACILITY. THE {+135}In IONS WERE IDENTIFIED BY
-135IN4C  USING ISOBARIC SELECTIVITY OF A RESONANCE-IONIZATION LASER ION-SOURCE. 
-135IN5C  MEASURED T1/2 AND |b-DELAYED NEUTRONS                                  
-135IN D  NUCLEAR STRUCTURE CALCULATIONS: 1996BO11                               
-135IN  L  0                              92 MS   10                            ?
-135IN2 L %B-=100$ %B-N>0                                                        
-135IN CL E$ 92-ms activity assumed as belonging to the ground state of 135IN.   
-135IN CL $ Predicted %B-N=95 (2002DI12, ^QRPA CALCULATIONS)                     
-135IN CL T$ FROM TIMING OF B-DELAYED NEUTRONS (2002DI12)                        
-135IN CL J$ 9/2+ from systematics of Z=49 nuclides (1997Mo25,2003Au03)          
+135IN  Q 14100     SY 2940   SY 14200  CA -7560  CA    2012WA38,1997MO25        
+135IN cQ $Estimated |DQ(|b{+-})=400, |DS(n)=500 (syst,2012Wa38)                 
+135IN cQ $Q(|b{+-}) and S(n) from 2012Wa38; S(p) and Q(|a)                      
+135IN2cQ from theory (1997Mo25)                                                 
+135IN cQ $S(2n)=5210 {I450}, Q(|b{+-}n)=11830 {I400} (syst,2012Wa38).           
+135IN2cQ S(2p)=31850 (theory,1997Mo25)                                          
+135IN c  2002Di12: {+135}In nuclide produced in {+238}U(n,F) reaction, where    
+135IN2c  neutrons were obtained from spallation of a tantalum target by 1.4 GeV 
+135IN3c  protons at CERN/ISOLDE facility. The {+135}In ions were identified by  
+135IN4c  using isobaric selectivity of a resonance-ionization LASER ion-source. 
+135IN5c  Measured T{-1/2} and |b-delayed neutrons                               
+135IN c  2015Lo04: {+135}In nuclide produced at RIBF-RIKEN facility in          
+135IN2c  {+9}Be({+238}U,F) reaction at E=345 MeV/nucleon with an average        
+135IN3c  intensity of 6|*10{+10} ions/s. Identification of {+135}In was made by 
+135IN4c  determining atomic Z and mass-to-charge ratio A/Q, where Q=charge state
+135IN5c  of the ions. The selectivity of ions was based on magnetic rigidity,   
+135IN6c  time-of-flight and energy loss. The separated nuclei were implanted at 
+135IN7c  a rate of 50 ions/s in a stack of eight double-sided silicon-strip     
+135IN8c  detector (WAS3ABi), surrounded by EURICA array of 84 HPGe detectors.   
+135IN9c  Correlations were recorded between the implanted ions and |b rays. The 
+135INAc  half-life of {+135}In isotope was measured from the correlated ion-|b  
+135INBc  decay curves and maximum likelihood analysis technique as described in 
+135INCc  2014Xu07. Comparison of measured half-lives with FRDM+QRPA, KTUY+GT2   
+135INDc  and DF3+CQRPA theoretical calculations                                 
+135IN d  2014Mi23: theoretical calculations of beta-delayed multiple-neutron    
+135IN2d  emission probabilities                                                 
+135IN d  Nuclear structure calculations: 1996Bo11                               
+135IN  L 0                              101 MS   5                              
+135IN2 L %B-=100 $ %B-N>0$ %B-2N=?                                              
+135IN cL $Theoretical T{-1/2}=69.8 ms, %|b{+-}n=23.5, %|b{+-}2n=64.3 (2003Mo09) 
+135IN cL $Theoretical %|b{+-}n=95 (2002Di12, QRPA calculations)                 
+135IN cL E$101-ms activity assumed as belonging to the ground state of {+135}In.
+135IN cL J$9/2+ from systematics of Z=49 nuclides (1997Mo25,2012Au07)           
+135IN cL T$weighted average of 103 ms {I5} (2015Lo04 from (implanted ions)|b    
+135IN2cL correlated decay curve) and 92 ms {I10} (2002Di12, from |b-delayed     
+135IN3cL neutron curve)                                                         
                                                                                 
-135SN    ADOPTED LEVELS                                          08NDS    200803
+135SN    ADOPTED LEVELS                                          ENSDF    201612
+135SN  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-DEC-2016$                    
 135SN  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
 135SN2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
-135SN  Q 9057      5 2271    5 1.63E4  SY-7.73E3 SY    2012WA38                 
-135SN CQ Note: Current evaluation has used the following Q record               
-135SN  Q 8910      SY 2070   SY 16060  SY -7960  SY    2003AU03                 
-135SN CQ $DQ-=DSN=410, DSP=570 (2003Au03), DQA=500 (SYST,2003AU03)              
-135SN cQ $ Q(|b{+-}n)=5300 {I400} (syst, 2003Au03)                              
-135SN c  {+135}Sn from Pb({+238}U,F) E=750 MeV/nucleon, fragment separator;     
-135SN2c  identification by B|r-|DE-tof techniques (1994Be24,1998Do08,2006KeZZ). 
+135SN  Q 9057      4 2271    4 16260   SY -7730  SY    2012WA38                 
+135SN cQ $Estimated |DS(p)=300, |DQ(|a)=200 (syst,2012Wa38)                     
+135SN cQ $S(2n)=5901 {I4}, S(2p)=31290 {I300} (syst), Q(|b{+-}n)=5317 {I4}      
+135SN2cQ (2012Wa38)                                                             
+135SN c  1994Be24, 1998Do08, 2006KeZZ: {+135}Sn from Pb({+238}U,F),             
+135SN2c  E=750 MeV/nucleon, fragment separator; identification by B|r-|DE-tof   
+135SN3c  techniques                                                             
 135SN c  2005Sh36, 2005Sh23, 2002Sh08 (also 2005Sh53,2001Sh12): {+135}Sn        
 135SN2c  produced by high-energy neutron fission of UC{-2} target at ISOLDE/    
 135SN3c  CERN facility. The high-energy neutrons were produced by bombarding    
@@ -594,73 +614,87 @@
 135SN c  2005Ko40, 2001Ko45: {+135}Sn produced by thermal neutron fission of    
 135SN2c  {+235}U followed by mass separation at OSIRIS mass separator facility  
 135SN3c  in Studsvik.                                                           
-135SN c  Nuclear structure calculations: 2007Ka40 (binding energies, level      
-135SN2c  energies, spins and parities), 2004Sa35 (levels, B(E2) probabilities,  
-135SN2c  shell model), 2002Co12 (levels, spins, shell model)                    
-135SN D  1997Ra23: 134SN(N,G) E=30 KEV, calculated capture cross section        
+135SN c  2015Lo04: {+135}Sn nuclide produced at RIBF-RIKEN facility in          
+135SN2c  {+9}Be({+238}U,F) reaction at E=345 MeV/nucleon with an average        
+135SN3c  intensity of 6|*10{+10} ions/s. Identification of {+135}Sn was made by 
+135SN4c  determining atomic Z and mass-to-charge ratio A/Q, where Q=charge state
+135SN5c  of the ions. The selectivity of ions was based on magnetic rigidity,   
+135SN6c  time-of-flight and energy loss. The separated nuclei were implanted at 
+135SN7c  a rate of 50 ions/s in a stack of eight double-sided silicon-strip     
+135SN8c  detector (WAS3ABi), surrounded by EURICA array of 84 HPGe detectors.   
+135SN9c  Correlations were recorded between the implanted ions and |b rays. The 
+135SNAc  half-life of {+135}Sn isotope was measured from the correlated ion-|b  
+135SNBc  decay curves and maximum likelihood analysis technique as described in 
+135SNCc  2014Xu07. Comparison of measured half-lives with FRDM+QRPA, KTUY+GT2   
+135SNDc  and DF3+CQRPA theoretical calculations                                 
+135SN c  2013Va12, 2012Ha25: measured mass excess by TOF ion cyclotron          
+135SN2c  resonance technique                                                    
+135SN d  Nuclear structure calculations: 2007Ka40 (binding energies, level      
+135SN2d  energies, spins and parities), 2004Sa35 (levels, B(E2) probabilities,  
+135SN2d  shell model), 2002Co12 (levels, spins, shell model)                    
+135SN d  1997Ra23: {+134}Sn(n,|g) E=30 keV, calculated capture cross section    
 135SN d  Other nuclear structure calculations: 2007Ji14, 2003Bo06, 2003Bo27,    
 135SN2d  2003Bo48                                                               
-135SN cL E$ 2002Ur04 predict following yrast levels from systematics of         
-135SN2cL N=85 isotones: 7/2- g.s.; 5/2- at 200; 3/2- at 400; 9/2- at 700;       
-135SN3cL 11/2- at 800 and 15/2- at 1200. These predictions are compared by      
-135SN4cL 2002Ur04 with OXBASH model calculations.                               
-135SN  L  0           (7/2-)            530 MS   20                             
-135SN2 L %B-=100 $ %B-N=21 3 (2002SH08)                                         
+135SN c  2002Ur04 predict following yrast levels from systematics of            
+135SN2c  N=85 isotones: 7/2- g.s.; 5/2- at 200; 3/2- at 400; 9/2- at 700;       
+135SN3c  11/2- at 800 and 15/2- at 1200. These predictions are compared by      
+135SN4c  2002Ur04 with OXBASH model calculations.                               
+135SN  L  0           (7/2-)            515 MS   5                              
+135SN2 L %B-=100 $ %B-N=21 3 (2002Sh08) $%B-2N=?                                
+135SN cL %B-N$ others: 25 {I7} (2001Sh12), 22 {I7} (2002Pf04 evaluation).       
+135SN cL $Theoretical T{-1/2}=1070 ms, %|b{+-}n=51.7, %|b{+-}2n=5.5 (2003Mo09)  
 135SN cL J$possible |nf{-7/2}{+3} configuration; systematics of N=85 isotones   
 135SN2cL and shell-model predictions (2001Ko45,2002Ur04).                       
-135SN cL T$ from 2002Sh08 (also 450 ms {I50} in 2001Sh12). Others: 0.6 s {I1}   
-135SN2cL (2001Ko45), 485 ms {I37} (2006KeZZ, preliminary value)                 
-135SN cL %B-N$ others: 25 {I7} (2001Sh12), 22 7 (2002Pf04 evaluation).          
-135SN dL T$ theoretical T{-1/2}=0.5 s (1973Ta30,gross theory), 0.5 s            
-135SN2dL (1981Al25,finite Fermi system), 3.0 s (1997Mo25,quasiparticle RPA)     
-135SN dL $ Calculated %|b{+-}n=16 (1980AlZG, same group as 1981Al25)            
+135SN cL T$measured by 2015Lo04 from the analysis of the (implanted ions)|b     
+135SN2cL correlated decay curve in time and position. Others: 530 ms {I20}      
+135SN3cL (2002Sh08, also 450 ms {I50} in 2001Sh12); 0.6 s {I1}                  
+135SN4cL (2001Ko45); 485 ms {I37} (2006KeZZ, preliminary value)                 
                                                                                 
-135SB    ADOPTED LEVELS, GAMMAS                                  08NDS    200803
+135SB    ADOPTED LEVELS, GAMMAS                                  ENSDF    201612
+135SB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-DEC-2016$                    
 135SB  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
 135SB2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
-135SB  Q 8038      4 3740    4 10546   5 -4089   4     2012WA38                 
-135SB CQ Note: Current evaluation has used the following Q record               
-135SB  Q 8120      50 3.61E3 11 10.20E314-4.00E3 11    2003AU03                 
-135SB cQ $ Q-=5888 {I13} (2007Fo02) for {+135}Te decay may result in an         
-135SB2cQ increase by |?70 keV in the Q- value for {+135}Sb decay.               
-135SB cQ           Q(|b{+-}n)=4780 {I100} (2003Au03)                            
-135SB c  Structure calculations: 2005Co23 (levels, transition probabilities from
-135SB2c  shell-model), 2004Sa35 (levels, B(E2) probabilities from shell model). 
+135SB  Q 8038      4 3740    3 10546   4 -4089   4     2012WA38                 
+135SB cQ $S(2n)=6910 {I4}, S(2p)=26800 {I200} (syst), Q(|b{+-}n)=4775 {I4}      
+135SB2cQ (2012Wa38)                                                             
+135SB d  Structure calculations: 2005Co23 (levels, transition probabilities from
+135SB2d  shell-model), 2004Sa35 (levels, B(E2) probabilities from shell model). 
 135SB d  Other theory reference: 2007Ji14, 2007Ot03 (single-particle energies), 
 135SB2d  2001Sa28, 1996Bo11 (T{-1/2} and Q(|b-))                                
-135SB D  1995Ro36: YIELD IN (N,F) ANALYZED                                      
+135SB D  1995Ro36: Yield in (n,F) analyzed                                      
 135SB cG E,RI$ From either {+135}Sn |b{+-} decay or {+248}Cm SF decay; unless   
 135SB2cG otherwise specified. Most levels are populated independently in these  
 135SB3cG two datasets, low-spin (J<11/2) levels in |b{+-} decay and high-spin   
 135SB4cG (J>9/2) levels in SF decay.                                            
-135SB cG E(X)$ From {+135}Sn |b{+-} decay                                       
-135SB CG E(Y)$ From {+136}Sn |b{+-}n decay                                      
-135SB cL E$From least-squares fit to E|g's, assuming |D(E|g)=0.5 keV            
-135SB2cL when not stated                                                        
-135SB CL J(B)$ From consistency of experimental and calculated (using shell     
-135SB2CL model) level spectrum for the first five states up to |?900 KEV.       
-135SB3CL It should be pointed out, however, that a 1/2+ state at |? 530 KEV     
-135SB4CL predicted by calculations has not been observed.                       
-135SB CL J(D)$ 2005Sh36 assign tentative single spin value on the assumption    
-135SB2CL that M1 transitions are more likely than E2 transitions for            
-135SB3CL near closed-shell ^Z=51 nuclide                                        
-135SB CL J(A)$ Probable member of |pg{-7/2}|n(f{-7/2}{+2}) multiplet            
-135SB CL BAND(A)$ |pg{-7/2}|n(f{-7/2}{+2}) multiplet.                           
-135SB2CL This multiplet together with the long half-life of 19/2+ state         
-135SB3CL is consistent with the calculated (1998Bh09) spectrum from shell model.
-135SB  XA135SN B- DECAY (530 MS)                                                
-135SB  XB136SN B-N DECAY (250 MS)                                               
+135SB cG E(Y)$From {+136}Sn |b{+-}n decay                                       
+135SB cG M$Stretched quadrupole from |g|g(|q) in {+248}Cm SF decay, assigned as 
+135SB2cG (E2) in 2015Ko15. Evaluator assigns Q, in the absence of strong        
+135SB3cG supporting data for parity assignment                                  
+135SB cL E$From least-squares fit to E|g data                                   
+135SB cL J(B)$From consistency of experimental and calculated (using shell      
+135SB2cL model) level spectrum for the first five states up to |?900 keV.       
+135SB3cL It should be pointed out, however, that a 1/2+ state at |?530 keV      
+135SB4cL predicted by calculations has not been observed.                       
+135SB cL J(D)$2005Sh36 assign tentative single spin value on the assumption     
+135SB2cL that M1 transitions are more likely than E2 transitions for            
+135SB3cL near closed-shell Z=51 nuclide                                         
+135SB cL J(A)$Probable member of |pg{-7/2}|n(f{-7/2}{+2}) multiplet             
+135SB CL E(A)$|pg{-7/2}|n(f{-7/2}{+2}) multiplet.                               
+135SB2cL This multiplet together with the long half-life of 19/2+ state         
+135SB3cL is consistent with the calculated (1998Bh09) spectrum from shell model.
+135SB  XA135SN B- DECAY (515 MS)                                                
+135SB  XB136SN B-N DECAY (327 MS)                                               
 135SB  XC248CM SF DECAY                                                         
 135SB PN                                                                     6  
 135SB  L 0.0         (7/2+)            1.679 S   15                         A   
-135SB2 L %B-=100 $ %B-N=22 3 (2002SH08)                                         
+135SB2 L %B-=100 $ %B-N=22 3 (2002Sh08)                                         
 135SBX L XREF=ABC                                                               
 135SBF L FLAG=B                                                                 
 135SB cL T$weighted average of 1.696 s {I21} (1968To19,1968To18),               
 135SB2cL 1.706 s {I14} (1977Ru04), 1.662 s {I10} (1993Ru01). Others:            
 135SB3cL 1.82 s {I4} (1976Lu02 superseded by 1993Ru01), 2.0 s {I2} (1966To02,   
 135SB4cL superseded by 1968To19), 1964Be06, 1967De01, 1973Bo42, 1978Cr03.       
-135SB cL $ %|b{+-}n is adopted from 2002Sh08 (same value in 2002Pf04 evaluation)
+135SB cL $%|b{+-}n is adopted from 2002Sh08 (same value in 2002Pf04 evaluation) 
 135SB2cL based on the least-squares fit of their |b-delayed neutron curves. Use 
 135SB3cL of %|b{+-}n=17.6 {I22} recommended by 1993Ru01 (from weighted average  
 135SB4cL of 21.0 {I11} (1993Ru01), 14 {I1} (1978Cr03), 22 {I4} (revision by     
@@ -674,177 +708,194 @@
 135SBCcL by 2002Pf04.                                                           
 135SBDcL Measurements: 1966To02, 1968To19, 1968To18, 1974Sh18, 1974Fr09,        
 135SBEcL 1976Lu02, 1976Kr18, 1977Ru04, 1978Cr03, 1979Kr03, 1980Lu04, 1981Ho07,  
-135SBFcL 1993Ru01. See 2002Pf04, 1989BrZI, 1984Ma39, 1982Ru01, 1977Ru10,        
-135SBGcL 1975Iz03 for analysis, reviews and compilations                        
-135SB DL $ B-N: THEORY: 1981Al25, 1979Pr03, 1978Pe18, 1978Gj02, 1978GJ01,       
+135SBFcL 1993Ru01. See 2002Pf04, 1993Ru01, 1989BrZI, 1984Ma39, 1982Ru01,        
+135SBGcL 1977Ru10, 1975Iz03 for analysis, reviews and compilations              
+135SB DL $B-N: THEORY: 1981Al25, 1979Pr03, 1978Pe18, 1978Gj02, 1978Gj01,        
 135SB2DL 1977Sh10, 1976Kl08, 1972Pa11                                           
-135SB  L 281.7     1  (5/2+)            6.1 NS   4                          B   
+135SB  L 281.8     1  (5/2+)            6.1 NS   4                          B   
 135SBX L XREF=AB                                                                
-135SB cL T$ from |b|g|g(t) in {+135}Sn |b{+-} decay                             
-135SB cL $ Configuration=|pd{-5/2}~#({+134}Sn core)                             
+135SB cL T$from |b|g|g(t) in {+135}Sn |b{+-} decay                              
+135SB cL $Configuration=|pd{-5/2}~#({+134}Sn core)                              
 135SB  G    281.7  1    100     [M1,E2]                 0.041 4                 
-135SBB G BM1W<0.00016$ BE2W<1.2                                                 
-135SB  L 440.1      3   (3/2+)                                              B   
+135SB  L 439.9     3    (3/2+)                                              B   
 135SBX L XREF=AB                                                                
 135SB  G  158.0    5  15     8                                                  
 135SB  G  440.0    5  100    5                                                  
-135SB  L 523            (1/2+)            1.2 NS 1                              
+135SB  L 523       1    (1/2+)            1.2 NS 1                              
 135SBX L XREF=B                                                                 
-135SB CL J$ shell-model calculations (2005Sh36) predict first 1/2+ at 527 keV   
+135SB cL J$shell-model calculations (2005Sh36) predict first 1/2+ at 527 keV    
 135SB cL T$ preliminary value from |b|g|g(t); advanced time-delay method        
 135SB2cL (2007Ma40)                                                             
-135SB  G  241           100     [E2]                    0.076               Y   
+135SB  G  241           100     [E2]                    0.0765              Y   
 135SBB G BE2W=13 1                                                              
-135SB  L 707.0      3   (11/2+)                                             A   
+135SB  L 706.9     1    (11/2+)                                             A   
 135SBX L XREF=AC                                                                
 135SBF L FLAG=B                                                                 
-135SB  G  707.0    5  100                                                   X   
-135SB  L 798.0      3   (9/2+)                                              B   
+135SB  G  706.9    1  100        Q                                              
+135SB  L 798.0     3    (9/2+)                                              B   
 135SBX L XREF=A                                                                 
 135SB  G  798.0    5  100                                                       
-135SB  L 1014.1     4  (5/2+,7/2,9/2+)                                      D   
+135SB  L 1014.1    2   (5/2+,7/2,9/2+)                                      D   
 135SBX L XREF=A                                                                 
-135SB CL J$ |g's to (5/2+) and (9/2+). 2005Sh36 suggest (7/2+)                  
+135SB cL J$|g rays to (5/2+) and (9/2+). 2005Sh36 suggest (7/2+)                
 135SB  G  216.0    5  16.5   3                                                  
 135SB  G     732.4 2  100    5                                                  
 135SB  G   1014.0  5  29.5   11                                                 
-135SB  L 1026.93   23  (7/2+,9/2)                                           D   
+135SB  L 1026.8    2   (7/2+,9/2)                                           D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (11/2+) AND (7/2+); POSSIBLE B FEEDING FROM (7/2-).          
-135SB2CL 2005SH36 suggest (9/2+)                                                
+135SB cL J$|g rays to (11/2+) and (7/2+); possible |b feeding from (7/2-).      
+135SB2cL 2005Sh36 suggest (9/2+)                                                
 135SB  G  320.0    5   5.0   17                                                 
 135SB  G  1027.0   5  100    8                                                  
-135SB  L 1113.1     3  (5/2+,7/2+)                                          D   
+135SB  L 1112.9    3   (5/2+,7/2+)                                          D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (3/2+) AND (7/2+); POSSIBLE B FEEDING FROM (7/2-).           
-135SB2CL 2005SH36 suggest (5/2+)                                                
+135SB cL J$|g rays to (3/2+) and (7/2+); possible |b feeding from (7/2-).       
+135SB2cL 2005Sh36 suggest (5/2+)                                                
 135SB  G  673.0    5  24     4                                                  
 135SB  G     831.0 5  100    12                                                 
 135SB  G   1113.0  5   76    16                                                 
-135SB  L     1117.4 5(15/2+)                                                A   
+135SB  L 1118.1    2 (15/2+)                                                A   
 135SBX L XREF=C                                                                 
-135SB  G    410.9                                                               
-135SB  L 1207.0     3  (5/2+,7/2,9/2+)                                      D   
+135SB  G    411.2  1  100        Q                                              
+135SB  L 1206.9    3   (5/2+,7/2,9/2+)                                      D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (5/2+) AND (9/2+). 2005SH36 suggest (7/2+)                   
+135SB cL J$|g rays to (5/2+) and (9/2+). 2005Sh36 suggest (7/2+)                
 135SB  G  180.0    5  3.4    9                                                  
 135SB  G  409.0    5  10.6   3                                                  
 135SB  G  925.0    5  100    6                                                  
 135SB  G  1207.0   5  48.3   17                                                 
-135SB  L 1333.0     4  (7/2+,9/2)                                           D   
+135SB  L 1333.0     3  (7/2+,9/2)                                           D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (7/2+) AND (11/2+); POSSIBLE B FEEDING FROM (7/2-).          
-135SB2CL 2005SH36 suggest (9/2+)                                                
+135SB cL J$|g rays to (7/2+) and (11/2+); possible |b feeding from (7/2-).      
+135SB2cL 2005Sh36 suggest (9/2+)                                                
 135SB  G  535.0    5  48     6                                                  
 135SB  G  626.0    5  35     3                                                  
 135SB  G 1333.0    5  100    10                                                 
-135SB  L     1342.3 6(19/2+)           20 NS     AP                         A   
+135SB  L 1343.2    2 (19/2+)           20 NS     AP                         A   
 135SBX L XREF=C                                                                 
 135SB cL T$from |g(t) (1998Bh09)                                                
-135SB  G    224.9                                                               
-135SB  L 1353.1    6 (5/2,7/2+)                                             D   
+135SB  G  225.1    1   100       (E2)                  0.0964                   
+135SBB G BE2W AP 1.1                                                            
+135SB  L 1352.9     6(5/2,7/2+)                                             D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G TO (3/2+); POSSIBLE B FEEDING FROM (7/2-). 2005SH36 suggest (5/2+)
+135SB cL J$|g to (3/2+); possible |b feeding from (7/2-). 2005Sh36 suggest      
+135SBxcL (5/2+)                                                                 
 135SB  G  913.0    5  100                                                       
-135SB  L 1387.04   25  (5/2,7/2,9/2+)                                       D   
+135SB  L 1386.9    2   (5/2,7/2,9/2+)                                       D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (5/2+) AND (7/2+); POSSIBLE B FEEDING FROM (7/2-).           
-135SB2CL 2005SH36 suggest (7/2+)                                                
+135SB cL J$|g rays to (5/2+) and (7/2+); possible |b feeding from (7/2-).       
+135SB2cL 2005Sh36 suggest (7/2+)                                                
 135SB  G  180.0    5  17     3                                                  
 135SB  G  274.0    5  10.0   17                                                 
 135SB  G  360.0    5  6.7    17                                                 
 135SB  G  1105.0   5  22     3                                                  
 135SB  G 1387.0    5  100    7                                                  
-135SB  L 1456.1     3  (5/2,7/2,9/2+)                                       D   
+135SB  L 1455.9     3  (5/2,7/2,9/2+)                                       D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (5/2+) AND (7/2+); B FEEDING FROM (7/2-).                    
-135SB2CL 2005SH36 suggest (7/2+)                                                
+135SB cL J$|g rays to (5/2+) and (7/2+); |b feeding from (7/2-).                
+135SB2cL 2005Sh36 suggest (7/2+)                                                
 135SB  G  429.0    5  13.7   16                                                 
 135SB  G  1174.0   5   35    4                                                  
 135SB  G  1456.0   5  100.0  24                                                 
 135SB  L 1549.0    5                                                            
 135SBX L XREF=A                                                                 
-135SB CL J$ G TO (7/2+) suggests (3/2+ to 11/2+)                                
+135SB cL J$|g to (7/2+) suggests (3/2+ to 11/2+)                                
 135SB  G  1549.0   5   100                                                      
-135SB  L 1597.0     4  (7/2+,9/2)                                           D   
+135SB  L 1596.9     4  (7/2+,9/2)                                           D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (9/2+) AND (11/2+); POSSIBLE B FEEDING FROM (7/2-).          
-135SB2CL 2005SH36 suggest (9/2+)                                                
+135SB cL J$|g rays to (9/2+) and (11/2+); possible |b feeding from (7/2-).      
+135SB2cL 2005Sh36 suggest (9/2+)                                                
 135SB  G  570.0    5   57    4                                                  
 135SB  G   799.0   5   56    12                                                 
 135SB  G   890.0   5  100    19                                                 
 135SB  L 1630.0     4  (5/2,7/2,9/2+)                                       D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G TO (5/2+); POSSIBLE B FEEDING FROM (7/2-).                        
-135SB2CL 2005SH36 suggest (7/2+)                                                
+135SB cL J$|g to (5/2+); possible |b feeding from (7/2-).                       
+135SB2cL 2005Sh36 suggest (7/2+)                                                
 135SB  G  243.0    5   41    12                                                 
 135SB  G  1630.0   5  100    24                                                 
-135SB  L 1734.1     4 (5/2,7/2+)                                            D   
+135SB  L 1733.9     3 (5/2,7/2+)                                            D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (3/2+) AND (7/2+); POSSIBLE B FEEDING FROM (7/2-).           
-135SB2CL 2005SH36 suggest (5/2+)                                                
+135SB cL J$|g rays to (3/2+) and (7/2+); possible |b feeding from (7/2-).       
+135SB2cL 2005Sh36 suggest (5/2+)                                                
 135SB  G  1294.0   5  51     7                                                  
 135SB  G  1452.0   5  100    7                                                  
 135SB  G  1734.0   5  14.6   24                                                 
-135SB  L 1831.1     6 (5/2,7/2,9/2)                                         D   
+135SB  L 1830.9     6 (5/2,7/2,9/2)                                         D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G TO (7/2+); POSSIBLE B FEEDING FROM (7/2-). 2005SH36 suggest (5/2+)
+135SB cL J$|g to (7/2+); possible |b feeding from (7/2-). 2005Sh36 suggest      
+135SBxcL (5/2+)                                                                 
 135SB  G  1391.0   5  100                                                       
-135SB  L 1855.4     3 (5/2,7/2,9/2+)                                        D   
+135SB  L 1855.2     3 (5/2,7/2,9/2+)                                        D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (5/2+) AND (7/2+); POSSIBLE B FEEDING FROM (7/2-).           
-135SB2CL 2005SH36 suggest (7/2+)                                                
+135SB cL J$|g rays to (5/2+) and (7/2+); possible |b feeding from (7/2-).       
+135SB2cL 2005Sh36 suggest (7/2+)                                                
 135SB  G  829.0    5  52     7                                                  
 135SB  G 1573.0    5  21.4   24                                                 
 135SB  G 1855.0    5  100    5                                                  
-135SB  L   1971.4  6 (23/2+)                                                    
+135SB  L 1972.7     3(23/2+)                                                    
 135SBX L XREF=C                                                                 
-135SB cL J$ proposed configuration=|pg{-7/2}~#|n(f{-7/2}h{-9/2}) based          
+135SB cL J$proposed configuration=|pg{-7/2}~#|n(f{-7/2}h{-9/2}) based           
 135SB2cL on shell-model calculations by 1998Bh09                                
-135SB  G    629.1                                                               
-135SB  L 2038.2     6                                                           
+135SB  G   629.5   2   100      Q                                               
+135SB  L 2037.8     5                                                           
 135SBX L XREF=A                                                                 
-135SB CL J$ G TO (5/2+) suggests (1/2+ to 9/2+)                                 
+135SB cL J$|g to (5/2+) suggests (1/2+ to 9/2+)                                 
 135SB  G 1756.0    5  100                                                       
-135SB  L 2089.1     3 (5/2,7/2+)                                            D   
+135SB  L 2088.9    3  (5/2,7/2+)                                            D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (3/2+) AND (7/2+); B FEEDING FROM (7/2-).                    
-135SB2CL 2005SH36 suggest (5/2+)                                                
+135SB cL J$|g rays to (3/2+) and (7/2+); |b feeding from (7/2-).                
+135SB2cL 2005Sh36 suggest (5/2+)                                                
 135SB  G  633.0    5  25.2   10                                                 
 135SB  G  976.0    5  23     6                                                  
 135SB  G 1649.0    5  22.9   21                                                 
 135SB  G 1807.0    5  100    8                                                  
 135SB  G 2089.0    5  38.3   13                                                 
-135SB  L 2170.0     4 (5/2+,7/2,9/2)                                        D   
+135SB  L 2169.9     4 (5/2+,7/2,9/2)                                        D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G TO (9/2+); POSSIBLE B FEEDING FROM (7/2-).                        
-135SB2CL 2005SH36 suggest (7/2+,9/2+)                                           
+135SB cL J$|g to (9/2+); possible |b feeding from (7/2-).                       
+135SB2cL 2005Sh36 suggest (7/2+,9/2+)                                           
 135SB  G 1143.0    5  100    10                                                 
 135SB  G 1372.0    5   50    15                                                 
-135SB  L 2212.0     6                                                           
+135SB  L 2211.9     5                                                           
 135SBX L XREF=A                                                                 
-135SB CL J$ G TO (11/2+) suggests (7/2+ to 15/2+)                               
+135SB cL J$|g to (11/2+) suggests (7/2+ to 15/2+)                               
 135SB  G 1505.0    5  100                                                       
 135SB  L 2440.0    5                                                            
 135SBX L XREF=A                                                                 
-135SB CL J$ G TO (7/2+) suggests (3/2+ to 11/2+)                                
+135SB cL J$|g to (7/2+) suggests (3/2+ to 11/2+)                                
 135SB  G  2440.0   5   100                                                      
-135SB  L 2462.1     4 (5/2,7/2,9/2+)                                        D   
+135SB  L 2461.9     4 (5/2,7/2,9/2+)                                        D   
 135SBX L XREF=A                                                                 
-135SB CL J$ G'S TO (5/2+) AND (7/2+); POSSIBLE B FEEDING FROM (7/2-).           
-135SB2CL 2005SH36 suggest (5/2+,7/2+)                                           
+135SB cL J$|g rays to (5/2+) and (7/2+); possible |b feeding from (7/2-).       
+135SB2cL 2005Sh36 suggest (5/2+,7/2+)                                           
 135SB  G 2179.0    5  100    19                                                 
 135SB  G 2463.0    5   84    11                                                 
 135SB  L 2764.0    5                                                            
 135SBX L XREF=A                                                                 
-135SB CL J$ G TO (7/2+) suggests (3/2+ to 11/2+)                                
+135SB cL J$|g to (7/2+) suggests (3/2+ to 11/2+)                                
 135SB  G  2764.0   5   100                                                      
+135SB  L 2837.7    4 (21/2,23/2)                                                
+135SBX L XREF=C                                                                 
+135SB cL J$23/2- suggested from proposed configuration=                         
+135SB2cL |ph{-11/2}~#|nf{-7/2}{+2}{-6+}. However, a 21/2+ state is also         
+135SB3cL predicted (see Figure 3 in 2015Ko05) in shell-model calculations       
+135SB  G   1494.5  3   100                                                      
+135SB  L 3249.2    4 (27/2-)                                                    
+135SBX L XREF=C                                                                 
+135SB cL $Configuration=|pg{-7/2}~#|n(i{-13/2}f{-7/2}){-10-}                    
+135SB  G   1276.5  2   100                                                      
 135SB  L 3263.0    5                                                            
 135SBX L XREF=A                                                                 
-135SB CL J$ G TO (7/2+) suggests (3/2+ to 11/2+)                                
+135SB cL J$|g to (7/2+) suggests (3/2+ to 11/2+)                                
 135SB  G  3263.0   5   100                                                      
+135SB  L 3687.9    5 (29/2-)                                                    
+135SBX L XREF=C                                                                 
+135SB cL $Configuration=|pg{-7/2}~#|n(i{-13/2}h{-9/2}){-11-}                    
+135SB  G    438.7  3   100                                                      
                                                                                 
-135SB    135SN B- DECAY (530 MS)       2005SH36,2002SH08,2001KO4508NDS    200803
+135SB    135SN B- DECAY (515 MS)       2005SH36,2002SH08,2001KO45ENSDF    201612
+135SB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-DEC-2016$                    
 135SB  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
 135SB2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
 135SB c  2005Sh36: {+135}Sn isotope produced in U(n,F) using UC{-2} target,     
@@ -870,10 +921,9 @@
 135SB4c  response |b, BaF{-2} and Ge detectors were used. Comparison of         
 135SB5c  M1 and E2 transition probabilities of 282|g with shell-model           
 135SB6c  calculations                                                           
-135SB d  2007Ko66: Eur Phys J A 32, 25 (2007); Korgul et al.                    
 135SB c  All data are from 2005Sh36, unless otherwise stated                    
-135SB C  Total decay energy of 7066 KEV 219 calculated (by ^RADLIST code)       
-135SB2C  from level scheme is lower than the expected value of 8910 KEV 410     
+135SB c  Total decay energy of 7066 keV {I219} calculated (by RADLIST code)     
+135SB2c  from level scheme is lower than the expected value of 8910 keV {I410}  
 135SB cB IB,LOGFT$Values are considered as approximate for excited states       
 135SB2cB since a large gap of |?5.5 MeV between Q(|b{+-}) and the highest known 
 135SB3cB level at 3263 leaves the possibility of additional levels and          
@@ -884,67 +934,68 @@
 135SB2cG stated as 0.5 keV, the evaluators have added a decimal place           
 135SB3cG in E|g value                                                           
 135SB cG E(A)$From 2001Ko45                                                     
-135SB cG E(X)$ This |g is assumed by 2005Sh36 as a ground-state transition      
+135SB cG E(X)$This |g is assumed by 2005Sh36 as a ground-state transition       
 135SB2cG since not observed in |g|g coincidence, no other transitions were      
 135SB3cG found by 2005Sh36 to populate a level of the same energy as E|g        
-135SB cL E$From least-squares fit to E|g's, normalized |h{+2}=0.46              
-135SB cL J$ From 'adopted levels'. 2005Sh36 tentatively assign more             
+135SB cL E$From least-squares fit to E|g data, normalized |h{+2}=0.46           
+135SB cL J$From Adopted Levels. 2005Sh36 tentatively assign more                
 135SB2cL restrictive values, assuming most transitions as M1 for this           
 135SB3cL near closed-shell nucleus.                                             
-135SN  P         0   (7/2-)            530 MS    20             8910      SY    
-135SN cP QP$8910 {I410} (syst,2003Au03)                                         
+135SN  P     0.0     (7/2-)            515 MS    5              9057      4     
+135SN cP J,T$From {+135}Sn Adopted Levels                                       
+135SN cP QP$From 2012Wa38                                                       
 135SB  N 0.23      2              1        1                                    
-135SB cN NR$|S(I|g of |g's to g.s.)=46 {I4}.                                    
+135SB cN NR$|S(I|g of |g rays to g.s.)=46 {I4}.                                 
 135SB2cN %|b{+-}n=21 {I3} and %|b feeding to g.s.=33 {I3} (2002Sh08)            
 135SB PN                                                                     3  
-135SB  L         0   (7/2+)                                                     
-135SB  B             33      3             5.64  11                             
-135SBS B EAV=4.03E3 20                                                          
-135SB  L 281.78     9 (5/2+)            6.1 NS   4                              
+135SB  L       0.0   (7/2+)                                                     
+135SB  B             33      3             5.66   4                             
+135SBS B EAV=4101.4 19                                                          
+135SB  L 281.8     1  (5/2+)            6.1 NS   4                              
 135SB cL T$ from |b|g|g(t) (2007Ko66)                                           
 135SB  B             1.21                   7.0                                 
-135SBS B EAV=3.90E3 20                                                          
+135SBS B EAV=3968.8 19                                                          
 135SB  G    281.7  1    100     [M1,E2]                 0.041 4             A   
 135SB dG E$ 282 (2005Sh36)                                                      
-135SB  L 439.89    25   (3/2+)                                                  
+135SB  L 439.9     3    (3/2+)                                                  
 135SB  B              0.07   LT             8.2  GT                            ?
-135SBS B EAV=3.83E3 20                                                          
+135SBS B EAV=3894.4 19                                                          
 135SB  G  158.0    5  0.6    3                                                  
 135SB  G  440.0    5  4.1    2                                                  
 135SB  L 706.9      3   (11/2+)                                                 
-135SB  B              0.29   LT             7.5  GT                            ?
-135SBS B EAV=3.70E3 20                                                          
+135SB  B              0.29   LT             7.6  GT                            ?
+135SBS B EAV=3768.7 19                                                          
 135SB  G  707.0    5  4.5    2                                                  
 135SB  L 798.0      3   (9/2+)                                                  
-135SB  B              0.88                  7.0                                 
-135SBS B EAV=3.66E3 20                                                          
+135SB  B              0.88                  7.1                                 
+135SBS B EAV=3725.8 19                                                          
 135SB  G  798.0    5  17     1                                                  
-135SB  L 1014.13   19  (5/2+,7/2,9/2+)                                          
+135SB  L 1014.1    2   (5/2+,7/2,9/2+)                                          
 135SB cL J$ (7/2+) (2005Sh36)                                                   
 135SB  B             12.6                   5.8                                 
-135SBS B EAV=3.55E3 20                                                          
+135SBS B EAV=3623.9 19                                                          
 135SB  G  216.0    5  6.1    1  [D,E2]                  0.07  5                 
 135SB  G     732.4 2  37     2                                              A   
 135SB cG E$ 732 (2005Sh36)                                                      
 135SB cG RI$ others: 26 {I4} (2002Sh08), 41 {I5} (2001Ko45)                     
 135SB  G   1014.0  5  10.9   4                                                  
-135SB  L 1026.83   23  (7/2+,9/2)                                               
+135SB  L 1026.8    2   (7/2+,9/2)                                               
 135SB cL J$ (9/2+) (2005Sh36)                                                   
-135SB  B             1.49                   6.7                                 
-135SBS B EAV=3.55E3 20                                                          
+135SB  B             1.49                   6.8                                 
+135SBS B EAV=3617.9 19                                                          
 135SB  G  320.0    5  0.6    2                                                  
 135SB  G  1027.0   5  12     1                                                  
-135SB  L 1112.89   25  (5/2+,7/2+)                                              
+135SB  L 1112.9    3   (5/2+,7/2+)                                              
 135SB cL J$ (5/2+) (2005Sh36)                                                   
-135SB  B              1.45                  6.7                                 
-135SBS B EAV=3.51E3 20                                                          
+135SB  B              1.45                  6.8                                 
+135SBS B EAV=3577.3 19                                                          
 135SB  G  673.0    5  0.6    1                                                  
 135SB  G     831.0 5  2.5    3                                                  
 135SB  G   1113.0  5  1.9    4                                                  
-135SB  L 1206.89   25  (5/2+,7/2,9/2+)                                          
+135SB  L 1206.9    3   (5/2+,7/2,9/2+)                                          
 135SB cL J$ (7/2+) (2005Sh36)                                                   
 135SB  B             13.0                   5.8                                 
-135SBS B EAV=3.46E3 20                                                          
+135SBS B EAV=3532.9 19                                                          
 135SB  G  180.0    5  1.2    3                                                  
 135SB  G  409.0    5  3.7    1                                                  
 135SB  G  925.0    5   35    2                                                  
@@ -953,19 +1004,19 @@
 135SB  L 1333.0     4  (7/2+,9/2)                                               
 135SB cL J$ (9/2+) (2005Sh36)                                                   
 135SB  B             1.32                   6.7                                 
-135SBS B EAV=3.40E3 20                                                          
+135SBS B EAV=3473.4 19                                                          
 135SB  G  535.0    5  1.5    2                                                  
 135SB  G  626.0    5  1.07   8                                                  
 135SB  G 1333.0    5  3.1    3                                                  
 135SB  L 1352.9     6  (5/2,7/2+)                                               
 135SB cL J$ (5/2+) (2005Sh36)                                                   
 135SB  B              0.07                  8.0                                 
-135SBS B EAV=3.39E3 20                                                          
+135SBS B EAV=3464.1 19                                                          
 135SB  G  913.0    5  0.3    1                                                  
-135SB  L 1386.89   24  (5/2,7/2,9/2+)                                           
+135SB  L 1386.9    3   (5/2,7/2,9/2+)                                           
 135SB cL J$ (7/2+) (2005Sh36)                                                   
 135SB  B             2.03                   6.5                                 
-135SBS B EAV=3.38E3 20                                                          
+135SBS B EAV=3448.0 19                                                          
 135SB  G  180.0    5  1.0    2                                                  
 135SB  G  274.0    5  0.6    1                                                  
 135SB  G  360.0    5  0.4    1                                                  
@@ -974,54 +1025,54 @@
 135SB  L 1455.9     3  (5/2,7/2,9/2+)                                           
 135SB cL J$ (7/2+) (2005Sh36)                                                   
 135SB  B             4.00                   6.2                                 
-135SBS B EAV=3.35E3 20                                                          
+135SBS B EAV=3415.4 19                                                          
 135SB  G  429.0    5  1.7    2                                                  
 135SB  G  1174.0   5  4.3    5                                                  
 135SB  G  1456.0   5  12.4   3                                                  
 135SB  L 1549.0    5                                                            
 135SB  B              0.10                  7.8                                 
-135SBS B EAV=3.30E3 20                                                          
+135SBS B EAV=3371.5 19                                                          
 135SB  G  1549.0   5   0.43  5                                              X   
 135SB  L 1596.9     4  (7/2+,9/2)                                               
 135SB cL J$ (9/2+) (2005Sh36)                                                   
 135SB  B             0.58                   7.0                                 
-135SBS B EAV=3.28E3 20                                                          
+135SBS B EAV=3348.9 19                                                          
 135SB  G  570.0    5  0.91   7                                                  
 135SB  G   799.0   5  0.9    2                                                  
 135SB  G   890.0   5  1.6    3                                                  
 135SB  L 1630.0     4  (5/2,7/2,9/2+)                                           
 135SB cL J$ (7/2+) (2005Sh36)                                                   
 135SB  B             0.40                   7.2                                 
-135SBS B EAV=3.26E3 20                                                          
+135SBS B EAV=3333.2 19                                                          
 135SB  G  243.0    5  0.7    2                                                  
 135SB  G  1630.0   5  1.7    4                                                  
 135SB  L 1733.9     3 (5/2,7/2+)                                                
 135SB cL J$ (5/2+) (2005Sh36)                                                   
-135SB  B             1.58                   6.5                                 
-135SBS B EAV=3.21E3 20                                                          
+135SB  B             1.58                   6.6                                 
+135SBS B EAV=3284.1 19                                                          
 135SB  G  1294.0   5  2.1    3                                                  
 135SB  G  1452.0   5  4.1    3                                                  
 135SB  G  1734.0   5  0.6    1                                                  
 135SB  L 1830.9     6 (5/2,7/2,9/2)                                             
 135SB cL J$ (5/2+) (2005Sh36)                                                   
 135SB  B             0.26                   7.3                                 
-135SBS B EAV=3.17E3 20                                                          
+135SBS B EAV=3238.3 20                                                          
 135SB  G  1391.0   5  0.7    2                                                  
 135SB  L 1855.2     3 (5/2,7/2,9/2+)                                            
 135SB cL J$ (7/2+) (2005Sh36)                                                   
 135SB  B             1.40                   6.6                                 
-135SBS B EAV=3.16E3 20                                                          
+135SBS B EAV=3226.8 19                                                          
 135SB  G  829.0    5  2.2    3                                                  
 135SB  G 1573.0    5  0.9    1                                                  
 135SB  G 1855.0    5  4.2    2                                                  
 135SB  L 2037.8     5                                                           
 135SB  B             0.28                   7.2                                 
-135SBS B EAV=3.07E3 20                                                          
+135SBS B EAV=3140.5 19                                                          
 135SB  G 1756.0    5  1.2    1                                                  
-135SB  L 2088.90   25 (5/2,7/2+)                                                
+135SB  L 2088.9    3  (5/2,7/2+)                                                
 135SB cL J$ (5/2+) (2005Sh36)                                                   
 135SB  B             2.34                   6.3                                 
-135SBS B EAV=3.05E3 20                                                          
+135SBS B EAV=3116.4 19                                                          
 135SB  G  633.0    5  1.21   5                                                  
 135SB  G  976.0    5  1.1    3                                                  
 135SB  G 1649.0    5  1.1    1                                                  
@@ -1030,32 +1081,33 @@
 135SB  L 2169.9     4 (5/2+,7/2,9/2)                                            
 135SB cL J$ (7/2+,9/2+) (2005Sh36)                                              
 135SB  B             0.70                   6.8                                 
-135SBS B EAV=3.01E3 20                                                          
+135SBS B EAV=3078.1 19                                                          
 135SB  G 1143.0    5  2.0    2                                                  
 135SB  G 1372.0    5  1.0    3                                                  
 135SB  L 2211.9     6                                                           
-135SB  B             0.09                   7.6                                 
-135SBS B EAV=2.99E3 20                                                          
+135SB  B             0.09                   7.7                                 
+135SBS B EAV=3058.2 20                                                          
 135SB  G 1505.0    5  0.4    1                                                  
 135SB  L 2440.0    5                                                            
 135SB  B                                                                        
 135SB  G  2440.0   5   0.3   2                                              X   
 135SB  L 2461.9     4 (5/2,7/2,9/2+)                                            
 135SB cL J$ (5/2+,7/2+) (2005Sh36)                                              
-135SB  B             0.16                   7.3                                 
-135SBS B EAV=2.87E3 20                                                          
+135SB  B             0.16                   7.4                                 
+135SBS B EAV=2940.0 19                                                          
 135SB  G 2179.0    5  0.37   7                                                  
 135SB  G 2463.0    5  0.31   4                                                  
 135SB  L 2764.0    5                                                            
-135SB  B              0.16                  7.2                                 
-135SBS B EAV=2.73E3 20                                                          
+135SB  B              0.16                  7.3                                 
+135SBS B EAV=2797.0 19                                                          
 135SB  G  2764.0   5   0.7   5                                              X   
 135SB  L 3263.0    5                                                            
-135SB  B              0.11                  7.2                                 
-135SBS B EAV=2.49E3 20                                                          
+135SB  B              0.11                  7.3                                 
+135SBS B EAV=2560.8 19                                                          
 135SB  G  3263.0   5   0.5   2                                              X   
                                                                                 
-135SB    136SN B-N DECAY (250 MS)      2002SH08,2007MA40         08NDS    200803
+135SB    136SN B-N DECAY (327 MS)      2002SH08,2007MA40         ENSDF    201612
+135SB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-DEC-2016$                    
 135SB  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
 135SB2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
 135SB c  2002Sh08: Measured E|g, I|g, |g|g, lifetimes, delayed neutron          
@@ -1070,12 +1122,20 @@
 135SB5c  lifetimes. 2007Ma40 is a conference paper and the authors state        
 135SB6c  that analysis is still in progress.                                    
 135SB c  The level scheme and |g rays are from 2007Ma40.                        
-135SB cL J$ from 'adopted levels'.                                              
-136SN  P         0    0+               250 MS    30             5130      SY    
-136SN cP QP$Q(|b{+-}n)=5130 {I510} (syst,2003Au03)                              
-136SN cP T$ From 2002Sh08                                                       
-135SB  N                          0.30 5                0.30  5                 
-135SB cN BR$%|b{+-}n=30 {I5} from 2002Sh08. Other: 25 {I7} (2002Pf04 evaluation)
+135SB cL J$From Adopted Levels                                                  
+136SN  P    0.0       0+               327 MS    34             5720      SY    
+136SN cP QP$Q(|b{+-}n)=5720 {I400} (syst,2012Wa38)                              
+136SN cP T$Values of 350 ms {I5} (2015Lo04, |b(ion) correlated decay            
+136SN2cP curve); 250 ms {I30} (2002Sh08); and 300 ms {I15} (2011Ar18, from decay
+136SN3cP curve for delayed neutrons) represent a discrepant dataset. The        
+136SN4cP recommended value is from expected value method (EVM) in V-AVELIB code 
+136SN5cP available from www.nndc.bnl.gov webpage. Unweighted average is         
+136SN6cP 300 ms {I30}. Weighted average (with LWM method) is 320 ms {I23} but   
+136SN7cP with reduced |h{+2}=6.1 as compared to critical |h{+2}=3.0 at 95%      
+136SN8cP confidence level                                                       
+135SB  N                          0.28 4                0.28  4                 
+135SB cN BR$%|b{+-}n=28 {I4} for {+136}Sn decay (from weighted average of       
+135SB2cN 30 {I5} (2002Sh08) and 27 {I4} (2011Ar18))                             
 135SB  L  0             (7/2+)                                                  
 135SB  L 282            (5/2+)                                                  
 135SB  G  282                                                                C  
@@ -1083,32 +1143,66 @@
 135SB  G  158                                                                C  
 135SB  G  440                                                                   
 135SB  L 523            (1/2+)            1.2 NS 1                              
-135SB cL T$ preliminary value from |b|g|g(t); advanced time-delay method        
+135SB cL T$preliminary value from |b|g|g(t); advanced time-delay method         
 135SB2cL (2007Ma40)                                                             
 135SB  G  241                                                                C  
                                                                                 
-135SB    248CM SF DECAY                1998BH09                  08NDS    200803
+135SB    248CM SF DECAY                2015KO05,1998BH09         ENSDF    201612
+135SB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-DEC-2016$                    
 135SB  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
 135SB2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
-135SB c  Measured E|g, |g|g, lifetimes using Eurogam II array consisting        
-135SB2c  of 124 Ge detectors and four LEPS spectrometers.                       
-135SB cL E$From E|g's, assuming |D(E|g)=0.5 keV for each |g ray                 
-135SB CL BAND(A),J(A)$ Member of |pg{-7/2}|n(f{-7/2}{+2}) multiplet.            
-135SB2CL This multiplet together with the long half-life of 19/2+ state         
-135SB3CL is consistent with the calculated (1998Bh09) spectrum from shell model.
-248CM  P   0            0+             3.48E+5 Y 6                              
-135SB  L         0   (7/2+)                                                 A   
-135SB  L    706.5  5 (11/2+)                                                A   
-135SB  G    706.5                                                               
-135SB  L   1117.4  7 (15/2+)                                                A   
-135SB  G    410.9                                                               
-135SB  L   1342.3  9 (19/2+)           20 NS     AP                         A   
-135SB cL T$ from |g(t) (1998Bh09)                                               
-135SB  G    224.9                                                               
-135SB  L   1971.4  10(23/2+)                                                    
-135SB cL J$ proposed configuration=|pg{-7/2}~#|n(f{-7/2}h{-9/2}) based          
-135SB2cL on shell-model calculations by 1998Bh09                                
-135SB  G    629.1                                                               
+135SB c  2015Ko05: measured E|g, high-fold |g|g-coin, |g|g(|q) using EUROGAM-2  
+135SB2c  array. Deduced high-spin levels, J, |p, configurations. Comparison with
+135SB3c  shell-model calculations using OXBASH code.                            
+135SB c  1998Bh09: Measured E|g, |g|g, lifetimes using Eurogam II array         
+135SB2c  consisting of 124 Ge detectors and four LEPS spectrometers.            
+135SB cG $In |g|g(|q), expected A{-2}=+0.102 and A{-4}=+0.009 for               
+135SB2cG stretched quadrupole-stretched quadrupole cascade and A{-2}=-0.071 and 
+135SB3cG A{-4}=0.0 for stretched quadrupole-stretched dipole cascade            
+135SB cG E,RI$From 2015Ko05. Values from 1998Bh09 are available for only        
+135SB2cG the first four states, and given without uncertainties                 
+135SB cG M$Stretched quadrupole from |g|g(|q), assigned as (E2) in 2015Ko15.    
+135SB2cG Evaluator assigns Q, in the absence of supporting data for parity      
+135SB3cG assignment                                                             
+135SB cL E$From E|g data                                                        
+135SB CL E(A),J(A)$ Member of |pg{-7/2}|n(f{-7/2}{+2}) multiplet.               
+135SB2cL This multiplet together with the long half-life of 19/2+ state         
+135SB3cL is consistent with the calculated (1998Bh09) spectrum from shell model.
+248CM  P   0.0          0+             3.48E+5 Y 6                              
+248CM cP T$From {+248}Cm Adopted Levels in ENSDF database                       
+135SB  N                        0.0839 16                                       
+135SB cN BR$%SF=8.39 {I16} from {+248}Cm decay                                  
+135SB PN                                                                     5  
+135SB  L      0.0    (7/2+)                                                 A   
+135SB  L 706.9     1  (11/2+)                                               A   
+135SB  G    706.9  1  100    5  Q                                               
+135SB cG E$706.5 (1998Bh09)                                                     
+135SB cG $|g|g(|q): A{-2}=+0.090 {I23}, A{-4}=-0.009 {I37}                      
+135SB  L 1118.1    2  (15/2+)                                               A   
+135SB  G    411.2  1   57    4   Q                                              
+135SB cG E$410.9 (1998Bh09)                                                     
+135SB cG $|g|g(|q): A{-2}=+0.090 {I23}, A{-4}=-0.009 {I37}                      
+135SB  L 1343.2    2  (19/2+)           20 NS    AP                         A   
+135SB cL T$from |g(t) (1998Bh09)                                                
+135SB  G    225.1  1   31    3  (E2)                                            
+135SB cG E$224.9 (1998Bh09)                                                     
+135SB cG $|g|g(|q): A{-2}=+0.074 {I16}, A{-4}=-0.018 {I28}                      
+135SB  L 1972.7    3 (23/2+)                                                    
+135SB cL $Configuration=|pg{-7/2}~#|n(f{-7/2}h{-9/2})                           
+135SB  G    629.5  2   12    2   Q                                              
+135SB cG E$629.1 (1998Bh09)                                                     
+135SB cG $|g|g(|q): A{-2}=+0.060 {I53}, A{-4}=-0.139 {I89}                      
+135SB  L 2837.7    4 (21/2,23/2)                                                
+135SB cL J$23/2- suggested from proposed configuration=                         
+135SB2cL |ph{-11/2}~#|nf{-7/2}{+2}{-6+}. However, a 21/2+ state is also         
+135SB3cL predicted (see Figure 3 in 2015Ko05) in shell-model calculations       
+135SB  G   1494.5  3   1.5   5                                                  
+135SB  L 3249.2    4 (27/2-)                                                    
+135SB cL $Configuration=|pg{-7/2}~#|n(i{-13/2}f{-7/2}){-10-}                    
+135SB  G   1276.5  2   5     1                                                  
+135SB  L 3687.9    5 (29/2-)                                                    
+135SB cL $Configuration=|pg{-7/2}~#|n(i{-13/2}h{-9/2}){-11-}                    
+135SB  G    438.7  3   3     1                                                  
                                                                                 
 135TE    ADOPTED LEVELS, GAMMAS                                  08NDS    200803
 135TE  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
@@ -13397,76 +13491,77 @@
 135SM  L 12599.0+Y 17 (69/2+)                                               C   
 135SM  G      1339                                                          X   
                                                                                 
-135EU    ADOPTED LEVELS                                          08NDS    200803
+135EU    ADOPTED LEVELS                                          ENSDF    201612
+135EU  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-DEC-2016$                    
 135EU  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
 135EU2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
-135EU  Q -9.9E3    SY1.23E4  SY1.E2    SY3.4E3   SY    2012WA38                 
-135EU CQ Note: Current evaluation has used the following Q record               
-135EU  Q -10010    SY 12440  SY -20    SY 3120   SY    2003AU03                 
-135EU CQ $ DQ-=590, DSN=DSP=DQA=360 (2003AU03)                                  
-135EU CQ $ Q(ECP)=5260 300 (syst,2003AU03)                                      
-135EU C  {+135}Eu produced (1989VI04) by the reaction 92MO(46TI,p2n) E=192 MEV  
-135EU2C  and mass separated through on-line techniques. Measured x rays,        
-135EU3C  GAMMA rays, positrons and T1/2. {+135}Eu identified by SM x rays and   
-135EU4C  SM x B+ coincidences. No delayed proton activity was assigned          
-135EU5C  by 1989VI04, the authors state that interfering delayed protons from   
-135EU6C  the daughter 135SM may have obscured a possible weak proton branch     
-135EU7C  from the decay of {+135}Eu                                             
-135EU C  Decay scheme of {+135}Eu to 135SM is not known, except that a weak     
-135EU2C  120.8G associated with {+135}Eu decay was assigned (1989VI04) from     
-135EU3C  SM x-GAMMA coincidences.                                               
-135EU D  1993BRZU HAS NO DATA FOR 135EU                                         
+135EU  Q -9860     SY 12290  SY 60     SY 3350   SY    2012WA38                 
+135EU cQ $|DQ(|b{+-})=450, |DS(n)=360, |DS(p)=|DQ(|a)=280 (2012Wa38)            
+135EU cQ $S(2n)=23050 {I360}, S(2p)=3320 {I200}, Q(|ep)=5300 {I200}             
+135EU2cQ (syst,2012Wa38)                                                        
+135EU c  1989Vi04: {+135}Eu produced in the reaction {+92}Mo({+46}Ti,p2n)       
+135EU2c  E=192 MeV and mass separated through on-line techniques. Measured x    
+135EU3c  rays, |g rays, positrons and T{-1/2}. {+135}Eu identified by Sm x rays 
+135EU4c  and Sm x |b{++} coincidences. No delayed proton activity was assigned  
+135EU5c  by 1989Vi04, the authors state that interfering delayed protons from   
+135EU6c  the daughter {+135}Sm may have obscured a possible weak proton branch  
+135EU7c  from the decay of {+135}Eu                                             
+135EU c  Decay scheme of {+135}Eu to {+135}Sm is not known, except that a weak  
+135EU2c  120.8|g associated with {+135}Eu decay was assigned (1989Vi04) from    
+135EU3c  Sm x-|g coincidences.                                                  
+135EU d  1993BrZU: no data for {+135}Eu                                         
 135EU  L  0.0                            1.5 S   2                              
 135EU2 L %EC+%B+=100$ %ECP=?                                                    
-135EU CL J$ 11/2- proposed from systematics (2003Au02), 5/2+ from calculations  
-135EU2CL (1997MO25)                                                             
-135EU CL T$from timing of SM x rays (1989VI04)                                  
+135EU cL $S(p)=60 {I280} (syst,2012Wa38) does not exclude proton emission       
+135EU cL J$11/2- proposed from systematics (2012Au07), 5/2+ from calculations   
+135EU2cL (1997Mo25)                                                             
+135EU cL T$from timing of Sm x rays (1989Vi04)                                  
                                                                                 
-135GD    ADOPTED LEVELS                                          08NDS    200803
+135GD    ADOPTED LEVELS                                          ENSDF    201612
+135GD  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-DEC-2016$                    
 135GD  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
 135GD2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
-135GD  Q -1.15E4   SY1.11E4  SY1.7E3   SY3.4E3   SY    2012WA38                 
-135GD CQ Note: Current evaluation has used the following Q record               
-135GD  Q  -11180   CA 10680  SY 1640   SY  3590  SY    2003AU03                 
-135GD CQ Q-$ FROM 1997MO25                                                      
-135GD cQ $ |DS(n)=640, |DS(p)=540, |DQ(|a)=590 (syst,2003Au03)                  
-135GD CQ $ Q(ECP)=10040 540 (SYST,2003AU03)                                     
-135GD C  {+135}Gd produced in 106CD(32S,3N) E=171 MEV (1996XU07) and identified 
-135GD2C  through the measurement of G and x rays in appropriate nuclides,       
-135GD3C  delayed protons, (x ray)(proton) and |g(proton) coincidences.          
-135GD4C  Cross section for production=100 nb at E(32S)=151 MEV (2005Xu04)       
+135GD  Q -11470    SY 11060  SY 1650   SY 3420   SY    2012WA38                 
+135GD cQ $|DQ(|b{+-})=|DS(n)=|DQ(|a)=570, |DS(p)=500 (syst,2012Wa38)            
+135GD cQ $S(2n)=24410 {I640}, S(2p)=1640 {I500}, Q(|ep)=9800 {I450}             
+135GD2cQ (syst,2012Wa38)                                                        
+135GD c  1996Xu07: {+135}Gd produced in {+106}Cd({+32}S,3n),E=171 MeV and       
+135GD2c  identified through the measurement of |g and x rays in appropriate     
+135GD3c  nuclides, delayed protons, (x ray)(proton) and |g(proton) coincidences.
+135GD4c  Cross section for production=100 nb at E({+32}S)=151 MeV (2005Xu04)    
 135GD  L  0.0         (5/2+)             1.1 S   2                              
-135GD2 L %EC+%B+=100$ %ECP=18 (2005XU04)                                        
-135GD CL %ECP$ other: AP 2 (1996XU07)                                           
-135GD CL J$ from comparison of measured delayed proton spectrum and             
-135GD2CL %ECP to low-lying states in 134SM with calculations using              
-135GD3CL statistical model. 5/2+ is also suggested by calculations of 1997Mo25  
-135GD CL T$from timing of 163G (2+ to 0+ transition in 134SM) in coin with      
-135GD2CL protons from ECP decay of 135GD (1996XU07,2005Xu04) .                  
+135GD2 L %EC+%B+=100$ %ECP=18 (2005Xu04)                                        
+135GD cL %ECP$other: |?2 (1996Xu07)                                             
+135GD cL J$from comparison of measured delayed proton spectrum and              
+135GD2cL %|ep to low-lying states in {+134}Sm with calculations using           
+135GD3cL statistical model. 5/2+ is also suggested by calculations of 1997Mo25  
+135GD cL T$from timing of 163|g (2+ to 0+ transition in {+134}Sm) in coin with  
+135GD2cL protons from |ep decay of {+135}Gd (1996Xu07,2005Xu04).                
                                                                                 
-135TB    ADOPTED LEVELS                                          08NDS    200803
+135TB    ADOPTED LEVELS                                          ENSDF    201612
+135TB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-DEC-2016$                    
 135TB  H TYP=FUL$AUT=BALRAJ SINGH, ALEXANDER A. RODIONOV and YURI L. KHAZOV$    
 135TB2 H CIT=NDS 109, 517 (2008)$CUT=22-Jan-2008$                               
-135TB  Q                       -1188   7 4.0E3   SY    2012WA38                 
-135TB CQ Note: Current evaluation has used the following Q record               
-135TB  Q              13720  CA-1188   7  3570   CA    2004WO07,1997MO25        
-135TB CQ $ SN and QA from 1997Mo25; SP from measured E(p)=1179 7 (2004Wo07)     
-135TB C  2004WO07 (also 2005Se21):  92MO(50CR,P6N), E=310 MeV, measured proton  
-135TB2C  energy and T1/2 following separation by ^FMA, production cross section 
-135TB3C  AP 3 nb                                                                
-135TB c  Theoretical calculations: 2006De07 (proton decay, half-life);          
-135TB2c  1999La10 (levels, g.s. deformation)                                    
+135TB  Q              13720  CA -1188  7 4020    SY    2012WA38,1997MO25        
+135TB cQ $S(n) from theory (1997Mo25). S(p) and Q(|a) from 2012Wa38             
+135TB cQ $S(2n)=26010 (theory,1997Mo25). S(2p)=170 {I500}, Q(|ep)=9810 {I500}   
+135TB2cQ (syst,2012Wa38)                                                        
+135TB c  2004Wo07 (also 2005Se21): {+92}Mo({+50}Cr,p6n), E=310 MeV, measured    
+135TB2c  proton energy and T{-1/2} following separation by FMA, production      
+135TB3c  cross section |?3 nb                                                   
+135TB d  Theoretical calculations: 2006De07 (proton decay, half-life);          
+135TB2d  1999La10 (levels, g.s. deformation)                                    
 135TB  L 0.0         (7/2-)            0.94 MS   +33-22                         
-135TBX L %P AP 100                                                              
-135TB CL %P$ expected as 100% from calculated partial T1/2(|b{+-})=193.2 ms     
-135TB2CL (1997Mo25)                                                             
-135TB CL E$ The 0.94-MS state is assumed as the ground state. According to      
-135TB2CL 1997Mo25 and 1999La10, the odd proton is also predicted to have        
-135TB3CL 3/2[411] configuration, thus it is possible that 0.94-MS state lies    
-135TB4CL above the 3/2[411] state.                                              
-135TB CL J$ comparison of calculated proton decay rates for 3/2[411], 5/2[413]  
-135TB2CL and 7/2[523] orbitals with the experimental T1/2 gives best agreement  
-135TB3CL for 7/2[523] configuration and |b{-2}|?+0.33 (highly prolate deformed  
-135TB4CL shape)                                                                 
-135TB cL T$ from timing of protons (2004Wo07)                                   
+135TB2 L %P AP 100 $%EC+%B+=?                                                   
+135TB cL %P$theoretical T{-1/2}(|b{+-})=193.2 ms (1997Mo25) suggests            
+135TB2cL %|b{++}+|e|?0.5%                                                       
+135TB cL E$The 0.94-ms state is assumed as the ground state. According to       
+135TB2cL 1997Mo25 and 1999La10, the odd proton is also predicted to have        
+135TB3cL 3/2[411] configuration, thus it is possible that 0.94-ms state lies    
+135TB4cL above the 3/2[411] state.                                              
+135TB cL J$comparison of calculated proton decay rates for 3/2[411], 5/2[413]   
+135TB2cL and 7/2[523] orbitals with the experimental T{-1/2} gives best         
+135TB3cL agreement for 7/2[523] configuration and |b{-2}|?+0.33 (highly prolate 
+135TB4cL deformed shape) (2004Wo07)                                             
+135TB cL T$from decay curve for protons (2004Wo07)                              
                                                                                 

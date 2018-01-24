@@ -3509,21 +3509,76 @@
 236CM CA           ALPHA transition has not been observed. Its energy has been  
 236CM2CA deduced from the estimated level energy.                               
                                                                                 
-236BK    ADOPTED LEVELS                                          06NDS    200610
-236BK  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 107, 2649 (2006)$            
-236BK2 H CUT=1-Oct-2005$                                                        
-236BK  Q             7.2E3   SY1.8E3   SY7.8E3   SY    2012WA38                 
-236BK CQ Note: Current evaluation has used the following Q record               
-236BK  Q             7370    SY1800    SY7580    SY    2003AU03                 
-236BK CQ $DSN=570, DSP=450, DQA=500                                             
-236BK C  Growth and decay of 5760A of 236PU in a chemically                     
-236BK2C  separated BK fraction from a W target irradiated with 24-GEV protons   
-236BK3C  was reported in 1987Ma21.                                              
-236BK4C  The growth, with average T1/2 of 1.4 Y 4, is assigned in 1987Ma21 to   
-236BK5C  three successive EC decays of 236BK isomer to 236PU. The T1/2 of this  
-236BK6C  isomer is in the range of 1 month to 1.4 Y.                            
-236BK7C  T1/2=42.4 S for GS is given in 2002RE31 based on                       
-236BK8C  calculations in 1997Mo25.                                              
+236BK    ADOPTED LEVELS                                          ENSDF    201612
+236BK  H TYP=FUL$AUT=F.G. KONDEV$CIT=ENSDF$CUT=22-DEC-2016$                     
+236BK  Q              7429   SY 1336   SY -8231  SY    2012Wa38                 
+236BK cQ $Estimated uncertainties (2012Wa38): |DS(n)=499,                       
+236BK2cQ |DS(p)=452, |DS(|a)=566                                                
+236BK  XA240ES A DECAY                                                          
+236BK  L 0            (4+)              22 S     +13-6                          
+236BK2 L %EC+%B+=100$%ECSF=4 2                                                  
+236BKX L XREF=A                                                                 
+236BK cL %EC,%ECSF$From 2017Ko02. %|e=100, since only E|a=6954 keV ({+236}Cm)   
+236BK2cL was observed to be correlated with E|a=8190 KeV and 8090 keV ({+240}Es)
+236BK cL J$From systematics and the proposed configuration. The assignment is   
+236BK2cL tentative                                                              
+236BK cL T$From implant-8090|a-fission(t) (2017Ko02).                           
+236BK cL CONF$From systematics of Z=97, Es isotopes, |p3/2[521] (f{-7/2}) and   
+236BK2cL |p7/2[633] orbitals are expected near the proton Fermi surface, while  
+236BK3cL |n5/2[572] (j{-15/2}) orbital is expected near the neutron Fermi       
+236BK4cL surface for the N=141 isotones. Thus, using the Gallagher-Moszkowski   
+236BK5cL  rule, one may expect K|p=4+, |p3/2[521]~#|n5/2[572] for the ground    
+236BK6cL state of {+236}Bk. K|p=6-, |p7/2[633]~#|n5/2[572] is a possible        
+236BK7cL alternative. Assignments are tentative                                 
+236BK  L 102       43 (1+)                                                      
+236BKX L XREF=A                                                                 
+236BKX L XREF=A                                                                 
+236BK cL E$From the E|a's difference                                            
+236BK cL J$Favored |a decay from {+240}Es ground state (J|p=(1+)). Proposed J|p 
+236BK2cL and configuration of the {+240}Es ground state. The assignment is      
+236BK3cL tentative                                                              
+236BK cL CONF$K|p=1+, |p7/2[633]~#|n5/2[633] proposed for the {+240}Es ground   
+236BK2cL state based on the expected proton and neutron orbitals near the Fermi 
+236BK3cL surfaces, and the Gallagher-Moszkowski spin-coupling rule              
+                                                                                
+236BK    240ES A DECAY                 2017Ko02                           201612
+236BK  H TYP=FUL$AUT=F.G. KONDEV$CIT=ENSDF$CUT=22-DEC-2016$                     
+236BK c  {+240}Es produced in the {+209}Bi({+34}S,3n) reaction at the           
+236BK2c  University of Jyvaskyla accelerator laboratory. E({+34}S)= 174 MeV and 
+236BK3c  178 MeV, the latter reduced to 175 MeV and 172 MeV using carbon foils  
+236BK4c  with thicknesses of 0.2 and 0.4 mg/cm{+2} in front of the target. The  
+236BK5c  0.5 mg/cm{+2} {+209}Bi target was evaporated on a 0.05 mg/cm{+2}       
+236BK6c  carbon-backing foil. Evaporation residues were separated by the        
+236BK7c  RITU gas-filled separator and implanted into two DSSDs of 300|mm       
+236BK8c  thickness and consisting of 60 horizontal and 40 vertical strips. Three
+236BK9c  Clover-type HPGe detectors and a planer HPGe detector surrounded the   
+236BK0c  DSSDs. Measured: E|a, E|g, implant-|a-|a(t), implant-fission(t),       
+236BKac  implant-|a-fission(t) and implant-|a-|g(t) correlations.               
+236BK cL J$From Adopted levels                                                  
+236BK cG E$From 2017Ko02                                                        
+236BK cG E(a)$Energy close to the Bk K x-ray line.                              
+236BK cA IA$From the reported number of implant-|a events correlated within a   
+236BK2cA 30 s time window in 2017Ko02                                           
+236BK cA HF$r{-0}({+236}Bk)=1.491 {I17}, from r{-0}({+236}Cm), deduced in       
+236BK2cA {+240}Cf |a decay using HF=1                                           
+240ES  P 0            (1+)              6 S      2              8329      31    
+240ES cP T$From 2017Ko02                                                        
+240ES cP E,J$From adopted levels for {+240}Es in the ENSDF database             
+240ES cP QP$From E|a=8190 keV {I30}, assuming it is a ground state to ground    
+240ES2cP state transition                                                       
+236BK  N                       0.70    10                                       
+236BK cN BR$From 2017Ko02                                                       
+236BK  G   67      3                                                            
+236BK  G   89      3                                                            
+236BK  G  112      3                                                        a   
+236BK  G  125      3                                                        a   
+236BK cG E$The relative intensities between the 125|g and 112|g sugest that the 
+236BK2cG 125|g is not a pure K x-ray line (2017Ko02)                            
+236BK  L 0            (4+)              22 S     +13-6                          
+236BK cL T$From implant-8090|a-fission(t) in 2017Ko02                           
+236BK  A 8190      30  31    AP   12   AP                                       
+236BK  L 102       43 (1+)                                                      
+236BK  A 8090      30  69    AP  2.5   AP                                       
                                                                                 
 236CF    ADOPTED LEVELS                                          06NDS    200610
 236CF  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 107, 2649 (2006)$            

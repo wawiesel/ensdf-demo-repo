@@ -15772,29 +15772,81 @@
  93PD  L 7661.8    14 (45/2+)                                               A   
  93PD  G 382.1     4  8      2                                                  
                                                                                 
- 93AG    ADOPTED LEVELS                1994HE28,2008KRZW         11NDS    201105
+ 93AG    COMMENTS                                                ENSDF    201610
+ 93AG  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
+ 93AG C  TITL$NUCLEAR DATA SHEETS FOR 93AG                                      
+ 93AG c  AUTH$BALRAJ SINGH                                                      
+ 93AG c  INST$Department of Physics and Astronomy,                              
+ 93AG#c       McMaster University, Hamilton, Ontario,                           
+ 93AG#c       Canada, L8S 4M1                                                   
+ 93AG c  ABST$Production and confirmed identification of the {+93}Ag nuclide,   
+ 93AG2c  together with estimated half-life from 2016Ce02 is presented in this   
+ 93AG3c  update, superseding previous information in 2011Ba40 NDS for           
+ 93AG4c  A=93 nuclides.                                                         
+ 93AG c  CUT$Literature available up to July 31, 2016 has been consulted.       
+ 93AG C  CIT$ENSDF                                                              
+ 93AG c  FUND$                                                                  
+                                                                                
+ 93AG    ADOPTED LEVELS                                          11NDS    201610
+ 93AG  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
  93AG  H TYP=FUL$AUT=CORAL M. BAGLIN$CIT=NDS 112, 1163 (2011)$CUT=15-Dec-2010$  
- 93AG  Q                       -1.5E3  SY-2.7E3  SY    2012WA38                 
- 93AG CQ Note: Current evaluation has used the following Q record               
- 93AG  Q                        -945   SY -2780  SY    2003AU03,2009AUZZ        
- 93AG CQ           ^S(p), QA: FROM 2009AUZZ (cf. -1430 780 (SYST.),             
- 93AG2CQ -1550 750 (SYST.), RESPECTIVELY, FROM  2003AU03).                      
- 93AG CQ           |DS(p)=780, |DQ(|a)=750 (2009AuZZ).                          
- 93AG CQ           Q(EC-P)=8875 600 FROM SYSTEMATICS (2009AUZZ) (cf. 9290 720   
- 93AG2CQ FROM SYSTEMATICS (2003AU03).                                           
- 93AG C  2008KRZW: 93AG FROM FRAGMENTATION OF 1 GEV/NUCLEON 124XE BEAM;         
- 93AG2C  FRAGMENT RECOIL SEPARATOR; DE, TOF AND MAGNETIC RIGIDITY MEASUREMENTS  
- 93AG3C  USED FOR FRAGMENT IDENTIFICATION; FRAGMENTS STOPPED IN SI IMPLANTATION 
- 93AG4C  DETECTOR AND BETA ABSORBER (^SIMBA).                                   
- 93AG C  1994HE28: A few events (AP 4 per 10{+14} 106CD ions), apparently       
- 93AG2C  corresponding to 93AG, were observed in                                
- 93AG3C  Ni+106CD, E(106CD)=60 MeV/^A using projectile fragment separator;      
- 93AG4C  however, the attribution of those events to contamination              
- 93AG5C  from neighboring peaks in the ^Z and Q spectra cannot be ruled out     
- 93AG6C  (1994He28).                                                            
- 93AG C  RECENT CALCULATIONS OF GS PROPERTIES: 1997HE24 (SHELL MODEL), 2001PA02 
- 93AG2C  (RELATIVISTIC MEAN FIELD), 2001LA01, 2002LA37 (RELATIVISTIC            
- 93AG3C  Hartree-Bogoliubov THEORY).                                            
- 93AG  L 0.0                                                                    
- 93AG2 L %EC+%B+=?$%ECP=?$%P=?                                                  
+ 93AG  Q              17120  CA -1510  SY -2660  SY    2012WA38,1997MO25        
+ 93AG cQ $Estimated uncertainties (2012Wa38): 710 for S(p), 620 for Q(|a)       
+ 93AG cQ $S(p) and Q(|a) from 2012Wa38, S(n) from 1997Mo25                      
+ 93AG cQ $S(2p)=2050 {I640}, Q(|ep)=9440 {I500} (syst,2012Wa38). S(2n)=31850    
+ 93AG2cQ (theory,1997Mo25)                                                      
+ 93AG c  The {+93}Ag isotope is expected to be unbound towards proton emission. 
+ 93AG c  1994He28: a few events (|?4 per 10{+14} {+106}Cd ions) were tentatively
+ 93AG2c  assigned to {+93}Ag in Ni({+106}Cd,X),E=60 MeV/nucleon using projectile
+ 93AG3c  fragment separator at NSCL-MSU facility; however, the attribution of   
+ 93AG4c  these events to contamination from neighboring peaks in the Z and Q    
+ 93AG5c  spectra could not be ruled out. The flight time through the separator, 
+ 93AG6c  was on the order of 150 ns.                                            
+ 93AG c  1995Ry03: few events were very tentatively assigned to {+93}Ag in      
+ 93AG2c  Ni({+112}Sn,X),E=58,62 MeV/nucleon using LISE3 separator at GANIL.     
+ 93AG3c  Time of flight was |?1.5 |ms.                                          
+ 93AG c  2008KrZW: {+93}Ag from fragmentation of 1 GeV/nucleon {+124}Xe beam;   
+ 93AG2c  fragment recoil separator at GSI; |DE, tof and magnetic rigidity       
+ 93AG3c  measurements used for fragment identification; fragments stopped in    
+ 93AG4c  Si implantation detector and |b absorber (SIMBA).                      
+ 93AG c  2016Ce02: {+93}Ag nuclide produced and identified at RIBF-RIKEN        
+ 93AG2c  facility in {+9}Be({+124}Xe,X) reaction at E=345 MeV/nucleon with an   
+ 93AG3c  average beam intensity of 30 pnA. Identification of {+93}Ag was made by
+ 93AG4c  determining atomic Z and mass-to-charge ratio A/Q, where Q=charge state
+ 93AG5c  of the ions. The selectivity of ions was based on magnetic rigidity,   
+ 93AG6c  time-of-flight and energy loss using BigRIPS separator and zero degree 
+ 93AG7c  spectrometer ZDS. The separated nuclei were implanted in a wide range  
+ 93AG8c  silicon-strip stopper array for ion and |b particle detection WAS3ABi, 
+ 93AG9c  consisting of three highly-segmented 1 mm thick double-sided silicon   
+ 93AGAc  detectors, a stack of ten segmented 1 mm thick single-sided silicon    
+ 93AGBc  strip detectors. The |g rays were detected by EURICA array of 84 HPGe  
+ 93AGCc  detectors surrounding the WAS3ABi system. In addition an array of 18   
+ 93AGDc  LaBr{-3}(Ce) detectors was used for |g detection in fast-timing        
+ 93AGEc  measurements. A total of 31 events were assigned to {+93}Ag.           
+ 93AGFc  2015MoZZ is a conference report from the same group as 2016Ce02        
+ 93AG c  Theoretical calculations of g.s. properties: 1997He24 (shell model),   
+ 93AG2c  2001Pa02 (relativistic mean field), 2001La01, 2002La37 (relativistic   
+ 93AG3c  Hartree-Bogoliubov theory).                                            
+ 93AG  L  0                             228 NS   16                             
+ 93AG2 L %P=? $ %EC+%B+=? $ %ECP=?                                              
+ 93AG cL $A total of 31 events were assigned to {+93}Ag by 2016Ce02, which are  
+ 93AG2cL assumed to correspond to the g.s. activity of {+93}Ag.                 
+ 93AG cL $Dominant proton decay mode of {+93}Ag is expected from S(p)=-1510 keV 
+ 93AG2cL {I710} (syst, 2012Wa38). Significant drop in number of observed counts 
+ 93AG3cL for {+93}Ag with respect to neighboring isotopes with the same         
+ 93AG4cL T{-z} value shows with 10|s confidence level that {+93}Ag is           
+ 93AG5cL proton emitter with T{-1/2} lower than or comparable to                
+ 93AG6cL time-of-flight through the separator (2016Ce02).                       
+ 93AG cL $Measured production |s=3.3 pb {I2} (2016Ce02)                         
+ 93AG cL J$9/2+ proposed from systematics (2012Au07), 7/2+ in 1997Mo25          
+ 93AG2cL theoretical calculations                                               
+ 93AG cL T$from 2016Ce02, based on assignment of 31 events to {+93}Ag and       
+ 93AG2cL measured time-of-flight, with the assumption that ratio of number of   
+ 93AG3cL identified events associated with nuclei of the same T{-z} is the same 
+ 93AG4cL as that for the neighboring T{-z} nuclei. For half-life of {+93}Ag,    
+ 93AG5cL N({+95}Cd)/N({+93}Ag)=N({+96}Cd)/N({+94}Ag) was used, with T{-z}=-1/2  
+ 93AG6cL for {+93}Ag and {+95}Cd and T{-z}=0 for {+94}Ag and {+96}Cd. Other:    
+ 93AG7cL |?1.5 |ms (1995Ry03)                                                   
+ 93AG cL T$theoretical |b-decay T{-1/2}=94 ms (1997Mo25). Systematic |b-decay   
+ 93AG2cL T{-1/2}=5 ms (2012Au07)                                                
                                                                                 

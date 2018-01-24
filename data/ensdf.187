@@ -18184,6 +18184,8 @@
 187TL  G  697.6     3 0.7     2                                                 
                                                                                 
 187PB    ADOPTED LEVELS, GAMMAS                                  09NDS    200905
+187PB  H TYP=MOD$AUT=M. S. Basunia$DAT=28-Nov-2016$COM=Revised level energies to
+187PB2 H adjust |g feeding to the GS or isomeric state at 33-keV$               
 187PB  H TYP=MOD$AUT=M. S. Basunia$DAT=17-Apr-2015$COM=Reordering of the gs     
 187PB2 H and isomeric-state$                                                    
 187PB  H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 110, 999 (2009)$CUT=1-Nov-2008$      
@@ -18196,9 +18198,7 @@
 187PB cG E         From ({+36}Ar,4n|g), except otherwise noted.                 
 187PB cG E(A)      From {+191}Po |a decay (22 ms)                               
 187PB cG E(B)      From {+191}Po |a decay (93 ms)                               
-187PB cL E         From a least-squares adjustment to the |g-ray energies,      
-187PB2cL except otherwise noted, holding the 33 keV 13 level fixed. |DE=1 keV   
-187PB3cL assumed for |g-rays without uncertainty.                               
+187PB cL E         From G-ray energies.                                         
 187PB cL J         Values given without comment are from ({+36}Ar,4n|g), based  
 187PB2cL on analogy with heavier odd-A Pb isotopes in which a sequence of three 
 187PB3cL stretched Q transitions connect the yrast 25/2+ state to a low-energy  
@@ -18212,7 +18212,7 @@
 187PB  XB191PO A DECAY (93 MS)                                                  
 187PB  XC155GD(36AR,4NG)                                                        
 187PB PN                                                                     6  
-187PB  L 0.0          (3/2-)             15.2 S  3                          A   
+187PB  L 0.0          (3/2-)             15.2 S  3                              
 187PBX L XREF=ABC  A                                                            
 187PB2 L %A=9.5 20                                                              
 187PB2 L %EC+%B+=90.5 20                                                        
@@ -18224,7 +18224,7 @@
 187PBxcL ground state.                                                          
 187PB cL T         measurement of 1981Mi12.                                     
 187PB cL           |D<r{+2}>({+187}Pb,{+208}Pb)=-0.993 {I10} fm{+2} (2007De09)  
-187PB  L 33        13 (13/2+)             18.3 S  3                          M1 
+187PB  L 33        13 (13/2+)             18.3 S  3                         AM1 
 187PB DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
 187PBX L XREF=A  ABC                                                            
 187PB2 L %A=12 2 (1999An36)$ %EC+%B+=88 2                                       
@@ -18241,21 +18241,20 @@
 187PB cL T         measurement of 1981Mi12. Other measured values:              
 187PB2cL 17.5 s {I36} (1972Ga27), 17 s {I4} (1974Le02).                         
 187PB cL           |D<r{+2}>({+187}Pb,{+208}Pb)=-1.025 {I10} fm{+2} (2007De09)  
-187PB  L 408.0     10 (3/2-)           10 NS     LT                         Z   
+187PB  L 375.0     10 (3/2-)           10 NS     LT                         Z   
 187PBX L XREF=A                                                                 
 187PB cL E         Relative to the 33 keV level. For absolute energy |DE=13 keV 
 187PB2cL of the 33 keV level should be considered in propagation.               
 187PB cL J         (|n p{-3/2})~#|p(2p-2h) configuration suggested in 1999An10. 
 187PB  G 375       1  100      (E0+M1+E2)              1.1    AP            A   
-187PB2 G FL=33                                                                  
 187PB cG M         From |a(K)exp=0.88 {I30} (2002An19)                          
 187PB cG CC        Estimated by the evaluator from |a(K)exp=0.88.               
-187PB  L 472.0     10 (9/2+)                                                    
+187PB  L 505.0     10 (9/2+)                                                    
 187PBX L XREF=B                                                                 
 187PB cL J$from 472|g (E2) to (13/2+) and HF of the 6909|a decay (2002An19).    
 187PB  G 472       1  100      (E2)                    0.0338               B   
 187PB cG M         from |a(K)exp|<0.06                                          
-187PB  L 494.0     10 (13/2+)          10 NS     LT                         Z   
+187PB  L 527.0     10 (13/2+)          10 NS     LT                         Z   
 187PBX L XREF=B                                                                 
 187PB cL J$from 494|g (M1) to (13/2+), HF, and the J|p of the parent nucleus    
 187PB2cL (2002An19). Possible configuration (|n i{-13/2})~#|p(2p-2h).           
@@ -18264,22 +18263,22 @@
 187PB  G 494       1  100      (M1)                    0.1115               B   
 187PB cG M         from |a(K)exp 0.076 {I20}                                    
 187PBB G BM1W>1.6E-5                                                            
-187PB  L 574       15 (9/2+)                                                    
+187PB  L 607       15 (9/2+)                                                    
 187PBX L XREF=B                                                                 
-187PB cL J         Based on the J|p=(13/2+) of 494 keV level and the (80|g) (E2)
+187PB cL J         Based on the J|p=(13/2+) of 527 keV level and the (80|g) (E2)
 187PB  G 80        15 100      (E2)                    2.E1   3                S
-187PB2 G FL=494.0                                                               
+187PB2 G FL=527.0                                                               
 187PB cG M,CC      From |a, |a|>10 (2002An19)                                   
-187PB  L 594.0     10                                                          ?
+187PB  L 627.0     10                                                          ?
 187PBX L XREF=B                                                                 
 187PB  G 594       1  100                                                   B  ?
-187PB  L 831.0     10 (17/2+)                                               A   
+187PB  L 864          (17/2+)                                               A   
 187PBX L XREF=C                                                                 
 187PB  G  831         100                                                       
-187PB  L 1247.0    15 (21/2+)                                               A   
+187PB  L 1280         (21/2+)                                               A   
 187PBX L XREF=C                                                                 
 187PB  G  416         100                                                       
-187PB  L 1723.0    18 (25/2+)                                               A   
+187PB  L 1756         (25/2+)                                               A   
 187PBX L XREF=C                                                                 
 187PB  G  476         100                                                       
                                                                                 

@@ -383,6 +383,55 @@
 195    R 2013SE03 JOUR PYLBB 719 362                                            
 195    R 2013UU01 JOUR PRVCA 87 064304                                          
                                                                                 
+195W     COMMENTS                                                         201612
+195W   H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=22-DEC-2016$                    
+195W  C  TITL$NUCLEAR DATA SHEETS FOR 195W                                      
+195W  c  AUTH$BALRAJ SINGH                                                      
+195W  c  INST$Department of Physics and Astronomy,                              
+195W #c       McMaster University, Hamilton, Ontario,                           
+195W #c       Canada, L8S 4M1                                                   
+195W  c  ABST$Information about the identification of {+195}W nuclide as        
+195W 2c  reported by 2012Ku26 and 2014Ku02 is presented.                        
+195W  c  CUT$Literature available up to Dec 22, 2016 has been consulted.        
+195W  c  ACKN$                                                                  
+195W  c  FUND$                                                                  
+195W  C  CIT$ENSDF                                                              
+                                                                                
+195W     ADOPTED LEVELS                                                   201612
+195W   H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=22-DEC-2016$                    
+195W   Q 4370      CA 4570   CA 10890  CA -1990  CA    1997MO25                 
+195W  cQ $S(2n)=11010, S(2p)=20400 from 1997Mo25 (theory).                      
+195W  c  2012Ku26: {+195}W produced and identified in {+9}Be({+238}U,F),        
+195W 2c  E=1 GeV/nucleon reaction using SIS-18 synchrotron facility at GSI.     
+195W 3c  Target=1.6 g/cm{+2} {+9}Be placed at the entrance of projectile        
+195W 4c  Fragment Separator (FRS). Particle identification was achieved by      
+195W 5c  event-by-event in-flight analysis of time-of-flight, energy loss       
+195W 6c  measurement, and magnetic rigidity (TOF-|DE'-B|r). Time-of-flight      
+195W 7c  measured using two plastic scintillation detectors, energy loss or     
+195W 8c  deposit by ionization chambers (MUSIC), and magnetic rigidity by four  
+195W 9c  time-projection chambers (TPC), which also provided energy deposit     
+195W Ac  information. Isomer tagging method for known |ms isomers was used      
+195W Bc  to verify event-by-event identification and in-flight separation of    
+195W Cc  new isotopes. Gamma rays from the known isomers were recorded in       
+195W Dc  coincidence with the incoming ions using either the RISING array of    
+195W Ec  Ge detectors at GSI or only two Ge detectors, a stopper foil and       
+195W Fc  a scintillator for veto signal. Measured production cross section.     
+195W Gc  Comparison of measured |s with predictions from ABRABLA model and      
+195W Hc  EPAX-3 model                                                           
+195W  c  2014Ku02: {+195}W produced in {+9}Be({+208}Pb,X),E=1 GeV/nucleon       
+195W 2c  at UNILAC-GSI facility using FRS separator. Method of identification   
+195W 3c  is similar to the one used in 2012Ku26 which used {+238}U beam at      
+195W 4c  GSI facility                                                           
+195W   L 0                              160 NS   GT                             
+195W 2 L %B-=?$                                                                 
+195W  cL $Only |b{+-} decay mode is expected. Q(|b{+-}n)=-1510 (theory,1997Mo25)
+195W  cL E$the observed {+195}W fragments assumed to correspond to the g.s.     
+195W  cL J$1/2- predicted (1997Mo25)                                            
+195W  cL T$limiting value from time-of-flight of 160 ns in 2012Ku26. Actual     
+195W 2cL |b-decay half-life is expected to be much longer as suggested by       
+195W 3cL 15.7 s from theoretical calculations (1997Mo25)                        
+195W  cL $Production |s=49 pb {I1} (2012Ku26)                                   
+                                                                                
 195RE    ADOPTED LEVELS                                          14NDS    201408
 195RE  H TYP=FUL$AUT=Huang Xiaolong and Kang Mengxiao$CIT=NDS 121, 395 (2014)$  
 195RE2 H CUT=1-Mar-2014$                                                        
@@ -7121,195 +7170,6 @@
 195HG  L 279         3/2-                                       0.05      LE    
 195HG  L 300         5/2-                                       0.09      LE    
                                                                                 
-195HG    (HI,XNG):SD                   1997HA01                  14NDS    201408
-195HG  H TYP=FUL$AUT=Huang Xiaolong and Kang Mengxiao$CIT=NDS 121, 395 (2014)$  
-195HG2 H CUT=1-Mar-2014$                                                        
-195HG c  1997Ha01: {+150}Nd({+48}Ca,4n|g) E=201 MeV; measured                   
-195HG2c  E|g, I|g, |g|g-coin, |g|g|g-coin, SD bands using GAMMASPHERE array (72 
-195HG2c  Compton-suppressed HPGe detectors).                                    
-195HG cG TI$Relative intensities within each band.                              
-195HG CL BAND(A)$ SD-1 BAND (1997Ha01), |a=+1/2.                                
-195HG CL BAND(B)$ SD-2 BAND (1997Ha01), |a=-1/2.                                
-195HG2cL SD-1 and SD-2 bands are interpreted (1997Ha01) as signature partners   
-195HG3cL based on |n9/2[624] orbital.                                           
-195HG CL BAND(C)$ SD-3 BAND (1997Ha01), |a=+1/2.                                
-195HG CL BAND(D)$ SD-4 BAND (1997Ha01), |a=-1/2.                                
-195HG2cL SD-3 and SD-4 bands are interpreted (1997Ha01) as signature partners   
-195HG3cL based on |nj{-15/2} intruder orbital.                                  
-195HG PN                                                                     5  
-195HG  L         X   J AP (25/2+)                                           A   
-195HG cL J$from 33/2 to 29/2 assignment for 333.9|g transition. Parity from     
-195HG2cL 9/2[624] orbital assignment                                            
-195HG  L   294.0+X 10 J+2                                                   A  ?
-195HG  G 294                                                                   ?
-195HG  L   627.9+X 10 J+4                                                   A   
-195HG cL J$ 333.9|g assigned as 33/2 to 29/2 (J+4 to J+2) transition based on   
-195HG2cL Harris expansion of moment of inertia versus angular frequency         
-195HG3cL (1997Ha01)                                                             
-195HG  G 333.9     1                                              0.64    7     
-195HG  L  1000.7+X 11 J+6                                                   A   
-195HG  G 372.8     3                                              1.07    30    
-195HG  L  1411.9+X 11 J+8                                                   A   
-195HG  G 411.2     3                                              0.65    8     
-195HG  L  1860.3+X 11 J+10                                                  A   
-195HG  G 448.4     1                                              0.86    7     
-195HG  L  2345.0+X 11 J+12                                                  A   
-195HG  G 484.7     1                                              0.96    9     
-195HG  L  2864.8+X 11 J+14                                                  A   
-195HG  G 519.8     1                                              0.92    10    
-195HG  L  3418.8+X 11 J+16                                                  A   
-195HG  G 554.0     1                                              1.01    9     
-195HG  L  4006.3+X 12 J+18                                                  A   
-195HG  G 587.5     2                                              1.00    9     
-195HG  L  4626.6+X 12 J+20                                                  A   
-195HG  G 620.3     3                                              1.06    10    
-195HG  L  5278.8+X 13 J+22                                                  A   
-195HG  G 652.2     3                                              1.05    9     
-195HG  L  5962.0+X 13 J+24                                                  A   
-195HG  G 683.2     2                                              0.70    7     
-195HG  L  6676.2+X 13 J+26                                                  A   
-195HG  G 714.2     3                                              0.62    8     
-195HG  L  7419.4+X 15 J+28                                                  A   
-195HG  G 743.2     8                                              0.41    7     
-195HG  L  8192.2+X 16 J+30                                                  A   
-195HG  G 772.8     4                                              0.34    4     
-195HG  L  8994.4+X 18 J+32                                                  A   
-195HG  G 802.2     9                                              0.32    4     
-195HG  L  9826.3+X 21 J+34                                                  A  ?
-195HG  G 832                                                                   ?
-195HG  L 10687.4+X 23 J+36                                                  A  ?
-195HG  G 861                                                                   ?
-195HG  L 11574.4+X 25 J+38                                                  A  ?
-195HG  G 887                                                                   ?
-195HG  L         Y   J AP (23/2+)                                           B   
-195HG cL J$from 27/2 to 23/2 assignment for 273.9|g transition. Parity from     
-195HG2cL 9/2[624] orbital assignment                                            
-195HG  L   273.9+Y 2  J+2                                                   B   
-195HG cL J$ 273.9|g assigned as 27/2 to 23/2 (J+2 to J) transition based on     
-195HG2cL Harris expansion of moment of inertia versus angular frequency         
-195HG3cL (1997Ha01)                                                             
-195HG  G 273.9     2                                             0.49     5     
-195HG  L   588.1+Y 2  J+4                                                   B   
-195HG  G 314.2     1                                             0.64     5     
-195HG  L   941.6+Y 3  J+6                                                   B   
-195HG  G 353.5     1                                             0.88     5     
-195HG  L  1333.8+Y 3  J+8                                                   B   
-195HG  G 392.2     1                                             0.92     5     
-195HG  L  1763.7+Y 3  J+10                                                  B   
-195HG  G 429.9     1                                             1.00     6     
-195HG  L  2230.6+Y 3  J+12                                                  B   
-195HG  G 466.9     1                                             0.94     5     
-195HG  L  2733.4+Y 4  J+14                                                  B   
-195HG  G 502.8     1                                             1.02     5     
-195HG  L  3271.0+Y 4  J+16                                                  B   
-195HG  G 537.6     1                                             1.05     6     
-195HG  L  3842.3+Y 4  J+18                                                  B   
-195HG  G 571.3     1                                             0.87     6     
-195HG  L  4446.5+Y 4  J+20                                                  B   
-195HG  G 604.2     1                                             1.04     7     
-195HG  L  5082.7+Y 6  J+22                                                  B   
-195HG  G 636.2     4                                             1.16     8     
-195HG  L  5750.8+Y 6  J+24                                                  B   
-195HG  G 668.1     1                                             1.08     7     
-195HG  L  6448.9+Y 6 J+26                                                   B   
-195HG  G 698.1     2                                             0.96     7     
-195HG  L  7177.2+Y 7  J+28                                                  B   
-195HG  G 728.3     2                                             0.69     5     
-195HG  L  7935.0+Y 7  J+30                                                  B   
-195HG  G 757.8     2                                             0.71     5     
-195HG  L  8722.2+Y 8  J+32                                                  B   
-195HG  G 787.2     3                                             0.54     5     
-195HG  L  9538.0+Y 12 J+34                                                  B   
-195HG  G 815.8     9                                             0.38     4     
-195HG  L 10383.0+Y 15 J+36                                                  B   
-195HG  G 845.0     9                                             0.16     3     
-195HG  L 11257.0+Y 18 J+38                                                  B  ?
-195HG  G 874                                                                   ?
-195HG  L         Z   J AP (21/2-)                                           C   
-195HG cL J$from 29/2 to 25/2 assignment for 284.5|g transition. Parity from     
-195HG2cL j{-15/2} orbital assignment                                            
-195HG  L   244.0+Z 10 J+2                                                   C  ?
-195HG  G 244                                                                   ?
-195HG  L   528.5+Z 10 J+4                                                   C   
-195HG cL J$ 284.5|g assigned as 29/2 to 25/2 (J+4 to J+2) transition based      
-195HG2cL on Harris expansion of moment of inertia versus angular frequency      
-195HG3cL (1997Ha01)                                                             
-195HG  G 284.5     1                                              0.76    5     
-195HG  L   853.5+Z 10 J+6                                                   C   
-195HG  G 325.0     1                                              0.92    6     
-195HG  L  1218.9+Z 11 J+8                                                   C   
-195HG  G 365.4     1                                              0.99    6     
-195HG  L  1624.2+Z 11 J+10                                                  C   
-195HG  G 405.3     1                                              0.93    6     
-195HG  L  2069.2+Z 11 J+12                                                  C   
-195HG  G 445.0     1                                              0.97    6     
-195HG  L  2553.7+Z 11 J+14                                                  C   
-195HG  G 484.5     1                                              0.99    6     
-195HG  L  3077.3+Z 11 J+16                                                  C   
-195HG  G 523.6     1                                              1.03    6     
-195HG  L  3639.4+Z 11 J+18                                                  C   
-195HG  G 562.1     1                                              0.82    7     
-195HG  L  4239.4+Z 11 J+20                                                  C   
-195HG  G 600.0     1                                              1.01    7     
-195HG  L  4876.6+Z 11 J+22                                                  C   
-195HG  G 637.1     4                                              1.00    9     
-195HG  L  5549.9+Z 11 J+24                                                  C   
-195HG  G 673.4     2                                              1.07    7     
-195HG  L  6258.6+Z 12 J+26                                                  C   
-195HG  G 708.7     4                                              1.12    9     
-195HG  L  7000.8+Z 15 J+28                                                  C   
-195HG  G 742.2     9                                              0.64    10    
-195HG  L  7776.9+Z 15 J+30                                                  C   
-195HG  G 776.1     3                                              0.54    4     
-195HG  L  8581.9+Z 16 J+32                                                  C   
-195HG  G 805.0     4                                              0.33    5     
-195HG  L  9411.0+Z 17 J+34                                                  C   
-195HG  G 829.1     6                                              0.22    4     
-195HG  L 10259.5+Z 18 J+36                                                  C   
-195HG  G 848.5     5                                              0.17    4     
-195HG  L 11127.5+Z 20 J+38                                                  C  ?
-195HG  G 868                                                                   ?
-195HG  L         U   J AP (31/2-)                                           D   
-195HG cL J$from 35/2 to 31/2 assignment for 341.9|g transition. Parity from     
-195HG2cL j{-15/2} orbital assignment                                            
-195HG  L   341.9+U 1  J+2                                                   D   
-195HG cL J$ 341.9|g assigned as 35/2 to 31/2 (J+2 to J) transition based on     
-195HG2cL Harris expansion of moment of inertia versus angular frequency         
-195HG3cL (1997Ha01)                                                             
-195HG  G 341.9     1                                              0.89    16    
-195HG  L   722.8+U 2  J+4                                                   D   
-195HG  G 380.9     1                                              1.06    22    
-195HG  L  1141.9+U 2  J+6                                                   D   
-195HG  G 419.1     1                                              0.81    16    
-195HG  L  1599.1+U 2  J+8                                                   D   
-195HG  G 457.2     1                                              1.00    16    
-195HG  L  2093.6+U 2  J+10                                                  D   
-195HG  G 494.5     1                                              1.03    16    
-195HG  L  2625.0+U 3  J+12                                                  D   
-195HG  G 531.4     1                                              0.90    17    
-195HG  L  3192.6+U 3  J+14                                                  D   
-195HG  G 567.6     1                                              0.97    18    
-195HG  L  3795.4+U 3  J+16                                                  D   
-195HG  G 602.8     1                                              1.00    18    
-195HG  L  4433.5+U 3  J+18                                                  D   
-195HG  G 638.1     1                                              1.02    21    
-195HG  L  5105.9+U 4  J+20                                                  D   
-195HG  G 672.4     2                                              1.12    22    
-195HG  L  5811.8+U 5  J+22                                                  D   
-195HG  G 705.9     2                                              1.00    26    
-195HG  L  6550.9+U 9  J+24                                                  D   
-195HG  G 739.1     8                                              0.75    20    
-195HG  L  7322.5+U 10 J+26                                                  D   
-195HG  G 771.6     2                                              0.64    18    
-195HG  L  8125.5+U 11 J+28                                                  D   
-195HG  G 803.4     5                                              0.40    16    
-195HG  L  8962.0+U 12 J+30                                                  D   
-195HG  G 836.1     5                                              0.38    15    
-195HG  L  9830.0+U 13 J+32                                                  D   
-195HG  G 868.0     6                                              0.38    17    
-195HG  L 10729.0+U 15 J+34                                                  D  ?
-195HG  G 899                                                                   ?
-                                                                                
 195HG    (HI,XNG)                      1998NE01,1991ME06,1986AGZZ14NDS    201408
 195HG  H TYP=FUL$AUT=Huang Xiaolong and Kang Mengxiao$CIT=NDS 121, 395 (2014)$  
 195HG2 H CUT=1-Mar-2014$                                                        
@@ -7815,6 +7675,195 @@
 195HG  G 305.7     5 31      5                                                  
 195HG cG           I|g(30|')/I|g(90|')=0.42 {I5} (1998Ne01)                     
 195HG  G 576.9     7 9       3                                                  
+                                                                                
+195HG    (HI,XNG):SD                   1997HA01                  14NDS    201408
+195HG  H TYP=FUL$AUT=Huang Xiaolong and Kang Mengxiao$CIT=NDS 121, 395 (2014)$  
+195HG2 H CUT=1-Mar-2014$                                                        
+195HG c  1997Ha01: {+150}Nd({+48}Ca,4n|g) E=201 MeV; measured                   
+195HG2c  E|g, I|g, |g|g-coin, |g|g|g-coin, SD bands using GAMMASPHERE array (72 
+195HG2c  Compton-suppressed HPGe detectors).                                    
+195HG cG TI$Relative intensities within each band.                              
+195HG CL BAND(A)$ SD-1 BAND (1997Ha01), |a=+1/2.                                
+195HG CL BAND(B)$ SD-2 BAND (1997Ha01), |a=-1/2.                                
+195HG2cL SD-1 and SD-2 bands are interpreted (1997Ha01) as signature partners   
+195HG3cL based on |n9/2[624] orbital.                                           
+195HG CL BAND(C)$ SD-3 BAND (1997Ha01), |a=+1/2.                                
+195HG CL BAND(D)$ SD-4 BAND (1997Ha01), |a=-1/2.                                
+195HG2cL SD-3 and SD-4 bands are interpreted (1997Ha01) as signature partners   
+195HG3cL based on |nj{-15/2} intruder orbital.                                  
+195HG PN                                                                     5  
+195HG  L         X   J AP (25/2+)                                           A   
+195HG cL J$from 33/2 to 29/2 assignment for 333.9|g transition. Parity from     
+195HG2cL 9/2[624] orbital assignment                                            
+195HG  L   294.0+X 10 J+2                                                   A  ?
+195HG  G 294                                                                   ?
+195HG  L   627.9+X 10 J+4                                                   A   
+195HG cL J$ 333.9|g assigned as 33/2 to 29/2 (J+4 to J+2) transition based on   
+195HG2cL Harris expansion of moment of inertia versus angular frequency         
+195HG3cL (1997Ha01)                                                             
+195HG  G 333.9     1                                              0.64    7     
+195HG  L  1000.7+X 11 J+6                                                   A   
+195HG  G 372.8     3                                              1.07    30    
+195HG  L  1411.9+X 11 J+8                                                   A   
+195HG  G 411.2     3                                              0.65    8     
+195HG  L  1860.3+X 11 J+10                                                  A   
+195HG  G 448.4     1                                              0.86    7     
+195HG  L  2345.0+X 11 J+12                                                  A   
+195HG  G 484.7     1                                              0.96    9     
+195HG  L  2864.8+X 11 J+14                                                  A   
+195HG  G 519.8     1                                              0.92    10    
+195HG  L  3418.8+X 11 J+16                                                  A   
+195HG  G 554.0     1                                              1.01    9     
+195HG  L  4006.3+X 12 J+18                                                  A   
+195HG  G 587.5     2                                              1.00    9     
+195HG  L  4626.6+X 12 J+20                                                  A   
+195HG  G 620.3     3                                              1.06    10    
+195HG  L  5278.8+X 13 J+22                                                  A   
+195HG  G 652.2     3                                              1.05    9     
+195HG  L  5962.0+X 13 J+24                                                  A   
+195HG  G 683.2     2                                              0.70    7     
+195HG  L  6676.2+X 13 J+26                                                  A   
+195HG  G 714.2     3                                              0.62    8     
+195HG  L  7419.4+X 15 J+28                                                  A   
+195HG  G 743.2     8                                              0.41    7     
+195HG  L  8192.2+X 16 J+30                                                  A   
+195HG  G 772.8     4                                              0.34    4     
+195HG  L  8994.4+X 18 J+32                                                  A   
+195HG  G 802.2     9                                              0.32    4     
+195HG  L  9826.3+X 21 J+34                                                  A  ?
+195HG  G 832                                                                   ?
+195HG  L 10687.4+X 23 J+36                                                  A  ?
+195HG  G 861                                                                   ?
+195HG  L 11574.4+X 25 J+38                                                  A  ?
+195HG  G 887                                                                   ?
+195HG  L         Y   J AP (23/2+)                                           B   
+195HG cL J$from 27/2 to 23/2 assignment for 273.9|g transition. Parity from     
+195HG2cL 9/2[624] orbital assignment                                            
+195HG  L   273.9+Y 2  J+2                                                   B   
+195HG cL J$ 273.9|g assigned as 27/2 to 23/2 (J+2 to J) transition based on     
+195HG2cL Harris expansion of moment of inertia versus angular frequency         
+195HG3cL (1997Ha01)                                                             
+195HG  G 273.9     2                                             0.49     5     
+195HG  L   588.1+Y 2  J+4                                                   B   
+195HG  G 314.2     1                                             0.64     5     
+195HG  L   941.6+Y 3  J+6                                                   B   
+195HG  G 353.5     1                                             0.88     5     
+195HG  L  1333.8+Y 3  J+8                                                   B   
+195HG  G 392.2     1                                             0.92     5     
+195HG  L  1763.7+Y 3  J+10                                                  B   
+195HG  G 429.9     1                                             1.00     6     
+195HG  L  2230.6+Y 3  J+12                                                  B   
+195HG  G 466.9     1                                             0.94     5     
+195HG  L  2733.4+Y 4  J+14                                                  B   
+195HG  G 502.8     1                                             1.02     5     
+195HG  L  3271.0+Y 4  J+16                                                  B   
+195HG  G 537.6     1                                             1.05     6     
+195HG  L  3842.3+Y 4  J+18                                                  B   
+195HG  G 571.3     1                                             0.87     6     
+195HG  L  4446.5+Y 4  J+20                                                  B   
+195HG  G 604.2     1                                             1.04     7     
+195HG  L  5082.7+Y 6  J+22                                                  B   
+195HG  G 636.2     4                                             1.16     8     
+195HG  L  5750.8+Y 6  J+24                                                  B   
+195HG  G 668.1     1                                             1.08     7     
+195HG  L  6448.9+Y 6 J+26                                                   B   
+195HG  G 698.1     2                                             0.96     7     
+195HG  L  7177.2+Y 7  J+28                                                  B   
+195HG  G 728.3     2                                             0.69     5     
+195HG  L  7935.0+Y 7  J+30                                                  B   
+195HG  G 757.8     2                                             0.71     5     
+195HG  L  8722.2+Y 8  J+32                                                  B   
+195HG  G 787.2     3                                             0.54     5     
+195HG  L  9538.0+Y 12 J+34                                                  B   
+195HG  G 815.8     9                                             0.38     4     
+195HG  L 10383.0+Y 15 J+36                                                  B   
+195HG  G 845.0     9                                             0.16     3     
+195HG  L 11257.0+Y 18 J+38                                                  B  ?
+195HG  G 874                                                                   ?
+195HG  L         Z   J AP (21/2-)                                           C   
+195HG cL J$from 29/2 to 25/2 assignment for 284.5|g transition. Parity from     
+195HG2cL j{-15/2} orbital assignment                                            
+195HG  L   244.0+Z 10 J+2                                                   C  ?
+195HG  G 244                                                                   ?
+195HG  L   528.5+Z 10 J+4                                                   C   
+195HG cL J$ 284.5|g assigned as 29/2 to 25/2 (J+4 to J+2) transition based      
+195HG2cL on Harris expansion of moment of inertia versus angular frequency      
+195HG3cL (1997Ha01)                                                             
+195HG  G 284.5     1                                              0.76    5     
+195HG  L   853.5+Z 10 J+6                                                   C   
+195HG  G 325.0     1                                              0.92    6     
+195HG  L  1218.9+Z 11 J+8                                                   C   
+195HG  G 365.4     1                                              0.99    6     
+195HG  L  1624.2+Z 11 J+10                                                  C   
+195HG  G 405.3     1                                              0.93    6     
+195HG  L  2069.2+Z 11 J+12                                                  C   
+195HG  G 445.0     1                                              0.97    6     
+195HG  L  2553.7+Z 11 J+14                                                  C   
+195HG  G 484.5     1                                              0.99    6     
+195HG  L  3077.3+Z 11 J+16                                                  C   
+195HG  G 523.6     1                                              1.03    6     
+195HG  L  3639.4+Z 11 J+18                                                  C   
+195HG  G 562.1     1                                              0.82    7     
+195HG  L  4239.4+Z 11 J+20                                                  C   
+195HG  G 600.0     1                                              1.01    7     
+195HG  L  4876.6+Z 11 J+22                                                  C   
+195HG  G 637.1     4                                              1.00    9     
+195HG  L  5549.9+Z 11 J+24                                                  C   
+195HG  G 673.4     2                                              1.07    7     
+195HG  L  6258.6+Z 12 J+26                                                  C   
+195HG  G 708.7     4                                              1.12    9     
+195HG  L  7000.8+Z 15 J+28                                                  C   
+195HG  G 742.2     9                                              0.64    10    
+195HG  L  7776.9+Z 15 J+30                                                  C   
+195HG  G 776.1     3                                              0.54    4     
+195HG  L  8581.9+Z 16 J+32                                                  C   
+195HG  G 805.0     4                                              0.33    5     
+195HG  L  9411.0+Z 17 J+34                                                  C   
+195HG  G 829.1     6                                              0.22    4     
+195HG  L 10259.5+Z 18 J+36                                                  C   
+195HG  G 848.5     5                                              0.17    4     
+195HG  L 11127.5+Z 20 J+38                                                  C  ?
+195HG  G 868                                                                   ?
+195HG  L         U   J AP (31/2-)                                           D   
+195HG cL J$from 35/2 to 31/2 assignment for 341.9|g transition. Parity from     
+195HG2cL j{-15/2} orbital assignment                                            
+195HG  L   341.9+U 1  J+2                                                   D   
+195HG cL J$ 341.9|g assigned as 35/2 to 31/2 (J+2 to J) transition based on     
+195HG2cL Harris expansion of moment of inertia versus angular frequency         
+195HG3cL (1997Ha01)                                                             
+195HG  G 341.9     1                                              0.89    16    
+195HG  L   722.8+U 2  J+4                                                   D   
+195HG  G 380.9     1                                              1.06    22    
+195HG  L  1141.9+U 2  J+6                                                   D   
+195HG  G 419.1     1                                              0.81    16    
+195HG  L  1599.1+U 2  J+8                                                   D   
+195HG  G 457.2     1                                              1.00    16    
+195HG  L  2093.6+U 2  J+10                                                  D   
+195HG  G 494.5     1                                              1.03    16    
+195HG  L  2625.0+U 3  J+12                                                  D   
+195HG  G 531.4     1                                              0.90    17    
+195HG  L  3192.6+U 3  J+14                                                  D   
+195HG  G 567.6     1                                              0.97    18    
+195HG  L  3795.4+U 3  J+16                                                  D   
+195HG  G 602.8     1                                              1.00    18    
+195HG  L  4433.5+U 3  J+18                                                  D   
+195HG  G 638.1     1                                              1.02    21    
+195HG  L  5105.9+U 4  J+20                                                  D   
+195HG  G 672.4     2                                              1.12    22    
+195HG  L  5811.8+U 5  J+22                                                  D   
+195HG  G 705.9     2                                              1.00    26    
+195HG  L  6550.9+U 9  J+24                                                  D   
+195HG  G 739.1     8                                              0.75    20    
+195HG  L  7322.5+U 10 J+26                                                  D   
+195HG  G 771.6     2                                              0.64    18    
+195HG  L  8125.5+U 11 J+28                                                  D   
+195HG  G 803.4     5                                              0.40    16    
+195HG  L  8962.0+U 12 J+30                                                  D   
+195HG  G 836.1     5                                              0.38    15    
+195HG  L  9830.0+U 13 J+32                                                  D   
+195HG  G 868.0     6                                              0.38    17    
+195HG  L 10729.0+U 15 J+34                                                  D  ?
+195HG  G 899                                                                   ?
                                                                                 
 195TL    ADOPTED LEVELS, GAMMAS                                  14NDS    201408
 195TL  H TYP=FUL$AUT=Huang Xiaolong and Kang Mengxiao$CIT=NDS 121, 395 (2014)$  

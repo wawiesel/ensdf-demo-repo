@@ -12756,3 +12756,44 @@
  96CD cL $ Production |s=5.5 pb {I14} (2008Ba53) from 274|+24 events assigned   
  96CD2cL to {+96}Cd                                                             
                                                                                 
+ 96IN    COMMENTS                                                ENSDF    201610
+ 96IN  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
+ 96IN C  TITL$NUCLEAR DATA SHEETS FOR 96IN                                      
+ 96IN c  AUTH$BALRAJ SINGH                                                      
+ 96IN c  INST$Department of Physics and Astronomy,                              
+ 96IN#c       McMaster University, Hamilton, Ontario,                           
+ 96IN#c       Canada, L8S 4M1                                                   
+ 96IN c  ABST$Production and identification of the {+94}Cd nuclide,             
+ 96IN2c  from 2016Ce02 is presented.                                            
+ 96IN c  CUT$Literature available up to July 31, 2016 has been consulted.       
+ 96IN C  CIT$ENSDF                                                              
+ 96IN c  FUND$                                                                  
+                                                                                
+ 96IN    ADOPTED LEVELS                                          ENSDF    201610
+ 96IN  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=31-JUL-2016$                    
+ 96IN  Q              15100  CA  -380  CA -4240  CA    1997MO25                 
+ 96IN cQ $S(2n)=33170, S(2p)=1570 (theory,1997Mo25)                             
+ 96IN c  2016Ce02: {+96}In nuclide produced and identified at RIBF-RIKEN        
+ 96IN2c  facility in {+9}Be({+124}Xe,X) reaction at E=345 MeV/nucleon with an   
+ 96IN3c  average beam intensity of 30 pnA. Identification of {+96}In was made by
+ 96IN4c  determining atomic Z and mass-to-charge ratio A/Q, where Q=charge state
+ 96IN5c  of the ions. The selectivity of ions was based on magnetic rigidity,   
+ 96IN6c  time-of-flight and energy loss using BigRIPS separator and zero degree 
+ 96IN7c  spectrometer ZDS. The separated nuclei were implanted in a wide range  
+ 96IN8c  silicon-strip stopper array for ion and |b particle detection WAS3ABi, 
+ 96IN9c  consisting of three highly-segmented 1 mm thick double-sided silicon   
+ 96INAc  detectors, a stack of ten segmented 1 mm thick single-sided silicon    
+ 96INBc  strip detectors. The |g rays were detected by EURICA array of 84 HPGe  
+ 96INCc  detectors surrounding the WAS3ABi system. In addition an array of 18   
+ 96INDc  LaBr{-3}(Ce) detectors was used for |g detection in fast-timing        
+ 96INEc  measurements.                                                          
+ 96IN d  Theoretical nuclear structure calculations: 2001La01, 1997He24         
+ 96IN  L  0                                                                     
+ 96IN2 L %P=? $ %EC+%B+=? $%ECP=?                                               
+ 96IN cL $decay mode assigned by the compiler as {+96}In is expected            
+ 96IN2cL to be proton-unbound nucleus from theoretical S(p)=-0.38 MeV (1997Mo25)
+ 96IN cL $A total of two events assigned to {+96}In in 2016Ce02 are             
+ 96IN2cL assumed by the evaluator to correspond to the g.s. activity of {+96}In 
+ 96IN cL $Theoretical |b-decay half-life=24.8 ms (1997Mo25)                     
+ 96IN cL J$1-8, |p=+ from proton in 9/2+ and neutron in 7/2+ orbital (1997Mo25) 
+                                                                                

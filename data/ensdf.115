@@ -3395,6 +3395,8 @@
 115IN  G 1486.099  11 0.28   1                                                  
                                                                                 
 115IN    115IN IT DECAY (4.486 H)      1974HA39                  12NDS    201210
+115IN  H TYP=MOD$AUT=S. Basunia$DAT=28-Nov-16$COM=Added %IG record for 336.241|g
+115IN2 H for accurate retrieval of absolute emission probability by ^NuDat$     
 115IN  H TYP=FMT$AUT=S. Basunia$DAT=13-Apr-16$COM=corrected N,PN records$       
 115IN  H TYP=FUL$AUT=JEAN BLACHOT$CIT=NDS 113, 2391 (2012)$CUT=1-Sep-2012$      
 115IN C  Source: 114CD(N,G) ion chem; 99.9% enriched 114CD                      
@@ -3416,6 +3418,7 @@
 115IN4CL 4.8 H (1968Bo28), 4.48 H (1965Sa09), 4.50 H 2 (1947Du03), 4.53 H       
 115IN5CL (1940La07)                                                             
 115IN  G 336.241   25 45.9   1 M4                      1.073  14                
+115IN2 G %IG=45.9 1                                                             
 115INS G KC=  0.866   $LC= 0.1826   $MC= 0.0372   $NC+=0.00823                  
 115IN CG E$from 1974HeYW                                                        
 115IN CG M$deduced from EKC, ECC, K/(L+M) data; upper limit E5                  
